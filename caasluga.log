@@ -1,0 +1,1906 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  27 AUG 2022 10:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**caasluga.tex
+(./caasluga.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/forest/forest.sty
+Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen139
+\pgfutil@tempdimb=\dimen140
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box50
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\pgf@xd=\dimen151
+\pgf@yd=\dimen152
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count194
+\c@pgf@countb=\count195
+\c@pgf@countc=\count196
+\c@pgf@countd=\count197
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count198
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count199
+\pgfsyssoftpath@bigbuffer@items=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count267
+\pgfmath@box=\box51
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count268
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box52
+\pgf@hbox=\box53
+\pgf@layerbox@main=\box54
+\pgf@picture@serial@count=\count269
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen176
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count270
+\pgf@shadingcount=\count271
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box55
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box56
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count272
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikz@lastmovetox=\dimen187
+\tikz@lastmovetoy=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box57
+\tikz@figbox@bg=\box58
+\tikz@tempbox=\box59
+\tikz@tempbox@bg=\box60
+\tikztreelevel=\count273
+\tikznumberofchildren=\count274
+\tikznumberofcurrentchild=\count275
+\tikz@fig@count=\count276
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count277
+\pgfmatrixcurrentcolumn=\count278
+\pgf@matrix@numberofcolumns=\count279
+)
+\tikz@expandcount=\count280
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box61
+\pgfnodeparttwobox=\box62
+\pgfnodepartthreebox=\box63
+\pgfnodepartfourbox=\box64
+\pgfnodeparttwentybox=\box65
+\pgfnodepartnineteenbox=\box66
+\pgfnodeparteighteenbox=\box67
+\pgfnodepartseventeenbox=\box68
+\pgfnodepartsixteenbox=\box69
+\pgfnodepartfifteenbox=\box70
+\pgfnodepartfourteenbox=\box71
+\pgfnodepartthirteenbox=\box72
+\pgfnodeparttwelvebox=\box73
+\pgfnodepartelevenbox=\box74
+\pgfnodeparttenbox=\box75
+\pgfnodepartninebox=\box76
+\pgfnodeparteightbox=\box77
+\pgfnodepartsevenbox=\box78
+\pgfnodepartsixbox=\box79
+\pgfnodepartfivebox=\box80
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersection
+s.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)
+\pgf@intersect@solutions=\count281
+) (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks29
+\pgfopts@list@add@b@toks=\toks30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+)
+(/usr/share/texlive/texmf-dist/tex/latex/elocalloc/elocalloc.sty
+Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box81
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/inlinedef/inlinedef.sty
+Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
+\ID@toks=\toks32
+\ID@count=\count284
+)
+\ID@usercommands=\toks33
+\safeloop@depth=\count285
+\safeRKloop@depth=\count286
+\forest@temp@dimen=\dimen191
+\forest@temp@count=\count287
+\forest@n=\count288
+\forest@temp@global@count=\count289
+\forest@temp@toks=\toks34
+\forest@temparray@M=\count290
+\forest@temparray@N=\count291
+\forest@global@temparray@M=\count292
+\forest@global@temparray@N=\count293
+\forest@isnum@count=\count294
+\forest@isdim@nonintpart=\count295
+\forest@isdim@dimen=\dimen192
+\forest@sort@m=\count296
+\forest@sort@k=\count297
+\forest@sort@p=\count298
+\bracket@content=\toks35
+\bracket@afterthought=\toks36
+\forest@node@maxid=\count299
+\forest@process@left@M=\count300
+\forest@process@left@N=\count301
+\forest@process@right@M=\count302
+\forest@process@right@N=\count303
+\forest@process@saved@M=\count304
+\forest@process@saved@N=\count305
+\forest@process@result@M=\count306
+\forest@process@result@N=\count307
+\forest@process@n=\count308
+\forest@nodewalk@branch@toks=\toks37
+\forest@nodewalk@shortsteps@resolution=\toks38
+\forest@do@dynamics=\toks39
+\forest@box=\box82
+\forest@xg=\dimen193
+\forest@yg=\dimen194
+\forest@xs=\dimen195
+\forest@ys=\dimen196
+\forest@pi@toks=\toks40
+\forest@segment@toks=\toks41
+\forest@PIi@toks=\toks42
+\forest@PIii@toks=\toks43
+\forest@copy@in=\read3
+\forest@copy@out=\write4
+\forest@externalize@max@outer@n=\count309
+\forest@externalize@inner@n=\count310
+)
+(/usr/share/texlive/texmf-dist/tex/latex/forest/forest-lib-linguistics.sty
+Package: forest-lib-linguistics 2017/07/14 v0.1.2
+\standardnodestrutbox=\box83
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks44
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count311
+\uc@combtoks=\toks47
+\uc@combtoksb=\toks48
+\uc@temptokena=\toks49
+)
+(/usr/share/texmf/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 3
+57.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+))))
+(/usr/share/texmf/tex/latex/tipa/tipx.sty
+Package: tipx 2003/01/01 TIPX version 1.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count312
+\c@Blindtext=\count313
+\c@blind@countparstart=\count314
+\blind@countxx=\count315
+\blindtext@numBlindtext=\count316
+\blind@countyy=\count317
+\c@blindlist=\count318
+\c@blindlistlevel=\count319
+\c@blindlist@level=\count320
+\blind@listitem=\count321
+\c@blind@listcount=\count322
+\c@blind@levelcount=\count323
+\blind@mathformula=\count324
+\blind@Mathformula=\count325
+\c@blind@randomcount=\count326
+\c@blind@randommax=\count327
+\c@blind@pangramcount=\count328
+\c@blind@pangrammax=\count329
+)
+(/usr/share/texlive/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
+
+(/usr/share/texlive/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count330
+\decimalpart=\count331
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+\AC@clearlist=\toks50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip63
+\f@nch@O@elh=\skip64
+\f@nch@O@erh=\skip65
+\f@nch@O@olh=\skip66
+\f@nch@O@orh=\skip67
+\f@nch@O@elf=\skip68
+\f@nch@O@erf=\skip69
+\f@nch@O@olf=\skip70
+\f@nch@O@orf=\skip71
+) (./caasluga.aux)
+\openout1 = `caasluga.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 22
+.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 22.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen197
+\scratchbox=\box84
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen198
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks52
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+T3\textscriptg already defined.
+
+fontencoding T3 patched
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+
+ []
+
+[2] [3] [4
+
+] (./caasluga.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5])
+\tf@toc=\write5
+\openout5 = `caasluga.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8
+
+]
+Boqonnaa 1.
+
+Overfull \hbox (0.94533pt too wide) in paragraph at lines 84--87
+\T1/cmr/m/n/10.95 kanaa caasluga AO gad-ifageenyaan ad-deessu-udha. Faayi-daan 
+isaas barnoota
+ []
+
+
+Overfull \hbox (0.95218pt too wide) in paragraph at lines 84--87
+\T1/cmr/m/n/10.95 Qabiyy-een isaas gadfageenya qaba; bu'uurrii isaas ho-ji-i-ww
+an hayy-oota biyya
+ []
+
+
+Underfull \vbox (badness 2564) has occurred while \output is active []
+
+ [9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10]
+Overfull \hbox (5.95393pt too wide) in paragraph at lines 111--113
+[]\T1/cmr/m/n/10.95 Faayidaan ki-taaba kanaa inni gud-daan akka ki-taaba barnoo
+ta caasluga
+ []
+
+
+Overfull \hbox (11.37686pt too wide) in paragraph at lines 123--129
+\T1/cmr/m/n/10.95 hafoo, raawwat-maa, gid-dugalaafi fu-filee gochi-mar-ratti fu
+faman gad fageenyaan
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11]
+Overfull \hbox (7.13069pt too wide) in paragraph at lines 130--134
+[]\T1/cmr/m/n/10.95 Kutaan sadii hir'ina yaax-i-naa AO bar-si-isuu qu-un-name f
+u-ruuf dhiyaate.
+ []
+
+
+Overfull \hbox (32.72664pt too wide) in paragraph at lines 136--141
+\T1/cmr/m/n/10.95 Griefcnow-Mewis (2001)fi waraqaaleen qo-ran-noo, looga Oro-mo
+o Wal-loo waraqaalee
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12]
+Boqonnaa 2.
+
+Overfull \hbox (0.6722pt too wide) in paragraph at lines 158--159
+[]\T1/cmr/m/n/10.95 Xinsaga jechuun maal jechu-udha? Saayin-siin xin-qooqaa sag
+aleewwan
+ []
+
+[13
+
+]
+Overfull \hbox (9.85037pt too wide) in paragraph at lines 171--174
+[]\T1/cmr/m/n/10.95 Toftaan dub-bii ykn bar-ruu qo-qqooduu kun himicha keessa s
+agaleewwan
+ []
+
+
+Overfull \hbox (0.59451pt too wide) in paragraph at lines 171--174
+\T1/cmr/m/n/10.95 meeqa akka ji-ran adda baasee agar-si-isa. Bar-ruun tokko sag
+aleewwan maaliin
+ []
+
+
+Overfull \hbox (29.44617pt too wide) in paragraph at lines 171--174
+\T1/cmr/m/n/10.95 akka ijaarame adda baafachuun ga'aa miti. Barataan xin-sagaa 
+tokko, sagaleewwan
+ []
+
+
+Overfull \hbox (1.09912pt too wide) in paragraph at lines 171--174
+\T1/cmr/m/n/10.95 adda baafate san-neen sagaleesse hubachuu qaba. Kana jechuun 
+sagaleewwan
+ []
+
+
+Overfull \hbox (4.54924pt too wide) in paragraph at lines 171--174
+\T1/cmr/m/n/10.95 keenyaaf jecha Ganamoon jedhu fud-han-nee jalqaba, gid-du-ufi
+ dhuma jechaatti
+ []
+
+
+Overfull \hbox (4.5916pt too wide) in paragraph at lines 171--174
+\T1/cmr/m/n/10.95 sagalee maal akka dhagge-ef-fanne dub-ban-nee ad-daan baafach
+uu keenya mirka-
+ []
+
+
+Overfull \hbox (5.0358pt too wide) in paragraph at lines 175--178
+\T1/cmr/m/n/10.95 kun-nee-nis amala dan-balii, amala dhage-ef-fan-noofi amala d
+ub-ban-nooti. Amalli
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14]
+Overfull \hbox (4.67863pt too wide) in paragraph at lines 181--185
+\T1/cmr/m/n/10.95 Qaamni sagalee dub-bii sagalee uumuuf ta-jaa-jila (fakkii fu-
+ula 12 ir-raa ilaalaa).
+ []
+
+
+Overfull \hbox (3.8211pt too wide) in paragraph at lines 181--185
+\T1/cmr/m/n/10.95 haa ta'u malee, qilleensa di-idaa gara som-baatti galu-u-nis 
+sagaleen ni'uumama.
+ []
+
+
+Overfull \hbox (8.76886pt too wide) in paragraph at lines 186--191
+\T1/cmr/m/n/10.95 lakkisan amaloota lama agar-si-isu. Amalli inni tokko ba-na-m
+anii qilleensa
+ []
+
+
+Overfull \hbox (25.97871pt too wide) in paragraph at lines 186--191
+\T1/cmr/m/n/10.95 am-moo ba-na-manii hol-lachaa ykn xi-ixaa qilleensa gadi lakk
+isu-udha.Qoonqoo
+ []
+
+
+Overfull \hbox (4.2749pt too wide) in paragraph at lines 192--197
+\T1/cmr/m/n/10.95 ixee arrabaa, fu-ul-dura arrabaa, qixxe-la-maan arrabaafi du-
+uba arrabaati.
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15]
+Overfull \hbox (14.17647pt too wide) in paragraph at lines 198--202
+\T1/cmr/m/n/10.95 afaanii qaama lal-laafaa du-uba harsassee jed-hamu qaba. Du-u
+bni harsassee
+ []
+
+
+Overfull \hbox (9.14833pt too wide) in paragraph at lines 212--214
+\T1/cmr/m/n/10.95 g-ufamaa yeroo dabar-suu sagaleen uuma-mum-moo xi-ixaa/qooqa 
+qabeessa
+ []
+
+
+Overfull \hbox (7.2895pt too wide) in paragraph at lines 212--214
+\T1/cmr/m/n/10.95 keessaa gara di-idaatti bahu waliin walqu-un-namtii god-huun 
+sagaleewwan
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16]
+Overfull \hbox (22.4794pt too wide) in paragraph at lines 215--217
+[]\T1/cmr/m/n/10.95 Bakkatti Sagaleen Uumamu: Sagaleewwan AO keessatti arga-man
+ bakkoota
+ []
+
+
+Overfull \hbox (0.89069pt too wide) in paragraph at lines 215--217
+\T1/cmr/m/n/10.95 walitti siqan uumama. AO keessatti sagaleewwan bakka kanatti 
+uuma-
+ []
+
+
+Overfull \hbox (0.66245pt too wide) in paragraph at lines 220--221
+[]\T1/cmr/m/n/10.95 Irgee: Sagaleen irgee yeroo arrab-ni-ifi irgeen walx-uqan u
+umama. Irgeefi
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17]
+Overfull \hbox (8.30952pt too wide) in paragraph at lines 231--232
+\T1/cmr/m/n/10.95 idaatti bahu bakka itti uuma-mur-ratti gu-u-tu-maan gu-u-tu-u
+tti dhowwamee
+ []
+
+
+Overfull \hbox (9.1203pt too wide) in paragraph at lines 233--234
+[]\T1/cmr/m/n/10.95 Lootuu: Sagaleen lootuu kan uumamu bakkoonni sagalee uuman 
+lamaan
+ []
+
+
+Overfull \hbox (30.0149pt too wide) in paragraph at lines 233--234
+\T1/cmr/m/n/10.95 walitti siqanii qilleensa gid-duu isaanii loosanii yeroo daba
+rsani. Sagaleewwan
+ []
+
+
+Overfull \hbox (0.21736pt too wide) in paragraph at lines 237--238
+\T1/cmr/m/n/10.95 yaansaa cuqqaalu-ud-haan sagaleewwan kan-neen sir-ri-itti sag
+leessuu hin-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[18]
+Overfull \hbox (13.75055pt too wide) in paragraph at lines 241--242
+[]\T1/cmr/m/n/10.95 Rom'aa: Rom'aan kan uumamu fi-ix-een arrabaa irgee xuqee yk
+n xuxxuqee
+ []
+
+
+Overfull \hbox (2.50081pt too wide) in paragraph at lines 249--250
+\T1/cmr/m/n/10.95 tootaafi dub-bachi-iftota. Akka ku-taa darbe keessatti huban-
+netti sagaleewwan
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[22
+
+]
+Boqonnaa 3.
+[23]
+Overfull \hbox (6.50558pt too wide) in paragraph at lines 292--293
+\T1/cmr/m/n/10.95 Fak-keeny-onni sagaleewwan jalatti eera-man, sa-galichi jalqa
+ba, gid-du-ufi dhuma
+ []
+
+
+Overfull \hbox (17.95709pt too wide) in paragraph at lines 299--328
+ [][] 
+ []
+
+
+Overfull \hbox (10.47145pt too wide) in paragraph at lines 330--331
+[]\T1/cmr/m/n/10.95 Sagaleewwan 20 am-moo jabaatanii bar-reef-famu. Sagaleewwan
+ 7 dachaa
+ []
+
+
+Overfull \hbox (1.89713pt too wide) in paragraph at lines 330--331
+\T1/cmr/m/n/10.95 waan ta'aniif akka sirna bar-reessuu AOtti jabaatanii hin-bar
+-reeffaman. Akka-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24]
+Overfull \hbox (17.95709pt too wide) in paragraph at lines 334--363
+[][] 
+ []
+
+
+Overfull \hbox (20.69395pt too wide) in paragraph at lines 366--367
+[]\T1/cmr/m/n/10.95 Addeessi dubb-i-fam-to-taa bakka, haalaafi dibbee sagaleer-
+ratti bu'uureffata.
+ []
+
+
+Overfull \hbox (6.50558pt too wide) in paragraph at lines 366--367
+\T1/cmr/m/n/10.95 Fak-keeny-onni sagaleewwan jalatti eera-man, sa-galichi jalqa
+ba, gid-du-ufi dhuma
+ []
+
+
+Overfull \hbox (5.26776pt too wide) in paragraph at lines 369--370
+[]\T1/cmr/m/n/10.95 Xiixaa, hidhlamee, cu-faa. Fkn, bani-jalqaba jechaar-ratti;
+ gobaa-gidduu
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[25]
+Overfull \hbox (7.91866pt too wide) in paragraph at lines 380--381
+[]\T1/cmr/m/n/10.95 Xiixaa, irgee, lootuu. Sagalee er-gisaati. Fkn,zayituuna- j
+alqaba jechaar-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[26]
+Overfull \hbox (33.06789pt too wide) in paragraph at lines 386--387
+[]\T1/cmr/m/n/10.95 Xiixaa, laagee, lootuu. Sagalee er-gisaati. Badaa hi-nargam
+u. Fkn,televizyinii-
+ []
+
+
+Overfull \hbox (5.57372pt too wide) in paragraph at lines 391--392
+[]\T1/cmr/m/n/10.95 Xiixaa, harsassee, cu-faa. Fkn, yoom- jalqaba; bayeessa- gi
+d-duu jechaar-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[27]
+Overfull \hbox (36.23732pt too wide) in paragraph at lines 401--402
+\T1/cmr/m/n/10.95 goota ta'uu isaanii ad-deessu-ud-hafi mirka-neessu-udha. Ad-d
+ad-dum-maan sagaleewwan
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[28]
+Overfull \hbox (3.39098pt too wide) in paragraph at lines 431--459
+\T1/cmr/m/n/10.95 tuu dubb-i-fam-toonni yeroo walitti aananii dh-u-fan dur-saaf
+i itti aanaa qabu.AO
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[29]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (19.18657pt too wide) in paragraph at lines 489--490
+[]\T1/cmr/m/n/10.95 Hundee jechaa ilaalcha keessa galchi-nee yoo ilaalle, irra 
+buta sagaleewwan
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[30]
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[31]
+Overfull \hbox (6.15752pt too wide) in paragraph at lines 507--508
+\T1/cmr/m/n/10.95 danda'a. Akaaku-uwwan sagaleewwan kun-neen firsga dham-sagich
+aati. Dham-
+ []
+
+
+Overfull \hbox (3.27177pt too wide) in paragraph at lines 512--513
+[]\T3/cmr/m/n/10.95 [r] \T1/cmr/m/n/10.95 qooqa qabeessa, irgee, rom'aa. Jecha 
+keessatti /n/ sagalee /r/dursee
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[32]
+Overfull \hbox (7.94554pt too wide) in paragraph at lines 515--516
+\T1/cmr/m/n/10.95 /k/n jalqabarra yoo dhufe afuura qabeessa ta'ee mul'ata; Fkn,
+[\T3/cmr/m/n/10.95 [k$[]$]\T1/cmr/m/n/10.95 utaa].
+ []
+
+
+Overfull \hbox (2.34251pt too wide) in paragraph at lines 520--521
+\T1/cmr/m/n/10.95 toota jabeessuun ku-nis hed-dum-mi-naan mul'ata. Kanaaf jabin
+-nii dubb-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[33]
+Overfull \hbox (0.53287pt too wide) in paragraph at lines 552--553
+\T1/cmr/m/n/10.95 dub-bachi-iftonni bak-keewwan sadi-itti qoodamu. Isaa-nis dub
+-bachi-iftota
+ []
+
+
+Overfull \hbox (10.3359pt too wide) in paragraph at lines 552--553
+\T1/cmr/m/n/10.95 ba-nama afaanii sagaaleewwan olii, gid-du-ufi gadii jed-hamu.
+ Sagaleewwan
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[34]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[35]
+Overfull \hbox (7.22243pt too wide) in paragraph at lines 586--587
+[]\T1/cmr/m/n/10.95 gad, walakkaa, dheeraa, hin'amartaa'u. Fkn, aarii-jalqaba; 
+maatii-
+ []
+
+
+Overfull \hbox (2.76378pt too wide) in paragraph at lines 596--597
+\T1/cmr/m/n/10.95 loomii, hid-heessuu, laages-suu, harsasseessuu, amar-teessuu,
+ fun-y-eessuu,
+ []
+
+
+Overfull \hbox (12.36685pt too wide) in paragraph at lines 596--597
+\T1/cmr/m/n/10.95 qooqa fud-hachuu, qooqa dhabuu, saaguu, wal-dar-buu (wal-jaa-
+fuu), haquu,
+ []
+
+
+Overfull \hbox (9.15945pt too wide) in paragraph at lines 601--602
+\T1/cmr/m/n/10.95 fam-tuu-tiin calqabu, jecha dubb-i-fam-tuu-tiin xu-mu-ra-mutt
+i yeroo maxxanu
+ []
+
+
+Overfull \hbox (1.98859pt too wide) in paragraph at lines 601--602
+\T1/cmr/m/n/10.95 Gosaga-loomii gar-duree kan jed-hamu yeroo sagaleen tokko sag
+alee isatti
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[36]
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[37]
+Overfull \hbox (4.64644pt too wide) in paragraph at lines 605--609
+[]\T1/cmr/m/n/10.95 Akkasumas gosaga-loom-mi-i-wwan gu-u-tu-ufi gamisaa jiru. G
+osaga-
+ []
+
+
+Overfull \hbox (3.74745pt too wide) in paragraph at lines 610--614
+[]\T1/cmr/m/n/10.95 Kana malees gosaga-loomiin gamisaa jira. Gosaga-loomii gami
+saa
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[38]
+Underfull \vbox (badness 6461) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[39]
+Overfull \hbox (1.65755pt too wide) in paragraph at lines 638--641
+[]\T1/cmr/m/n/10.95 Akkuma fak-keenya ar-maan oli-ir-ratti mul'atutti dubb-i-fa
+m-toonni
+ []
+
+
+Overfull \hbox (31.06462pt too wide) in paragraph at lines 653--655
+[]\T1/cmr/m/n/10.95 Akka fak-keeny-ota ar-maan olii ir-raa hubanutti /n/ n ol-l
+aa sagaleewwan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--664
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[40]
+Overfull \hbox (6.11319pt too wide) in paragraph at lines 677--678
+[]\T1/cmr/m/n/10.95 Dubbachiiftuu /a/n sagalee fun-y-eetti aan-tee dhuf-tee ama
+la funye
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[41]
+Overfull \hbox (13.66096pt too wide) in paragraph at lines 701--705
+\T1/cmr/m/n/10.95 lama ol ta'nii walitti aananii dh-u-fan gid-duu hud-haa galch
+u-udha. Akkuma
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[42]
+Overfull \hbox (6.2166pt too wide) in paragraph at lines 706--707
+\T1/cmr/m/n/10.95 ratti fu-fiin ra-mad-dii tokkof-faa hed-duu -ne wayita ida'am
+tu jechi /argne/
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[43]
+Overfull \hbox (35.48373pt too wide) in paragraph at lines 737--741
+\T1/cmr/m/n/10.95 akka-sumas /q/ fi /r/n bakka wal-i-jji-irani-iru. Bakka walji
+-jji-iruun sagaleewwanii
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--741
+
+ []
+
+
+Overfull \hbox (10.55449pt too wide) in paragraph at lines 746--747
+\T1/cmr/m/n/10.95 Haquu jechuun adeemsa dham-sagaa keessatti sagalee tokko jech
+a keessaa
+ []
+
+
+Underfull \vbox (badness 2744) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[44]
+Overfull \hbox (6.60062pt too wide) in paragraph at lines 755--756
+\T1/cmr/m/n/10.95 qabu ta'e bak-kichi duwwaa ta'uu danda'a; garuu dubb-i-fam-to
+ota lamaan
+ []
+
+
+Underfull \vbox (badness 7116) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[45]
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (8.3747pt too wide) in paragraph at lines 762--763
+\T1/cmr/m/n/10.95 Keessumat-tuu Owns fi Griefenow-Mewis qo-ran-noo xin-qooqaan 
+sadarkaa
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 764--787
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 788--803
+
+ []
+
+
+Overfull \hbox (8.12517pt too wide) in paragraph at lines 804--805
+\T1/cmr/m/n/10.95 Akka-sumas jid-duu jechaatti dubb-i-fam-toonni akaakuu adda a
+d-daa lamaa
+ []
+
+
+Overfull \hbox (2.20834pt too wide) in paragraph at lines 804--805
+\T1/cmr/m/n/10.95 dheer-aan bakka lamatti qoodamanii caasaa bir-sagaa adda ad-d
+aa keessa
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[48]
+Overfull \hbox (0.34593pt too wide) in paragraph at lines 806--807
+[]\T1/cmr/m/n/10.95 Caasaan bir-sagaa karaa irra dee-bii bir-sagaa ji-jji-ira-m
+uu danda'a.
+ []
+
+
+Overfull \hbox (17.48793pt too wide) in paragraph at lines 812--813
+[]\T1/cmr/m/n/10.95 AO olka'insaafi gad bu'insa sagaleetiin ji-jji-ir-raa hi-ik
+aa fiduu danda'a? 
+ []
+
+
+Overfull \hbox (13.9554pt too wide) in paragraph at lines 813--814
+[]\T1/cmr/m/n/10.95 AO ir-ratti hud-haan jalqaba jechaafi dhuma jechaa dhu-fuu 
+danda'aa?
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[49]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[50
+
+]
+Boqonnaa 4.
+[51]
+Overfull \hbox (2.77037pt too wide) in paragraph at lines 854--855
+[]\T1/cmr/m/n/10.95 Xindhamjechi qo-ran-noo je-chootaa ir-ratti xiyyf-fata. Akk
+aataatti
+ []
+
+
+Overfull \hbox (11.16754pt too wide) in paragraph at lines 858--859
+\T1/cmr/m/n/10.95 jechi unka qaba jechu-udha. Dham-jechi hi-ika qabeessa isa xi
+qqaadha
+ []
+
+
+Overfull \hbox (2.63937pt too wide) in paragraph at lines 858--859
+\T1/cmr/m/n/10.95 dhaab-batuun bak-keewwan lamatti qoodama. Akaaku-uwwan kun-
+ []
+
+
+Overfull \hbox (15.50708pt too wide) in paragraph at lines 860--861
+\T1/cmr/m/n/10.95 sun fu-fii fud-hachu-ufi dhi-isuu isaati-ini.Dhamjechi of-dan
+-da-han maqaa,
+ []
+
+
+Overfull \hbox (4.21555pt too wide) in paragraph at lines 860--861
+\T1/cmr/m/n/10.95 maqibsa, fi-room-see ykn Gochim-ibsa tahuu dan-daha. Fak-keen
+yaaf,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[52]
+Overfull \hbox (7.16566pt too wide) in paragraph at lines 862--863
+[]\T1/cmr/m/n/10.95 Dhamjecha hirkataa: dham-jechi hirkataan garuu fu-fii ofitt
+i ida'ata.
+ []
+
+
+Overfull \hbox (18.67082pt too wide) in paragraph at lines 864--865
+\T1/cmr/m/n/10.95 idaane gochima yeroo dabre keessatti raawwatame hubanna: adam
+se,
+ []
+
+
+Overfull \hbox (5.72656pt too wide) in paragraph at lines 864--865
+\T1/cmr/m/n/10.95 ta'aniif ra-mad-di-i-wwan hun-daaf ni-bay'atu; fkn, arge, ar-
+gite, argine,
+ []
+
+
+Overfull \hbox (18.41628pt too wide) in paragraph at lines 866--867
+[]\T1/cmr/m/n/10.95 Fufilee: fu-filee/maxxantoonni akkaataa ta-jaa-jila isaanit
+-tiin bakkoota
+ []
+
+
+Overfull \hbox (1.10985pt too wide) in paragraph at lines 868--869
+[]\T1/cmr/m/n/10.95 Fufileen hor-maataa: fu-fileen hor-maataa je-chootar-ratti 
+haala adda
+ []
+
+
+Overfull \hbox (17.90015pt too wide) in paragraph at lines 868--869
+\T1/cmr/m/n/10.95 maqib-safi gochi-mar-ratti ida'amu (bo-qon-naawwan 4, 5,6,7fi
+ 8 ilaalaa). 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[53]
+Overfull \hbox (5.64232pt too wide) in paragraph at lines 878--879
+\T1/cmr/m/n/10.95 mul'ataniif kan-neen lakkawwa-man ykn kan-neen hin-lakkwwamne
+s bakka
+ []
+
+
+Overfull \hbox (6.02689pt too wide) in paragraph at lines 880--881
+\T1/cmr/m/n/10.95 tokko dhu-un-faad-haan it-tiin waa-ma-mudha.Fakkeenyaaf Ab-ba
+yya maqaa
+ []
+
+
+Overfull \hbox (24.67383pt too wide) in paragraph at lines 880--881
+\T1/cmr/m/n/10.95 la-gaati. Maqaan na-maa adeemsa ykn ji-jji-irama siyaasaa, am
+an-tii,dinagdeefi
+ []
+
+
+Overfull \hbox (1.00931pt too wide) in paragraph at lines 880--881
+\T1/cmr/m/n/10.95 hawaa-sum-maa waliin walqa-ba-tee mog-gaafama.Fakkeenyaaf mog
+-gaasni
+ []
+
+
+Overfull \hbox (2.50276pt too wide) in paragraph at lines 880--881
+\T1/cmr/m/n/10.95 kan duri-iraa adda (Sin-qi-nesh,2010). Dhimma kana xin-noo ga
+d fageessi-
+ []
+
+
+Overfull \hbox (13.93195pt too wide) in paragraph at lines 880--881
+\T1/cmr/m/n/10.95 nee ilaaluun yaada kana qa-batama taa-sisa.Moggaasa maqaa daa
+'immanni
+ []
+
+
+Overfull \hbox (20.13138pt too wide) in paragraph at lines 880--881
+\T1/cmr/m/n/10.95 kan-nen akka An-keet, An-siif, Hor-renusiif kkf di-nagdee aga
+r-si-isu. Maqaaleen
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[54]
+Overfull \hbox (5.73917pt too wide) in paragraph at lines 882--887
+\T1/cmr/m/n/10.95 waan-ton-nifi kkf gam-taan it-tiin waa-ma-man.Fakkeenyaaf maq
+aalee waloo
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 904--905
+
+ []
+
+
+Overfull \hbox (6.12683pt too wide) in paragraph at lines 907--908
+[]\T1/cmr/m/n/10.95 Maqaa dud-haa: fu-fileen/maxxantoonni {-umma(a)}, {-oma},{-
+eenya}fi
+ []
+
+
+Overfull \hbox (3.86159pt too wide) in paragraph at lines 907--908
+\T1/cmr/m/n/10.95 Fak-keenyaaf je-chootni nam-ummaa, ijooll-ummaafi gooft-ummaa
+ haala
+ []
+
+
+Overfull \hbox (16.2642pt too wide) in paragraph at lines 907--908
+\T1/cmr/m/n/10.95 kanaan ijaara-man. Akka-sumas fu-fi-ileen {^^Ueenya},{-oma},{
+-ina} fi {^^Uinsa}
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[56]
+Overfull \hbox (0.19827pt too wide) in paragraph at lines 917--918
+\T1/cmr/m/n/10.95 matadureeti ta-jaa-jila. Fu-fii {^^Uuu} n maqaa mataduree uum
+uuf hundee
+ []
+
+
+Overfull \hbox (3.49284pt too wide) in paragraph at lines 919--920
+\T1/cmr/m/n/10.95 gochima ir-ratti fu-fileen {^^Uii} , {-umsa} fi {-aati} n max
+xanani uumama.
+ []
+
+
+Underfull \vbox (badness 1577) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[57]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[58]
+Overfull \hbox (30.34026pt too wide) in paragraph at lines 962--966
+\T1/cmr/m/n/10.95 Lakkoofsa hed-dum-mina yookiin qeen-tee agar-si-isuuf fu-fii 
+maqaa ir-ratti maxxansina.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 962--966
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--980
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[59]
+Overfull \hbox (12.3093pt too wide) in paragraph at lines 981--983
+[]\T1/cmr/m/n/10.95 Yeroo baayyee fu-fii {^^Ueen} wayita fu-famu sagaleen ni-ja
+baata.Fakkeenya,
+ []
+
+
+Overfull \hbox (5.55879pt too wide) in paragraph at lines 986--990
+\T1/cmr/m/n/10.95 maa jechuun namni dub-bat-tuufi namni dhagge-ef-fatu nama waa
+'een isaa/ishee
+ []
+
+
+Overfull \hbox (8.5474pt too wide) in paragraph at lines 986--990
+\T1/cmr/m/n/10.95 dub-batamu beeku jechu-udha. Yoo hin-beekne ta'e dhokataa jed
+-hama. Maqaan
+ []
+
+
+Overfull \hbox (0.33058pt too wide) in paragraph at lines 986--990
+\T1/cmr/m/n/10.95 nis maqaa dhokataan fu-fi-itiin dhokataa {Ø} qaba jechu-udha.
+ Garuu maqaan
+ []
+
+
+Overfull \hbox (0.30731pt too wide) in paragraph at lines 986--990
+\T1/cmr/m/n/10.95 tokko beeka-maa yoo dhi-iraaf fu-fii {-icha}, dubar-tiif {-it
+tii}maxxanfata. Fak-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 991--994
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 995--999
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[60]
+Overfull \hbox (2.04625pt too wide) in paragraph at lines 1000--1001
+[]\T1/cmr/m/n/10.95 Akkuma hi-moota ar-maan olii ir-raa arga-mutti, maqaan hat-
+toota jedhu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
+
+ []
+
+
+Overfull \hbox (6.10638pt too wide) in paragraph at lines 1006--1012
+\T1/cmr/m/n/10.95 4. Jechi dham-saga /n/tiin gochima yoo ta'e, fu-fii ma-ti-maa
+ homaa hin'ida'atu.
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[61]
+Overfull \hbox (3.04475pt too wide) in paragraph at lines 1023--1024
+\T1/cmr/m/n/10.95 dub-bachi-if-tuu dheer-ef-fa-tee {^^Uf} ida'achuun maayii ken
+-naa agar-si-isa. Maqaan
+ []
+
+
+Overfull \hbox (11.18097pt too wide) in paragraph at lines 1030--1031
+[]\T1/cmr/m/n/10.95 Akka fak-keeny-ota kana ir-raa huban-nutti maqaan dub-bachi
+-if-tuu dheeraa
+ []
+
+
+Overfull \hbox (1.44069pt too wide) in paragraph at lines 1030--1031
+\T1/cmr/m/n/10.95 dhu-maa qabu {-tiin/-dhaan}, maqaan dub-bachi-if-tuu gabaab-d
+uun fixu {^^Uan}
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[62] (./caasluga.aux) ) 
+Here is how much of TeX's memory you used:
+ 26358 strings out of 478287
+ 609046 string characters out of 5849289
+ 897054 words of memory out of 5000000
+ 44183 multiletter control sequences out of 15000+600000
+ 490424 words of font info for 75 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 121i,11n,118p,1907b,1410s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.e
+nc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></usr/share/texmf/fonts/ty
+pe1/fkr/tipa/tipa10.pfb></usr/share/texmf/fonts/type1/fkr/tipa/tipa8.pfb>
+Output written on caasluga.pdf (62 pages, 324498 bytes).
+PDF statistics:
+ 288 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

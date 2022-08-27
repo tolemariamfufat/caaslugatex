@@ -1,0 +1,41 @@
+\contentsline {chapter}{\numberline {1}Seensa}{9}{}%
+\contentsline {chapter}{\numberline {2}Xinsaga}{13}{}%
+\contentsline {subsubsection}{Qabiyyee}{13}{}%
+\contentsline {subsubsection}{Gaaffilee Ka'umsaa}{13}{}%
+\contentsline {section}{\numberline {2.1}Qaamolee sagalee dubbii}{15}{}%
+\contentsline {section}{\numberline {2.2}Dubbifamtoota}{16}{}%
+\contentsline {section}{\numberline {2.3}Dubbachiiftota}{19}{}%
+\contentsline {subsubsection}{Gaaffilee Boqonnichaa}{20}{}%
+\contentsline {chapter}{\numberline {3}Xindhamsaga}{23}{}%
+\contentsline {subsubsection}{Qabiyyee}{23}{}%
+\contentsline {section}{\numberline {3.1}Addeessa Dubbifamtootaa}{24}{}%
+\contentsline {subsection}{\numberline {3.1.1}Cimdii Dhamsagaa}{28}{}%
+\contentsline {subsection}{\numberline {3.1.2}Irra Buta}{30}{}%
+\contentsline {subsection}{\numberline {3.1.3}Dhamsagootaafi Firsagoota}{32}{}%
+\contentsline {subsection}{\numberline {3.1.4}Jabeessuu}{33}{}%
+\contentsline {section}{\numberline {3.2}Addeessa Dubbachiiftotaa}{34}{}%
+\contentsline {section}{\numberline {3.3}Adeemsa Dhamsagaa}{36}{}%
+\contentsline {subsection}{\numberline {3.3.1}Gosagaloomii/Firoommii}{37}{}%
+\contentsline {subsubsection}{Hidheessuu}{39}{}%
+\contentsline {subsubsection}{Laagessuu}{40}{}%
+\contentsline {subsubsection}{Harsasseessuu}{40}{}%
+\contentsline {subsubsection}{Amarteessuu}{41}{}%
+\contentsline {subsubsection}{Funyeessuu}{41}{}%
+\contentsline {subsubsection}{Qooqa Fudhachuu}{42}{}%
+\contentsline {subsubsection}{Qooqadhabuu}{42}{}%
+\contentsline {subsubsection}{Saaguu}{42}{}%
+\contentsline {subsubsection}{Waldabruu/Waljaafuu}{44}{}%
+\contentsline {subsubsection}{Haquu}{45}{}%
+\contentsline {subsubsection}{Algosagaloomuu}{45}{}%
+\contentsline {subsection}{\numberline {3.3.2}Caasaa Birsaga}{46}{}%
+\contentsline {subsubsection}{Gaaffilee Boqonnichaa}{49}{}%
+\contentsline {chapter}{\numberline {4}Xindhamjecha}{51}{}%
+\contentsline {subsection}{\numberline {4.0.1}Seensa}{51}{}%
+\contentsline {subsubsection}{Qabiyyee Boqonnaa}{51}{}%
+\contentsline {subsubsection}{Gaaffilee Ka'umsaa}{51}{}%
+\contentsline {section}{\numberline {4.1}Maqaa}{54}{}%
+\contentsline {subsection}{\numberline {4.1.1}Maqaa Dhalatoo}{56}{}%
+\contentsline {subsection}{\numberline {4.1.2}Maqaafi Korneyaa}{58}{}%
+\contentsline {subsection}{\numberline {4.1.3}Maqaafi Lakkoofsa}{59}{}%
+\contentsline {subsection}{\numberline {4.1.4}Maqaa Beekamaafi Dhokataa}{60}{}%
+\contentsline {subsection}{\numberline {4.1.5}Maayii Maqaa}{61}{}%
