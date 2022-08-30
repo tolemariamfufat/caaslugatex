@@ -16,15 +16,14 @@ Warning--entry type for "abera1982" isn't style-file defined
 --line 1 of file to.bib
 Warning--entry type for "biniyam1988" isn't style-file defined
 --line 96 of file to.bib
-I was expecting a `,' or a `}'---line 204 of file to.bib
- :  Title 
- :        = "Pronouns and Pronominalization in Oromo",
-I'm skipping whatever remains of this entry
 Warning--entry type for "kebede1994" isn't style-file defined
 --line 243 of file to.bib
-I was expecting a `,' or a `}'---line 310 of file to.bib
- :  Title 
- :        = "Sakatta’a Dhiyaannaa Unkaafi Caasaa Hennaa Barnoota AO Kitaaba Barataa Kutaa 11ffaafi 12ffaa Bara 2005 Qophaa’an Keessatti",
+Warning--entry type for "margaa2010" isn't style-file defined
+--line 309 of file to.bib
+I was expecting a `,' or a `}'---line 335 of file to.bib
+ : 
+ : @book{owens1985grammar,
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--entry type for "sinqinash2018" isn't style-file defined
 --line 374 of file to.bib
@@ -33,45 +32,45 @@ Warning--entry type for "temesgen1993" isn't style-file defined
 Warning--entry type for "wako1981" isn't style-file defined
 --line 454 of file to.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 17 entries,
+You've used 18 entries,
             6951 wiz_defined-function locations,
-            1348 strings with 12056 characters,
-and the built_in function-call counts, 25902 in all, are:
-= -- 3486
-> -- 181
-< -- 955
-+ -- 854
-- -- 36
-* -- 1322
-:= -- 4178
-add.period$ -- 75
-call.type$ -- 17
-change.case$ -- 289
+            1353 strings with 12236 characters,
+and the built_in function-call counts, 28379 in all, are:
+= -- 3826
+> -- 191
+< -- 1101
++ -- 992
+- -- 38
+* -- 1478
+:= -- 4674
+add.period$ -- 80
+call.type$ -- 18
+change.case$ -- 306
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 616
-empty$ -- 1195
-format.name$ -- 238
-if$ -- 5420
+cite$ -- 36
+duplicate$ -- 653
+empty$ -- 1265
+format.name$ -- 252
+if$ -- 5874
 int.to.chr$ -- 0
-int.to.str$ -- 51
+int.to.str$ -- 54
 missing$ -- 0
-newline$ -- 377
-num.names$ -- 136
-pop$ -- 606
+newline$ -- 399
+num.names$ -- 144
+pop$ -- 626
 preamble$ -- 1
-purify$ -- 68
+purify$ -- 72
 quote$ -- 0
-skip$ -- 2117
+skip$ -- 2304
 stack$ -- 0
-substring$ -- 968
-swap$ -- 342
-text.length$ -- 49
+substring$ -- 1111
+swap$ -- 361
+text.length$ -- 51
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1792
+type$ -- 1944
 warning$ -- 0
-while$ -- 88
+while$ -- 93
 width$ -- 0
-write$ -- 410
-(There were 2 error messages)
+write$ -- 434
+(There was 1 error message)

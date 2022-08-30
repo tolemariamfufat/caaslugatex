@@ -272,6 +272,31 @@ Lloret-Romanyach, M\BHBI R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Margaa%
+}{%
+Margaa%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+margaa2010}
+\APACinsertmetastar {%
+margaa2010}%
+\begin{APACrefauthors}%
+Margaa, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {Sakatta’a Dhiyaannaa Unkaafi Caasaa Hennaa Barnoota AO
+  Kitaaba Barataa Kutaa 11ffaafi 12ffaa Bara 2005 Qophaa’an Keessatti.}
+  {Sakatta’a dhiyaannaa unkaafi caasaa hennaa barnoota ao kitaaba barataa
+  kutaa 11ffaafi 12ffaa bara 2005 qophaa’an keessatti.}
+\newblock
+\APACaddressPublisher{Addis Ababa}{Addis Ababa Universitiy}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Owens%
 }{%
 Owens%
