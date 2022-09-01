@@ -11,66 +11,75 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: to.bib
+Database file #1: tol.bib
 Warning--entry type for "abera1982" isn't style-file defined
---line 1 of file to.bib
+--line 1 of file tol.bib
 Warning--entry type for "biniyam1988" isn't style-file defined
---line 96 of file to.bib
+--line 93 of file tol.bib
 Warning--entry type for "kebede1994" isn't style-file defined
---line 243 of file to.bib
+--line 237 of file tol.bib
 Warning--entry type for "margaa2010" isn't style-file defined
---line 309 of file to.bib
-I was expecting a `,' or a `}'---line 335 of file to.bib
+--line 302 of file tol.bib
+Warning--entry type for "sinqinash2018" isn't style-file defined
+--line 372 of file tol.bib
+I was expecting a `,' or a `}'---line 406 of file tol.bib
  : 
- : @book{owens1985grammar,
+ : @article{shibatani1985passives,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--entry type for "sinqinash2018" isn't style-file defined
---line 374 of file to.bib
-Warning--entry type for "temesgen1993" isn't style-file defined
---line 416 of file to.bib
 Warning--entry type for "wako1981" isn't style-file defined
---line 454 of file to.bib
+--line 430 of file tol.bib
+Repeated entry---line 438 of file tol.bib
+ : @book{tolemariam2009
+ :                     ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "temesgen1993" isn't style-file defined
+--line 444 of file tol.bib
+Illegal end of database file---line 451 of file tol.bib
+ : 
+ : 
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 18 entries,
+You've used 19 entries,
             6951 wiz_defined-function locations,
-            1353 strings with 12236 characters,
-and the built_in function-call counts, 28379 in all, are:
-= -- 3826
-> -- 191
-< -- 1101
-+ -- 992
-- -- 38
-* -- 1478
-:= -- 4674
-add.period$ -- 80
-call.type$ -- 18
-change.case$ -- 306
+            1357 strings with 12364 characters,
+and the built_in function-call counts, 30034 in all, are:
+= -- 4033
+> -- 201
+< -- 1186
++ -- 1070
+- -- 40
+* -- 1576
+:= -- 4991
+add.period$ -- 84
+call.type$ -- 19
+change.case$ -- 323
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 653
-empty$ -- 1265
-format.name$ -- 252
-if$ -- 5874
+cite$ -- 38
+duplicate$ -- 690
+empty$ -- 1335
+format.name$ -- 266
+if$ -- 6194
 int.to.chr$ -- 0
-int.to.str$ -- 54
+int.to.str$ -- 57
 missing$ -- 0
-newline$ -- 399
-num.names$ -- 144
-pop$ -- 626
+newline$ -- 421
+num.names$ -- 152
+pop$ -- 671
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 76
 quote$ -- 0
-skip$ -- 2304
+skip$ -- 2404
 stack$ -- 0
-substring$ -- 1111
-swap$ -- 361
-text.length$ -- 51
+substring$ -- 1194
+swap$ -- 378
+text.length$ -- 53
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1944
+type$ -- 2024
 warning$ -- 0
-while$ -- 93
+while$ -- 98
 width$ -- 0
-write$ -- 434
-(There was 1 error message)
+write$ -- 458
+(There were 3 error messages)

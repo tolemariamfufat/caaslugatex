@@ -14,63 +14,85 @@
 \contentsline {subsection}{\numberline {3.1.3}Dhamsagootaafi Firsagoota}{30}{}%
 \contentsline {subsection}{\numberline {3.1.4}Jabeessuu}{31}{}%
 \contentsline {section}{\numberline {3.2}Addeessa Dubbachiiftotaa}{32}{}%
-\contentsline {section}{\numberline {3.3}Adeemsa Dhamsagaa}{34}{}%
-\contentsline {subsection}{\numberline {3.3.1}Gosagaloomii/Firoommii}{34}{}%
-\contentsline {subsubsection}{Hidheessuu}{36}{}%
-\contentsline {subsubsection}{Laagessuu}{37}{}%
-\contentsline {subsubsection}{Harsasseessuu}{38}{}%
-\contentsline {subsubsection}{Amarteessuu}{38}{}%
-\contentsline {subsubsection}{Funyeessuu}{39}{}%
-\contentsline {subsubsection}{Qooqa Fudhachuu}{39}{}%
-\contentsline {subsubsection}{Qooqadhabuu}{40}{}%
-\contentsline {subsubsection}{Saaguu}{40}{}%
-\contentsline {subsubsection}{Waldabruu/Waljaafuu}{41}{}%
-\contentsline {subsubsection}{Haquu}{42}{}%
-\contentsline {subsubsection}{Algosagaloomuu}{42}{}%
-\contentsline {subsection}{\numberline {3.3.2}Caasaa Birsaga}{43}{}%
-\contentsline {subsubsection}{Gaaffilee Boqonnichaa}{46}{}%
-\contentsline {chapter}{\numberline {4}Xindhamjecha}{47}{}%
-\contentsline {subsection}{\numberline {4.0.1}Seensa}{47}{}%
-\contentsline {subsubsection}{Qabiyyee Boqonnaa}{47}{}%
-\contentsline {subsubsection}{Gaaffilee Ka'umsaa}{47}{}%
-\contentsline {section}{\numberline {4.1}Maqaa}{50}{}%
-\contentsline {subsection}{\numberline {4.1.1}Maqaa Dhalatoo}{52}{}%
-\contentsline {subsection}{\numberline {4.1.2}Maqaafi Korneyaa}{53}{}%
-\contentsline {subsection}{\numberline {4.1.3}Maqaafi Lakkoofsa}{54}{}%
-\contentsline {subsection}{\numberline {4.1.4}Maqaa Beekamaafi Dhokataa}{56}{}%
-\contentsline {subsection}{\numberline {4.1.5}Maayii Maqaa}{57}{}%
-\contentsline {subsubsection}{Gaaffilee Kutichaa}{59}{}%
-\contentsline {section}{\numberline {4.2}Maqibsa}{60}{}%
-\contentsline {subsection}{\numberline {4.2.1}Maqibsa Dhalatoo}{61}{}%
-\contentsline {subsection}{\numberline {4.2.2}Maqibsa, lakkoofsafi korneyaa}{61}{}%
-\contentsline {subsubsection}{Gaaffilee kutichaa}{62}{}%
-\contentsline {section}{\numberline {4.3}Agarsiistotaafi Lakkoofsota}{62}{}%
-\contentsline {subsection}{\numberline {4.3.1}Agarsiistota}{62}{}%
-\contentsline {subsubsection}{Agarsiistota Dhiyeenyaa}{62}{}%
-\contentsline {subsubsection}{ Agarsiistotaa Fageenyaa}{63}{}%
-\contentsline {subsection}{\numberline {4.3.2}Lakkoofsa}{64}{}%
-\contentsline {subsubsection}{Lakkoofsa Hammamtaa}{64}{}%
-\contentsline {subsubsection}{Lakkoofsa Meeqantaa}{65}{}%
-\contentsline {subsubsection}{Gaaffilee kutichaa}{65}{}%
-\contentsline {section}{\numberline {4.4}Bamaqaalee}{66}{}%
-\contentsline {subsection}{\numberline {4.4.1} Bamaqaalee Qabeentaa}{67}{}%
-\contentsline {subsubsection}{Bamaqaalee Gaaffii}{67}{}%
-\contentsline {subsubsection}{Bamaqaalee Ofiifee}{69}{}%
-\contentsline {subsubsection}{Bamaqaalee Garlamee}{69}{}%
-\contentsline {subsubsection}{Bamaqaalee Agarsiistuu}{69}{}%
-\contentsline {subsubsection}{Gaaffilee kutichaa}{70}{}%
-\contentsline {section}{\numberline {4.5}Gochima}{70}{}%
-\contentsline {subsection}{\numberline {4.5.1}Ramaddii Gochimarratti}{70}{}%
-\contentsline {subsection}{\numberline {4.5.2}Hennaa}{71}{}%
-\contentsline {subsubsection}{Seensa}{71}{}%
-\contentsline {subsubsection}{Hennaa Salphaa}{72}{}%
-\contentsline {paragraph}{Aldhumataa}{73}{}%
-\contentsline {paragraph}{Ajajaa}{73}{}%
-\contentsline {paragraph}{Dhumataa}{73}{}%
-\contentsline {subsubsection}{Hennaa Dachaa}{74}{}%
-\contentsline {paragraph}{Raawwima Ammeennaa}{74}{}%
-\contentsline {paragraph}{Raawwima Dabreennaa}{75}{}%
-\contentsline {paragraph}{Amsiqaa}{76}{}%
-\contentsline {paragraph}{Tarsiqaa}{77}{}%
-\contentsline {paragraph}{Murannaa}{78}{}%
-\contentsline {section}{Kitaabilee Wabii}{80}{}%
+\contentsline {subsection}{\numberline {3.2.1}Faca'insa Dubbachiiftotaa}{34}{}%
+\contentsline {subsection}{\numberline {3.2.2}Walmorkii Dubbachiiftotaa}{35}{}%
+\contentsline {section}{\numberline {3.3}Adeemsa Dhamsagaa}{35}{}%
+\contentsline {subsection}{\numberline {3.3.1}Gosagaloomii/Firoommii}{35}{}%
+\contentsline {subsubsection}{Hidheessuu}{37}{}%
+\contentsline {subsubsection}{Laagessuu}{38}{}%
+\contentsline {subsubsection}{Harsasseessuu}{39}{}%
+\contentsline {subsubsection}{Amarteessuu}{39}{}%
+\contentsline {subsubsection}{Funyeessuu}{40}{}%
+\contentsline {subsubsection}{Qooqa Fudhachuu}{40}{}%
+\contentsline {subsubsection}{Qooqadhabuu}{41}{}%
+\contentsline {subsubsection}{Saaguu}{41}{}%
+\contentsline {subsubsection}{Waldabruu/Waljaafuu}{42}{}%
+\contentsline {subsubsection}{Haquu}{43}{}%
+\contentsline {subsubsection}{Algosagaloomuu}{43}{}%
+\contentsline {subsection}{\numberline {3.3.2}Caasaa Birsaga}{44}{}%
+\contentsline {subsubsection}{Gaaffilee Boqonnichaa}{47}{}%
+\contentsline {chapter}{\numberline {4}Xindhamjecha}{49}{}%
+\contentsline {subsection}{\numberline {4.0.1}Seensa}{49}{}%
+\contentsline {subsubsection}{Qabiyyee Boqonnaa}{49}{}%
+\contentsline {subsubsection}{Gaaffilee Ka'umsaa}{49}{}%
+\contentsline {section}{\numberline {4.1}Maqaa}{53}{}%
+\contentsline {subsection}{\numberline {4.1.1}Maqaa Dhalatoo}{54}{}%
+\contentsline {subsection}{\numberline {4.1.2}Maqaafi Korneyaa}{56}{}%
+\contentsline {subsection}{\numberline {4.1.3}Maqaafi Lakkoofsa}{57}{}%
+\contentsline {subsection}{\numberline {4.1.4}Maqaa Beekamaafi Dhokataa}{58}{}%
+\contentsline {subsection}{\numberline {4.1.5}Maayii Maqaa}{59}{}%
+\contentsline {subsubsection}{Gaaffilee Kutichaa}{61}{}%
+\contentsline {section}{\numberline {4.2}Maqibsa}{63}{}%
+\contentsline {subsection}{\numberline {4.2.1}Maqibsa Dhalatoo}{64}{}%
+\contentsline {subsection}{\numberline {4.2.2}Maqibsa, lakkoofsafi korneyaa}{64}{}%
+\contentsline {subsubsection}{Gaaffilee kutichaa}{64}{}%
+\contentsline {section}{\numberline {4.3}Agarsiistotaafi Lakkoofsota}{66}{}%
+\contentsline {subsection}{\numberline {4.3.1}Agarsiistota}{66}{}%
+\contentsline {subsubsection}{Agarsiistota Dhiyeenyaa}{66}{}%
+\contentsline {subsubsection}{ Agarsiistotaa Fageenyaa}{67}{}%
+\contentsline {subsection}{\numberline {4.3.2}Lakkoofsa}{68}{}%
+\contentsline {subsubsection}{Lakkoofsa Hammamtaa}{68}{}%
+\contentsline {subsubsection}{Lakkoofsa Meeqantaa}{68}{}%
+\contentsline {subsubsection}{Gaaffilee kutichaa}{69}{}%
+\contentsline {section}{\numberline {4.4}Bamaqaalee}{70}{}%
+\contentsline {subsection}{\numberline {4.4.1} Bamaqaalee Qabeentaa}{71}{}%
+\contentsline {subsubsection}{Bamaqaalee Gaaffii}{71}{}%
+\contentsline {subsubsection}{Bamaqaalee Ofiifee}{73}{}%
+\contentsline {subsubsection}{Bamaqaalee Garlamee}{73}{}%
+\contentsline {subsubsection}{Bamaqaalee Agarsiistuu}{73}{}%
+\contentsline {subsubsection}{Gaaffilee kutichaa}{74}{}%
+\contentsline {section}{\numberline {4.5}Gochima}{75}{}%
+\contentsline {subsection}{\numberline {4.5.1}Ramaddii Gochimarratti}{75}{}%
+\contentsline {subsection}{\numberline {4.5.2}Hennaa}{75}{}%
+\contentsline {subsubsection}{Seensa}{75}{}%
+\contentsline {subsubsection}{Hennaa Salphaa}{77}{}%
+\contentsline {paragraph}{Aldhumataa}{77}{}%
+\contentsline {paragraph}{Ajajaa}{77}{}%
+\contentsline {paragraph}{Dhumataa}{78}{}%
+\contentsline {subsubsection}{Hennaa Dachaa}{79}{}%
+\contentsline {paragraph}{Raawwima Ammeennaa}{79}{}%
+\contentsline {paragraph}{Raawwima Dabreennaa}{80}{}%
+\contentsline {paragraph}{Amsiqaa}{80}{}%
+\contentsline {paragraph}{Tarsiqaa}{81}{}%
+\contentsline {paragraph}{Murannaa}{82}{}%
+\contentsline {subsection}{\numberline {4.5.3}Tarree Gochimaa}{83}{}%
+\contentsline {subsection}{\numberline {4.5.4}Gochima Dhalatoo}{84}{}%
+\contentsline {subsubsection}{Gochimaa Taasisuu}{85}{}%
+\contentsline {subsubsection}{Gochima Gidduugalaa}{86}{}%
+\contentsline {subsubsection}{Gochima Raawwatamaa}{87}{}%
+\contentsline {subsubsection}{Gochimaa Irradeebii}{87}{}%
+\contentsline {subsubsection}{Makoo Gochima Dhalatoo}{88}{}%
+\contentsline {subsubsection}{Gochima Tiishoo}{88}{}%
+\contentsline {subsection}{\numberline {4.5.5}Gochima Tahuu/Ta'uu}{89}{}%
+\contentsline {subsection}{\numberline {4.5.6}Gochima Qabeenyaa}{90}{}%
+\contentsline {subsubsection}{Gaaffilee Boqonnichaa }{90}{}%
+\contentsline {subsection}{\numberline {4.5.7}Jechoota Tajaajilaa}{92}{}%
+\contentsline {subsubsection}{Durduubee}{92}{}%
+\contentsline {subsubsection}{Walqabsiistota}{93}{}%
+\contentsline {subsubsection}{Xiyyeeffannoo}{95}{}%
+\contentsline {subsubsection}{Gaaffilee Kutichaa }{97}{}%
+\contentsline {section}{\numberline {4.6}Gochimibsa}{98}{}%
+\contentsline {subsubsection}{Gaaffilee Boqonnichaa}{99}{}%
+\contentsline {chapter}{\numberline {5}Caashima}{101}{}%
+\contentsline {subsection}{\numberline {5.0.1}Gaalee Maqaa}{102}{}%
+\contentsline {section}{Kitaabilee Wabii}{109}{}%

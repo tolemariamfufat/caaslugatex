@@ -370,6 +370,30 @@ Tolemariam%
 }{%
 Tolemariam%
 }{%
+{\protect \APACyear {2009}}%
+}]{%
+tolemariam2009}
+\APACinsertmetastar {%
+tolemariam2009}%
+\begin{APACrefauthors}%
+Tolemariam, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {A Typology of Verbal Derivation in Ethiopian Afro-Asiatic
+  Languages} {A typology of verbal derivation in ethiopian afro-asiatic
+  languages}.
+\newblock
+\APACaddressPublisher{}{Netherlands Graduate School of Linguistics}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tolemariam%
+}{%
+Tolemariam%
+}{%
 {\protect \APACyear {2011}}%
 }]{%
 tolemariam2011}
