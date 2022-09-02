@@ -3,6 +3,8 @@
 \renewcommand{\tablename}{Gabatee}
 \renewcommand{\figurename}{Caasaa}
 \usepackage[linguistics]{forest}
+\usepackage{tikz}
+\usepackage{tikz-qtree}
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{ragged2e}
@@ -23,7 +25,7 @@
 \usepackage{apacite,pslatex}
 \usepackage{float}
 \begin{document}
-\renewcommand\refname{Kitaabilee Wabii} 	
+\renewcommand\refname{Kitaabilee Wabii} 
 \begin{titlepage}
 \centering
 \thispagestyle{empty}
@@ -59,27 +61,55 @@ For my friends
 \newpage
 \section*{Gabaajeewwan}
 \begin{description}
-  \item[1]Ramaddii tokkoffaa
+    \item AO=Afaan Oromoo
+  \item BBO=Biiroo Barnoota Oromiyaa
+  \item C=Dubbifamtuu (Consonant)
+  \item CV=Dubbifamtuuf Dubbachiiftuu
+  \item D= Durduubee 
+  \item D=Durduubee
+  \item Dh.= Dhiira 
+  \item Du.= Dubartii 
+  \item Du.=Dubartii
+  \item f = Faana Gaalee
+  \item G.D.= Gamduubee 
+  \item G.D.=Gamduubee
+  \item G.Dho.= Gad dho’aa 
+  \item g.dho=Gad dho'aa
+  \item G=Gochima
+  \item G=Gochima 
+  \item GD= Gaalee Durduubee 
+  \item GD1=Gaalee Durduubee Xiqqaa
+  \item GDG= Gaalee Durduubee Guddaa 
+  \item GF=Gocha Fufaa 
+  \item GG1= Gaalee Gochimaa Xiqqaa 
+  \item GGG= Gaalee Gochimaa Guddaa 
+  \item GGM= Gaalee Maqaa Guddaa 
+  \item GIG= Gaalee Gochimibsaa
+  \item GIG1=Gaalee Gochimibsaa Xiqqaa
+  \item GIGG= Gaalee Gochimibsa Guddaa 
+  \item GIM= Gaalee Maqibsaa ix Gabaajeefi Mallattoo 
+  \item GIM1=Gaalee Maqibsaa Xiqqaa
+  \item GIMG= Gaalee Maqibsaa Guddaa 
+  \item GM= Gaalee Maqaa 
+  \item GM1= Gaalee Maqaa Xiqqaa 
+  \item Hed. = Hedduu 
+  \item Hed.=Hedduu
+  \item IM= Ibsa Maqaa/Maqibsa 
+  \item KATO=Komishinii Aadaafi Turzimii Oromiyaa
+  \item KATO=Komishinii Aadaafi Turzimii Oromiyaa 
+  \item M.X= Miti xiixaa 
+  \item M= Maqaa 
+  \item M=Maqaa
+  \item MU= Murteessituu 
+  \item MU=Murteessittuu
+  \item Qen. = Qeentee 
+  \item Qen.=Qeentee
+  \item V= Dubbachiiftuu (Vowel) 
+  \item V=Dubbachiiftuu
+  \item x.= Xiixaa 
   \item[2]Ramaddii lammaffaa
   \item[3]Ramaddii sadaffaa
-  \item[AO]Afaan Oromoo
-  \item[BBO]Biiroo Barnoota Oromiyaa
-  \item[C]Dubbifamtuu (Consonant)
-  \item[CV]Dubbifamtuuf Dubbachiiftuu
-  \item[D]Durduubee
-  \item[Du.]Dubartii
-  \item[G]Gochima
-  \item[g.dho]Gad dho'aa
-  \item[G.D.]Gamduubee
-  \item[Hed.]Hedduu
-  \item[MI]Maqibsa
-  \item[KATO]Komishinii Aadaafi Turzimii Oromiyaa
-  \item[m.x]Miti xiixaa
-  \item[M]Maqaa
-  \item[MU]Murteessittuu
-  \item[Qen.]Qeentee
-  \item[V]Dubbachiiftuu
-  \item[x.]xiixaa
+  \item[1]Ramaddii tokkoffaa
 \end{description}
 
 \chapter{Seensa}
@@ -2103,16 +2133,12 @@ d. Gochimibsa madaallii\\
 \newpage
 
 \chapter{Caashima}
-Boqonnaan kun caasaa gaaleefi himaa qaacceessa. Gaalee jechuun maal jechuudha? Gaaleen caasaadha. Seera
-afaanii keessatti caasaan gaalee unkaadha. Jechoonn walitti qindaa’anii caasaa gaalee uumu. Gaaleewwan ammoo walitti qindaa’anii caasaa himaa uumu. Egaa boqonnaa kana keessatti gadi fageenyaan kan ilaalluu caasaa gaalee qofa ta’a. 
-
-Akkuma beekamutti jechi garee shan qaba. Kunneenis maqaa, maqibsa, gochima, gochimibsa fi durduubee jedhamu. Gareen
-jechaa shanan kunneen bu’uura caasaa gaaleeti. Kana jechuun gaaleewwan akaakuu shantu jiru jechuudha. Isaanis gaalee maqaa, gaalee maqibsa, gaalee gochimaa, gaalee durduubee fi gaalee gochimibsaati. Gaaleen tokko hangafa ykn durabu’aa qaba. Hangafni gaalee maqaa maqaadha. Hangafni gaalee maqibsa ibsuma maqaati. Haaluma wal fakkaatuun hangafni gaalee gochima, gochima kkf. Mataa ykn hangafa gaalee jechuun jecha gaaleen sun irratti bu’uureffate, kan hafuu ykn haqamuu hinqabne jechuudha. Afaan tokko keessatti hangafni gaalee karaa bitaa ykn karaa mirgaa dhufa. Karaa bitaa ykn karaa mirgaa dhufaatiin hangafa gaalee afaan tokko isa biroorraa adda godha. Egaa walumaa galatti caasaa gaalee tokko ibsuuf mataa ykn hangafa gaalee sanaa baruuniifi karaa mirgaa ykn karaa bitaa dhufaatii isaa adda baasuun qabxii barbaachisaadha.
+Boqonnaan kun caasaalee gaaleefi himaa AO qaacceessa. Akkuma beekamutti jechi garee shan qaba. Kunneenis maqaa, maqibsa, gochima, gochimibsa fi durduubee jedhamu. Gareen jechaa shanan kunneen bu’uura caasaa gaaleeti. Kana jechuun gaaleewwan akaakuu shantu jiru jechuudha. Isaanis gaalee maqaa, gaalee maqibsa, gaalee gochimaa, gaalee durduubee fi gaalee gochimibsaati. Gaaleen tokko hangafa ykn durabu’aa qaba. Hangafni gaalee maqaa maqaadha. Hangafni gaalee maqibsa ibsuma maqaati. Haaluma wal fakkaatuun hangafni gaalee gochima, gochima kkf. Mataa ykn hangafa gaalee jechuun jecha gaaleen sun irratti bu’uureffate, kan hafuu ykn haqamuu hinqabne jechuudha. Afaan tokko keessatti hangafni gaalee karaa bitaa ykn karaa mirgaa dhufa. Karaa bitaa ykn karaa mirgaa dhufaatiin hangafa gaalee afaan tokko isa biroorraa adda godha. Egaa walumaa galatti caasaa gaalee tokko ibsuuf mataa ykn hangafa gaalee sanaa baruuniifi karaa mirgaa ykn karaa bitaa dhufaatii isaa adda baasuun qabxii barbaachisaadha.
 
 Caasaa gaalee sirriitiin qacessuuf qabxiin dagatamuu hinqabne inni gara biroon walitti dhufeenya jechoota gaalee keessatti argamanii hubachuudha. Walitti dhufeenya gaalee keessatti argamu karaa lama hubatama. Tokko, walitti dhufeenya hariroo jedhama. Walitti dhufeenya hariiroo kan jedhamu jechi ykn gaaleen tokko jechoota ykn gaalota bitaafi mirga jiran wajjin walittidhufeenya qabu jechuudha. Walitti dhufeeny inni lammaffan ammoo walitti dhufeenya sadarkaa jedhama. Walitti dhufeenya sadarkaa jechuun jechi tokko ykn gaaleen tokko
 jecha ykn gaalee biro wajjin ol-aantummaa fi gad-aantummaa inni qabu kan mul’isu jechuudha. Kana jechuunis jechi tokko ykn gaaleen tokko ol-aanaa ykn gad-aanaa gaalee biro ta’uu danda’a jechuudha. Walitti dhufeeny caasaa gaaleetiin agarsiisama. 
 
-\subsection{Gaalee Maqaa}
+\section{Gaalee Maqaa}
 Gaaleen maqaa bu'uurri ykn mataan isaa maqaadha. Ka'umsaafi caasaa gaalee maqaa armaan gadii haa ilaallu:\\
 
 \begin{figure}[H]
@@ -2130,7 +2156,7 @@ hariiroodha. Jechoonni lamaanuu walcinaatti argamu. Gaaleen maqaa (GM) nama dhee
 nama jedhuu fi maqibsa deeraa jedhuuti. Karaa jecha gara biro ammoo maqaan nama jedhu fi maqibsi dheeraa jedhu gad
 -aantota gaalee maqaa nama dheeraa jedhuuti.
 
-Seera gaalee keessatti gad-aanaan tokko ol-aantota lamaa fi lamaa ol qabaachuu hindanda’u. Yookiin ol-aantonni lama gadaanaa tokko qabaachuu hindanda’an. kana jechuun maqaan sadarkaa gad aanaa irru jiru ol aanaa tokko qofaatti hariiroo uummachuu qaba. Yoo olaantota lamatti hariiroo godhate hiikni gaalee waldha'aa ta'a. Fakkeenyaaf caasaawwan gaalee armaan gadii haa ilaallu:
+Seera gaalee keessatti gad-aanaan tokko ol-aantota lamaa fi lamaa ol qabaachuu hindanda’u. Yookiin ol-aantonni lama gadaanaa tokko qabaachuu hindanda’an. Kana jechuun maqaan sadarkaa gad aanaa irru jiru ol aanaa tokko qofaatti hariiroo uummachuu qaba. Yoo olaantota lamatti hariiroo godhate hiikni gaalee waldha'aa ta'a. Fakkeenyaaf caasaawwan gaalee armaan gadii haa ilaallu:
 \begin{figure}[H]										
 	\caption{Gaalee maqaa}
 	\centering
@@ -2152,7 +2178,7 @@ Akka armaan ol irratti mula’atu kana gaalee maqaa guddaa (GMG)n gad-aantota la
 (GM1) bitaafi mirgaa ti. GM1 (bitaa)n gad-aantota lama qabaa; isaanis daadhii fi damma dha. GM1s (mirga) akka gad
 aantotaatti dammaa fi durii qaba; damman ol aantota lama qabdi; kun sirrii miti; kan dogoggora taasises gad-aanaan tokko ol-aantota lama ykn maqaan dammaa jedhu ol-aantota GM1 (bitaa) fi GM1 (mirga) qabaachuudha.
 
-Waan kana ta'eefis hiikni isaa daadhii (dammaa) isa durii jechuu ta'a-xiyyeeffannoon daadhiidha; daadhii damma isa durii jechuus nita'a - xiyyeeffannoon daadhiidha. Adda hinbaasu. Waliin dha'a. Kana jechuun maal jechuudha? Kana jechuun hiikni gaalee kanaa ifa miti jechuudha. Daadhii durii jechuudha imoo damma durii jechuudha? Caasaa kan sirreessuuf akka armaan gadiitti fooyyessuu dandeenya. 
+Waan kana ta'eefis hiikni isaa daadhii (dammaa) isa durii jechuu ta'a-xiyyeeffannoon daadhiidha; daadhii damma\footnote{Gad fageenyaaf \cite{baye1986phrase} ilaalaa.} isa durii jechuus nita'a - xiyyeeffannoon daadhiidha. Adda hinbaasu. Waliin dha'a. Kana jechuun maal jechuudha? Kana jechuun hiikni gaalee kanaa ifa miti jechuudha. Daadhii durii jechuudha imoo damma durii jechuudha? Caasaa kan sirreessuuf akka armaan gadiitti fooyyessuu dandeenya. 
 
 \begin{figure}[H]										
 	\caption{Gaalee maqaa}
@@ -2297,6 +2323,700 @@ Gaalee maqaa keessatti jechoonni akka sana, kana, sanneenfi kanneen jedhan murte
 
 Fakkeenya armaan olitti eerame irraa akka hubachuu dandeenyutti murteessituun unkaa maqibsa qaba; kan inni
 argamus dhuma (karaa mirgaa) gaalee irratti.
+
+\subsubsection{Gaaffilee Kutichaa}
+1. Gaalee jechuun maal jechuudha?\\
+2. Ulaagaawwan gaaleen itti beekamu tarreessiitii tokko tokkoo isaanii fakkeenyaan ibsi.\\
+3. Hangafa gaalee maqaa jechuun maal jechuu akka ta'e ibsi.
+
+\section{Gaalee Maqibsa}
+Akkuma gaalee maqaa gaaleen maqibsas hangafa yookiin dura bu’aa qaba. Hangafni gaalee maqibsaa maqibsa mataasaati.
+Akkuma gaalee maqaa, gaaleen maqibsa sadarkaa guddina isaatiin gaalee guddaafi gaalee xiqqaa qaba. Gaalee maqibsa
+xiqqaa keessatti hangafa gaalee maqibsafi guuttuu hangafa gaalee maqibsa sanaatu argama. Kana jechuun garuu gaaleen
+maqibsaa dirqamaan guuttuu qabaachuu qaba jechuu miti. Hangafni gaalee maqaa guuttuudhaan hordofamuus dhiisuus
+nidanda’a. Karaa jecha gara biro gaaleen maqibsa kan guuttuu qabus kan guuttuu hinqabnes jira jechuudha. Kunis gaalee maqaa wajjin wal isa fakkeessa (gaaleen maqaas kan guuttuu qabuufi kan guuttuu hinqabne jira). Fakkeenyaaf maqibsa maqaa armaan gadii haa ilaallu:
+
+\begin{figure}[H]										
+	\caption{Gaalee maqibsaa}
+	\centering
+	\begin{forest}
+		[GMG
+			[GM1
+				[M [dubartii]]
+			]
+			[GIM
+				[IM [dheertuu]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Gaaleen maqibsa kun guuttuu hin qabu. Garuu gaaleen maqibsa dheertuu dubartii jedhu guuttu qaba.
+Guuttuun maqibsa kanas maqaa dubartii jedhudha. Caasaa gaalee maqibsa kanaa ammoo akka armaan gadiitti ilaaluu
+dandeenya. 
+
+\begin{figure}[H]										
+	\caption{Gaalee maqibsaa}
+	\centering
+	\begin{forest}
+		[GMG
+			[GIMG
+				[GIM1
+					[IM [dheertuu]]
+					[M [dubartii]]
+				]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Maqibsi guuttuu qofaa osoo hintaane gabbistootallee qaba. Gabbistuun Maqibsa akka ol-aanaa isaatti gaalee maqibsa
+gudduu qaba. Kana jechuunis gabbistuun maqibsa gaalee isa guuddaa keessaa ba’ee gaalee maqibsa xinnaa mul’isa
+jechuudha. Gabbistuun gaalee maqibsa gaalee durduubeti. Fakkeenyaaf:\\
+\\
+\underline{hamma abbaa isaa} sorreessa.\\
+
+\begin{figure}[H]										
+	\caption{Gaalee maqaa}
+	\centering
+	\begin{forest}
+		[GIMG
+			[GIM1
+				[GD [hamma abbaa isaa,roof]]
+				[IM [sooressa]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Fakkeeny armaan olitti jala murameeru gabbistuu gaalee maqibsati. Gabbistuun kun galee durduubeeti. Innis wan lama wal bira qabee madaaluun gaalee maqibsa gabbisa.
+
+\section{Gaalee Durduubeefi Gochimibsaa}
+
+Hangafni gaalee durduubee durduubeedha. Gaaleen durduubee xiqqaan guuttuu durduubee malee ijaaramuu hin
+danda’u. Kunis gaalee maqaa, gaalee maqibsafi gaalee gochima irraa adda isa godha. Haala guuttuu isaaniitiin durduubonni AO bakkeewwan sadiitti qoodamanii ilaalamu. Isaanis, durduubee gaalee maqaa guuttuu godhatu, durduubee hima guuttuu godhatuufi durduubee gaalee durduubee guuttuu godhatu jedhamu. Fakkeenyota armaan gadii keessatti
+durduubeen gaalee maqaa guuttuu godhata:\\
+\\
+a. Kumsaan \underline{gara mana qorichaa} deeme.\\
+b. Dhugumaan\underline{ akka abbaa isaa} gaarii dha.\\
+
+Himoota armaan olii keessatti gaaleewwan jala sararamaniiran gaaleewwan durduubeeti. Gaaleewwan durduubee kunneen
+hangafoota qabu. (a) irratti hangafni gaalee durduubee gara dha. (b) irratti ammoo hangafni gaalee durduubee akka dha.Gaaleewwan durduubee kunneen guuttotas qabu. (a) irratti guuttuun durduubee gaalee maqaa mana qorichaa jedhu yoo ta’u (b) irratti ammoo gaalee maqaa abbaa isaa jedhu. Gaaleewwan kanneen caasaatiin akka armaan gadiitti haa
+ilaallu: 
+
+\begin{figure}[H]										
+	\caption{Gaalee durduubee}
+	\centering
+	\begin{forest}
+		[GDG
+			[GD
+				[D [gara]]
+			]
+			[GMG [mana qorichaa,roof]]
+		]
+	\end{forest}
+\end{figure}
+
+\begin{figure}[H]										
+	\caption{Gaalee durduubee}
+	\centering
+	\begin{forest}
+		[GDG
+			[GD
+				[D [akka]]
+			]
+			[GMG [abbaa isaa,roof]]
+		]
+	\end{forest}
+\end{figure}
+
+Akka armaan olitti ilaalamu kana hangafni gaalee durduubee karaa harka bitaa dhufeera. Gaaleewwan durduubee warri
+armaan gaditti mul’atan ammoo hangafa gaalee karaa harka mirgaa fidu: \\
+\\
+a. Kitilaan \underline{abbaa isaa wajjin }dhufe.\\
+b. Cimdeessan \underline{hojii booda} farsoo dhuga.\\
+\\
+
+Armaan olitti gaaleewwan jala sararaman gaaleewwan durduubeeti. Durduubonni \textbf{wajjin} fi \textbf{booda} jedhan hangafoota gaaleewwan durduubeeti; isaanis karaa harkaa mirgaa dhufaniiru. Fakkeenyaafcaasaatin haa ilaallu:
+
+\begin{figure}[H]										
+	\caption{Gaalee durduubee}
+	\centering
+	\begin{forest}
+		[GDG
+			[GMG [abbaa isaa,roof]]
+			[GD
+				[D [wajjin]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Akaakuun durduubee lammaffaan durduubee isa hima guuttuu godhatu. Durduubeen gaalee maqaa qofaa osoo hintaane hima
+hirkataas guuttuu godhachuudhaan gaaleesaa ijaarrata. Mee fakkeenyota armaan gadii haa ilaallu:\\
+\\
+a. Siifan \underline{erga isheen deessee} rafte.\\
+b. \underline{Yommu Caaltuun dufte} Hundeessaan deeme.\\
+c. \underline{Yoo kana jedhe} soba jedhe.\\
+
+Himoota armaan olii irratti agarsiifaman keessa kanneen jala sararaman gaalee durduubee jedhamu. Gaaleewwan kanneen
+keessaa (a) irratti isheen deesse, (b) irratti Caaltuun dhuftefi (c) irratti kana jedhe kanneen jedhan himoota; himoonni kunneenis guuttota durduubeewwan erga, yoommufi yoo jedhaniiti, walduraaduubaan. Gaaleewwan kanneen keessaa tokko fudhannee mee caasaatiin haa ilaallu:
+
+\begin{figure}[H]										
+	\caption{Gaalee durduubee}
+	\centering
+	\begin{forest}
+		[GDG
+			[GD1
+				[GD [erga]]
+			]
+			[H [isheen deessee,roof]]
+		]
+	\end{forest}
+\end{figure}
+
+Akaakuun sadaffaan durduubee isa gaalee durduubee guuttuu godhatu. Gaaleewwan durduubee tokko tokko
+durduubeedhuma guuttuu godhatu. Kanas himoota armaan gadii keessaa kanneen jala sararamaniiran hubanna:\\
+\\
+a. \underline{Hamma manaatti} na gaggeesse.\\
+b. Obboleessi kee \underline{akka hangafaatti} na kabaje.\\
+c. Inni \underline{gara manaatti} dafee deebi’e.\\
+
+Himoota armaan olii irratti ilaalaman keessatti warri jala sararaman gaaleewwan durduubeeti. (a) irratti \textbf{hamma}, (b) irratti \textbf{akka}, (c) irratti \textbf{gara} hangafoota gaalee durduubeeti. Guuttuuwwan isaanii ammoo (a) irratti \textbf{manatti},(b) irratti \textbf{hangafaattifi} (c) irratti \textbf{manaatti} dha. Caasaa akaakuu gaalee kanaa fakkeenyaan haa ilaallu:
+
+\begin{figure}[H]										
+	\caption{Gaalee durduubee}
+	\centering
+	\begin{forest}
+		[GDG
+			[GD1
+				[D [hamma]]
+			]
+			[GDG
+				[GMG
+					 [GM1 [M [manaa]]]
+				]
+				[GD1
+					[D [-tti]]
+				]
+			]
+		]
+	\end{forest}
+\end{figure}
+ 
+ Gaaleen durduubee guuttuu qofaa osoo hintaane  murteessituus qaba. Galeen durduubee AO keessatti  murteessituu waan tokko hammam akka ta’e agarsiisuufi  murteessituu lakkoofsa agarsiisu qaba. Murteessituuwwan  kanneenis fakkeenyota armaan gadii irraa hubachuu dandeenya:\\
+ \\
+ a. \underline{Tarkaanfii sadii gara manaa} deemi.
+ b. Dabalaan \underline{baayyee rakkoo irra} jira.\\
+ 
+ Himoota armaan olii keessaa kanneen jala muramaniiran  gaalee durduubeeti; isaan keessaas (a) irratti \textbf{tarkaanfii sadii} murteessituu lakkoofsaa (b) irratti \textbf{baay’ee} murteessituu heddumminaati. (a) irratti \textbf{gara manaa} (b) irratti ammoo \textbf{rakkoo irra} kan jedhan gaaleewwan durduubeeti.
+  
+ \begin{figure}[H]										
+ 	\caption{Gaalee durduubee}
+ 	\centering
+ 	\begin{forest}
+ 		[GDG
+ 			[MU [baay'ee]]
+ 			[GD1
+ 				[GMG
+ 					[GM1
+ 						[M [rakkoo]]
+ 					]
+ 				]
+ 				[D [irra]]
+ 			]
+ 		]
+ 	\end{forest}
+ \end{figure}
+
+Gaaleen gochimibsaa caasaatiin akkuma gaalee durduubeetti ilaalama. Gaaleen Gochimibsa, akkuma gaaleewwan biroo, gaalee guddaafi gaalee xinnaa of keessaa qaba. Akkasumas gabbistootafi murteessitoota qabaachuu danda’a. Gochimibsi guuttuu malee, gaalee ijaarrachuu danda’uun isaa gaaleewwan biro irraa adda isa taasisa. Fakkeenyaaf himoota armaan gadii mee haa ilaallu:\\
+\\
+a. Dammeen \underline{daddaftee} fiigde.
+b. Dammeen \underline{Daraartuu caalaa daddaftee} fiigde. 
+
+ \begin{figure}[H]										
+	\caption{Gaalee durduubee}
+	\centering
+	\begin{forest}
+		[GIGG
+			[GDG
+				[GMG
+					[GM1
+						[M [Daraartuu]]
+					]
+				]
+				[GD1
+					[D [caalaa]]
+				]
+			]
+			[GIG1
+				[IG [daddaftee]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Akka fakkeenya armaan olitti tuqame irraa hubachuun danda’amutti \textbf{Daraartuu caalaa} kan jedhu gabbistuu yoo ta’u \textbf{daddaftee} kan jedhu ammoo mataa gaalee gochimibsati.
+
+As irraatti waan hubatamuu qabnu tokko, yeroo baay’ee gaaleen gochimibsaa, unkaa durduubee qabaatee mul’achuu
+isaati. Gaaleewwan gochimibsaa kanneen bakka, meeshaa, si’afi kkf agarsiisan unkaa gaalee durduubee gonfatanii dhufu. Kanaaf gaaleen durduubee tokko tajaajilaan gaalee gochimibsa
+ta’uu danda’a jechuudha.
+
+\section{Gaalee Gochimaa}
+
+Gochimni hangafa gaalee gochimaati. Gaaleen gochimaa qaamota adda addaarraa ijaaramuu danda’a. Qaamonni
+kunneenis gaalee maqaa, gaalee gochimibsa, gaalee maqibsa, gaalee durduubeefi himadha. Gochimni tokko qaamota kam
+kam waliin akka deemuuf akka hindeemne kan murteessu uumamafi amala gochima sanaati. Odeeffannoon uumaafi
+amala gochimaa kuusaa jechootaa keessa funaanama. Haala kanaan gochimni bakkeewwan hedduutti qoodama. Ammaaf
+garuu gochimoota akaakuu sadii qofaa irratti xiyyeeffanna. Isaanis gochima hafoo, gochima ce'aafi gochima taasisuuti. Fakkeenyaaf gochimni \textbf{rafe} jedhu hafoodaha; \textbf{jaallate} kan jedhu ammoo ce'aadha; \textbf{beeksise} kan jedhu taasisaadha. 
+
+\subsection{Gaalee Gochima Hafoo}
+Gochimni hafoo caasaa gaalee salphaa qaba. Fakkeenyaaf, \textbf{ gara manaa deeme} haa ilaallu. Asirratti
+gaaleen durduubee (GD) guuttuu gaalee gochimaa waan ta’eef gaalee gochimaa xiqqaa (GG1) keessaa ba’e. Caasaa kana fakkii mukeetiin akka armaan gadiitti mul’isuu dandeenya: 
+
+ \begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GDG
+				[GD1
+					[D [gara]]
+					[GMG
+						[GM1
+							[M [manaa]]
+						]
+					]
+				]
+			]
+			[GG1
+				[G [deeme]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+\subsection{Gaalee Gochima Ce'aa}
+Akaakuun gochimaa inni lammaffaa gochima ce'aadha. Gochimni ce'aan akaakuu lama qaba. Isaanis gochima guuttu
+tokko dirqiidhaan barbaaduufi gochima guuttuuwwan lama dirqiidhaan barbaadudha. Fakkeenyonni armaan gadii gochima
+ce'aa guuttuu tokko dirqiidhaan barbaadan agarsiisu. Fakkeenyota kanneen keessaa maqileen \textbf{caccabsaa} fi , \textbf{uccuu adii }njedhan guuttuuwwan. \\
+\\
+a. Musaan caccabsaa nyaate.\\
+b. Uumeen uccuu adii uffatte.\\
+\\
+Caasaa gaalee gochima ce'aa (b) akka armaan gadiitti kaa'uu dandeenya: 
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GG1
+				[GMG
+					[GM1
+						[M [uccuu]]
+						[GIMG
+							[GIM1
+								[IM [adii]]
+							]
+						]
+					]
+				]
+				[G [uffatte]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Akaakuun gaalee gochimaa biroon ammoo guuttuu tokko qofaa osoo hintaane guuttuuwwan lama barbaada. Gochimoonni
+kanneen akka kenne fi kaa’e jiran as keessatti ramadamu. Fakkeenyaaf himoota armaan gadii haa ilaallu: \\
+\\
+a. Fayyisaan kitaaba \underline{Tolasaaf kenne}.\\
+b. Uumeen \underline{qarshii saanduqa keessa keesse}. \\
+
+(a) fi (b) keessatti qaamonni jala sararaman gaaleewwan gochimaati. (a) irratti xumurri kenne jedhu guuttota lama
+qaba; isaanis antima kalatti kitaaba jedhuuf antima al kalatti Tolasaaf jedhu. (b) irrattis xumurri keesse jedhu antima kalatti qarshii jedhuuf antima al kalatti saanduqa jedhu qaba. Fakeenyota lamanuu keessatti gochimoonni antimoota lama lama qabu jechuudha. 
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GG1
+			[GMG
+				[GM1
+					[M [qarshii]]
+				]
+			]
+			[GDG
+				[GD1
+					[GMG
+						[GM1
+							[M [saanduqa]]
+						]
+					]
+					[D [keessa]]
+				]
+			]
+			[G [keesse]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+
+\subsection{Gaalee Gochima Taasisuu}
+Akaakuun gochimaa inni sadaffaan gochima taasisuu jedhama. Gochimni taasisuu akaakuu adda addatu jiru. Gochimni
+taasisuu inni salphaa jedhamu gochima hafoo gara gochima ce'aatti jijjiira. Fakkeenyaaf, \\
+\\
+a. Mucaan \underline{rafe}; \\
+b. Tolasaan \underline{mucaa raff-is-e}.\\
+b. Yaalaan \underline{Tolasaa-tiin mucaa raff-is-iis-e}. \\
+\\
+Himoota (a), (b) fi (c)keessatti akka hubachuu dandeenyutti gochimni \textbf{rafe} jedhu hafodha; \textbf{raff-is-e} inni jedhu ammoo ce'a/taasisaadha; \textbf{raff-is-iis-e }n taasisadha. Caasaa gaalee gochima taasisuu akka armaan gadiitti agarsiisuu dandeenya:
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GG1
+				[GMG
+					[GM1
+						[M [mucaa]]
+					]
+				]
+				[GG1
+					[G [raf-]]
+					[G [-is-e]]
+				]			
+			]
+		]
+	\end{forest}
+\end{figure}
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GDG
+				[GD1
+					[GMG
+						[GM1
+							[M [Tolasaa]]
+						]
+					]
+					[D [-tiin]]
+				]
+			]
+			[GG1
+				[GMG
+					[GM1
+						[M [mucaa]]
+					]
+				]
+				[GG1
+					[GG1
+						[G [raf-]]
+						[G [-is-]]
+					]
+					[G [-iis-e]]
+				]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+\subsection{Gochima Hima Guuttu Godhatu}
+Gochimooni tokko tokko hima guuttuu gochachuu filatu. Fakkeenyaaf himoota armaan gadii haa ilaallu: \\
+\\
+a. Kabaan \underline{akka Mootiin deeme} beeka.\\
+b. Soorettiin \underline{akka Boontuun dhufte} dhageesse.\\
+c. Tolasaan \underline{akka Garbaan fayye} arge.\\
+\\
+
+Fakkeenya caasaa (a) haa ilaallu:
+\\
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GG1
+				[H [akka Mootiin deeme,roof]]
+				[G [beeka]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Himoota armaan olii keessatti kanneen jala muraman himoota. Gochimootni kunneen \textbf{beeka}, \textbf{dhageesse} fi \textbf{arge} ti. Hundi isaanii gochimoota ceetuudha. Guuttonni isaanii himoota hirkatoodha. Kana malees gochimoonni \textbf{danda’a}, \textbf{jedhe} fi \textbf{gaafate}n hima guuttuu godhatu. \\
+\\
+a. Toobarraan \underline{uffata miicuu danda’a}.\\
+b. Kumsaan \underline{‘biyyi kee eessa?’ jedhe}.\\
+c. Kumsaan \underline{biyyi isaa eessa akka ta’e gaafate}.\\
+\\
+Himootni jala sararaman guuttuuwwan gochimoota \textbf{danda’a}, \textbf{jedhee} fi \textbf{gaafate} ti.\\
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GG1
+				[H ['biyyi kee eessa?,roof]]
+				[G[jedhe]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+
+Gaaleen gochimaa gabbistuufi murteessitus qaba. Kana jechuun gochimni gabbistu waliin dhufee gaalee gochimaa akka
+ijaara jechuudha. Gabbistoonni gochimaa, gochima waliin yoo dhufani gaalee gochimaa guddaa (GXG) keessaa ba’u.
+Gabbistoonni gochimaa, maqaa \textbf{gochimibsa} jedhuun beekamu. 
+
+Gochimibsoonni kanneen akka bakka, yeroo, akkaataa, akeekaa, meeshaafi kkf agarsiisan gochima waliin dhufanii gaalee gochimaa ijaaru. Gochimibsi unkaatiin akka gaalee durduubeetti tajaajilu garuu akka gaalee gochimibsa ta’e dhufuu dnada’a.\\
+\\
+a. Inni \underline{hiddaan saree hidhe}.\\
+b. Inni \underline{haadha warraa isaa waliin daadhii dhuge}.\\
+c. Inni \underline{hoolaa bituuf gara Horroo deeme}.\\
+d. Inni \underline{daddafee gara Booranaa deeme}.\\
+e. Inni \underline{kaleessa na barbaade}.\\
+
+As keessaa fakkeenyaaf caasaa (a) haa ilaallu:
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[GG1
+				[GDG
+					[GD1
+						[GMG
+							[GM1
+								[M [hidda]]
+							]
+						]
+						[D [-an]]
+					]
+				]
+				[GG1
+					[GMG
+						[GM1
+							[M [saree]]
+						]
+					]
+					[G [hidhe]]
+				]
+			]		
+		]
+	\end{forest}
+\end{figure}
+
+Gaaleen gochimaa gabbistuu ykn gochimibsa qofaa osoo hin taane murteessitullee ida’atee ijaarama. Fakkeenaaf himoota kanatti aananii dhufan haa ilaallu: \\
+\\
+a. Dubartiin sun \underline{baayyee kolfite}.\\
+b. Riqituun \underline{yeroo sadii saree ilaale}.\\
+
+(a)irratti jechi baayyee jedhu hammam akka iyyame agarsiisaati. (b) irratti ammoo gaaleen yeroo sadii jedhu
+murteessituudha. Bakka lamaanittu murteessitoonni unka gaalee maqa qabu. 
+
+\begin{figure}[H]										
+	\caption{Gaalee gochimaa}
+	\centering
+	\begin{forest}
+		[GGG
+			[MU [yeroo sadii]]
+			[GG1
+				[GMG
+					[GM1
+						[M [saree]]
+					]
+				]
+				[G [ilaale]]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+\section{Hima}
+Kutaa kana keessatti hima ce’aa, raawwatamaa, taasisuu, hirkataa irratti xiyyeeffachuun caasima isaanii ilaalla. 
+
+\subsection{Hima Ce'aa}
+Hima jechuun qindoomina gaaleewwanii isa yaada guutuu tokko dabarsuu danda’u jechuudha; kana jechuunis eenyu, gochaa maal akka raawwate siirriitti agarsiisa jechuudha. Fakkeenyaaf hima armaan gadii caasaatiin haa ilaallu:\\
+\\
+Hima: Namichi dheeraan sun hoolaa adii bite. 
+
+\begin{figure}[H]										
+	\caption{Caasima}
+	\centering
+	\begin{forest}
+		[H
+			[GMG
+				[GM1
+					[M [Namichi]]
+				]
+				[GIMG
+					[IM [dheeraan]]
+					[MU [sun]]
+				]
+			]
+			[GGG
+				[GG1
+					[GMG
+						[GM1
+							[M [hoolaa]]
+						]
+						[GIMG
+							[GIM1
+								[IM [adii]]
+							]
+						]
+					]
+					[G [bite]]
+				]
+			]		
+		]
+	\end{forest}
+\end{figure}
+
+Waluumaa galatti himni ce'aan tokko yoo xinnaate gaaleewwan gosa lama irraa ijaaramuu qaba. Gaaleewwan gosa lama ta’anii himaf bu’uura ta’anis gaalee maqaa fi gaalee gochimaati. Gaaleen maqaa eenyu gocha tokko akka raawwate yoo
+agarsiisu, gaaleen gochimaammoo gochi eenyurratti ykn maal irratti akka raawwatame ifa godha. Kana jechuun gaalee gochimaa antimaafi gochima of keessaa qaba jechuudha. Hima AO keessatti gaaleen maqaa dura yoo dhufu gaaleen gochimaa ammoo dhuma irra dhufa. Ulaagaa kanaan caasimni armaan olii hima ce'aa jedhama. Himni ce'aan kunis gaaleewwan lamarraa ijaarame. Isaanis gaalee maqaa \textbf{namichi dheeraan sun }jedhuufi gaalee gochimaa \textbf{hoolaa adii bite} jedhudha. 
+
+\subsection{Hima Raawwatamaa}
+Akka maddi caaslugaa\footnote{Kitaaba kana keessatti, gaaleen 'madda caaslugaa' jedhu kun gaalee Afaan Inglizii 'generative grammar' bakka bu'a.} jedhutti himni raawwataman armaan gadii hima ce'a armaan oliirraa ce’umsaan\footnote{Jechi 'ce'umsa' jedhu kun caasluga maddaa keessatti jecha Afaan Inglizii 'transformation' jedhu bakka bu'a.} argame \cite{chomsky1965aspects,chomsky1982some}. \\
+\\
+Hima: Hoolaa adiin namicha dheeraa sanaan bitame.
+
+Himni armaan olii kun hima raawwatamaa jedhama. Hima raawwatamaa kana keessatti bakka matimaa kan qabatee jiru
+antima \textbf{hoolaa adiin} jedhudha. \\
+\\
+Hima: Hoolaa adiin bitame. \\
+
+
+Caasima raawwatamaa uumuuf guuttuun gaalee gochimaa GMG (hoolaa adii) kan jedhu bakka antimaa gadhiisee bakka matimaa gala. 
+
+\begin{figure}[H]										
+	\caption{Caasima}
+	\centering
+	\begin{forest}
+		[H
+		[GMG,name=item f]
+		[GGG
+		[GG1
+		[f,draw]
+		{
+			\draw[->] () to[out=south west,in=south] (item f);
+		}
+		[G]
+		]
+		]
+		]
+	\end{forest}
+\end{figure}
+
+\begin{figure}[H]										
+	\caption{Caasima}
+	\centering
+	\begin{forest}
+		[H
+			[GMG
+			[GM1
+				[M [Hoolaa]]
+			]
+			[GIMG
+				[GIM1
+					[IM [adiin]]
+				]
+			]
+			]
+			[GGG
+				[GG1
+					[G [bitame]]
+				]
+			]
+		]
+	\end{forest}
+\end{figure}
+
+Kanaaf maayii matimaa dabalate, \textbf{hoolaa adiin} matima hima raawwatamaa ta'e. Yeroodhuma kanatti
+ammoo gochimni \{bit-\} fufii raawwatamaa \{-am-\} ida'ate. Yeroo akka kanaatti fufiin kun akkuma gochima tokkotti lakkaa'amti. Sababni isaas waan antima gara matimaatti jijjiirteef.
+
+Walumaa galan hima raawwatamaa keessatti wantota gurguddoo sadiitu mul'ata. Inni tokko antimni matima ta'uu isaati. Inni lammaffaan ammoo fufiin \{-am-\} gochima irratti ida'amuudha. Inni sadaffa ammoo matimni antima al kallattiitti jijjiiramuudha. Qabxii isa sadaffaa kana hima armaan gaddii irraa haa hubannu. Hima: Hoolaa addiin \textbf{namicha dheeraa-tiin} bit-am-e. 
+\begin{figure}[H]										
+	\caption{Caasima}
+	\centering
+	\begin{forest}
+		[H
+			[f,name=item f]
+			[GGG
+				[GDG
+					[GMG,draw]
+					{
+					\draw[<-] () to[out=south west,in=south] (item f);
+					}
+					[GD1 [D]]
+				]
+				[GG1
+					[G]
+				]
+			]
+		]			
+	\end{forest}
+\end{figure}
+
+Hima kana wayita xiinxallu qaamni gocha raawwate bakka matimaa gadhiisee haala antima alkalattiitiin ibsameera. Yeroo bakka antimaa qabatus unka gaalee durduubee fakkaateeti. Walumaagalatti, hima raawwatamaa keessatti maayiin waljijjiruun jira. Hima ce'aa keessatti kan matima ta'e hima raawwatamaa keessatti antima ta'a; hima ce'aa keessatti kan antima ta'e ammoo hima raawwatamaa keessatti matima ta'ee mul'ata jechuudha.
+
+\begin{figure}[H]										
+	\caption{Caasima}
+	\centering
+	\begin{forest}
+		[H
+			[GMG [f]]
+			[GGG
+				[GDG
+					[GMG
+						[GM1
+							[M [namicha]]
+						]
+						[GIMG
+							[GIM1
+								[IM [dheeraa]]
+							]
+						]
+					]
+					[D [-tiin]]
+				]
+				[GG1
+					[G [bitame]]
+				]
+			]
+		]		
+	\end{forest}
+\end{figure}
+
+
+
+\subsection{Hima Taasisuu}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -72,6 +72,32 @@ Baye%
 }{%
 Baye%
 }{%
+{\protect \APACyear {1986}}%
+}]{%
+baye1986phrase}
+\APACinsertmetastar {%
+baye1986phrase}%
+\begin{APACrefauthors}%
+Baye, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\unskip\
+\newblock
+\APACrefbtitle {The phrase structures of Ethiopian Oromo.} {The phrase
+  structures of ethiopian oromo.}\ \APACtypeAddressSchool {\BUPhD}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{School of Oriental and African Studies (University of
+  London)}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Baye%
+}{%
+Baye%
+}{%
 {\protect \APACyear {1988}}%
 }]{%
 baye1988focus}
@@ -131,6 +157,54 @@ Biniyam, A.%
 \APACrefbtitle {The Phonology of Rayaa Oromo.} {The phonology of rayaa oromo.}
 \newblock
 \APACaddressPublisher{Addis Ababa}{Addis Ababa University}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chomsky%
+}{%
+Chomsky%
+}{%
+{\protect \APACyear {1965}}%
+}]{%
+chomsky1965aspects}
+\APACinsertmetastar {%
+chomsky1965aspects}%
+\begin{APACrefauthors}%
+Chomsky, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1965}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Aspects of the theory of syntax Cambridge} {Aspects of
+  the theory of syntax cambridge}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Multilingual Matters: MIT Press}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chomsky%
+\ \protect \BOthers {.}}{%
+Chomsky%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1982}}%
+}]{%
+chomsky1982some}
+\APACinsertmetastar {%
+chomsky1982some}%
+\begin{APACrefauthors}%
+Chomsky, N.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1982}.
+\newblock
+\APACrefbtitle {Some concepts and consequences of the theory of government and
+  binding} {Some concepts and consequences of the theory of government and
+  binding}.
+\newblock
+\APACaddressPublisher{}{MIT press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
