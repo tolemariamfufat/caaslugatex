@@ -107,4 +107,19 @@
 \contentsline {subsection}{\numberline {5.5.1}Hima Ce'aa}{128}{}%
 \contentsline {subsection}{\numberline {5.5.2}Hima Raawwatamaa}{130}{}%
 \contentsline {subsection}{\numberline {5.5.3}Hima Taasisuu}{133}{}%
-\contentsline {section}{Kitaabilee Wabii}{134}{}%
+\contentsline {subsubsection}{Taasisuu Tokkeessoo}{134}{}%
+\contentsline {subsubsection}{Taasisuu Lammeessoo}{135}{}%
+\contentsline {subsection}{\numberline {5.5.4}Hima Hirkataa}{137}{}%
+\contentsline {subsubsection}{Ciroo Firoomsee}{138}{}%
+\contentsline {subsubsection}{Ciroo Guuttuu}{139}{}%
+\contentsline {subsubsection}{Ciroo Gochimibsaa}{140}{}%
+\contentsline {subsubsection}{Gaaffilee Boqonnichaa }{143}{}%
+\contentsline {chapter}{\numberline {6}Hiikcaasimaa}{145}{}%
+\contentsline {section}{\numberline {6.1}Seensa}{145}{}%
+\contentsline {section}{\numberline {6.2}Hiikcaasima Hima Hafoo}{146}{}%
+\contentsline {section}{\numberline {6.3}Hiikcaasima Hima Ta'uu}{148}{}%
+\contentsline {section}{\numberline {6.4}Hiikcaasima Hima Ce'aa}{151}{}%
+\contentsline {section}{\numberline {6.5}Hiikcaasima Hima Garlamee}{154}{}%
+\contentsline {section}{\numberline {6.6}Hiikcaasima Hima Raawwatamaa}{156}{}%
+\contentsline {subsection}{\numberline {6.6.1}Hiikcaasima Raawwatamaa Dhuunfaa}{156}{}%
+\contentsline {section}{Kitaabilee Wabii}{160}{}%

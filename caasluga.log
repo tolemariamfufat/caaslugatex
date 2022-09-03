@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  2 SEP 2022 21:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  3 SEP 2022 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3994,6 +3994,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [132]
+Underfull \hbox (badness 10000) in paragraph at lines 3006--3010
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3006--3010
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -4002,8 +4015,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[133] (./caasluga.bbl
-Underfull \vbox (badness 1460) has occurred while \output is active []
+[133]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[134]
+Underfull \hbox (badness 10000) in paragraph at lines 3043--3079
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3043--3079
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3043--3079
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -4014,7 +4051,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[134])
+[135]
+Underfull \hbox (badness 10000) in paragraph at lines 3086--3092
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3086--3092
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -4023,25 +4073,663 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[135] (./caasluga.aux) ) 
+[136]
+Underfull \hbox (badness 10000) in paragraph at lines 3093--3097
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3093--3097
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[137]
+Underfull \hbox (badness 10000) in paragraph at lines 3100--3104
+
+ []
+
+
+Overfull \hbox (3.96672pt too wide) in paragraph at lines 3100--3104
+\T1/ptm/m/n/10.95 Akka fak-keenya kana ir-raa hu-bata-mutti hi-moota lamatu arg
+amu, hima of danda'aafi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3130--3139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3130--3139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3130--3139
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[138]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[139]
+Underfull \hbox (badness 10000) in paragraph at lines 3161--3167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3161--3167
+
+ []
+
+
+Underfull \vbox (badness 1701) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[140]
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3198
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[141]
+Underfull \hbox (badness 10000) in paragraph at lines 3199--3204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3199--3204
+
+ []
+
+
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[142]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[143]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[144
+
+]
+Boqonnaa 6.
+
+Overfull \hbox (2.9154pt too wide) in paragraph at lines 3249--3250
+\T1/ptm/m/n/10.95 Inni tokko caasaa hi-maa yoo ta'u innni lam-maf-faa am-moo hi
+-ika. Akkuma beekamu
+ []
+
+
+Overfull \hbox (0.14479pt too wide) in paragraph at lines 3251--3252
+[]\T1/ptm/m/n/10.95 Boqonnaa kana keessatti hi-ikaafi caasi-maa hi-maa qaac-ces
+-suuf qabxi-i-wwan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3251--3252
+
+ []
+
+[145]
+Underfull \hbox (badness 10000) in paragraph at lines 3264--3275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3264--3275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3264--3275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3280--3286
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[146]
+Underfull \hbox (badness 10000) in paragraph at lines 3290--3295
+
+ []
+
+
+Overfull \hbox (1.80956pt too wide) in paragraph at lines 3296--3298
+[]\T1/ptm/m/n/10.95 Himoonni ar-maan olii karaa caasi-maa ma-tima tokko tokkofi
+ gochima tokko
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3299--3304
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[147]
+Overfull \hbox (5.62991pt too wide) in paragraph at lines 3307--3308
+\T1/ptm/m/n/10.95 ta'erratti maxxan-tee argamti. Fu-fiin wali-igal-teem-moo goc
+hi-matti maxxan-tee qaama
+ []
+
+
+Overfull \hbox (3.648pt too wide) in paragraph at lines 3311--3316
+\T1/ptm/m/n/10.95 qaa-maan, sam-muu-tiin, sadarkaa jireenyaati-infi kkf haala t
+okko-r-raa ji-jji-iramee haala
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3311--3316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3311--3316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3311--3316
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 3320--3327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3320--3327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3320--3327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3328--3338
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[149]
+Underfull \hbox (badness 10000) in paragraph at lines 3352--3358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3352--3358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3364--3370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3364--3370
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[150]
+Overfull \hbox (10.21947pt too wide) in paragraph at lines 3371--3372
+[]\T1/ptm/m/n/10.95 Himoonni ar-maan olii kun-neen hundi hima ce'aa jed-hamu. H
+undi isaaniyyuu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3374--3379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3374--3379
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 3383--3387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3383--3387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3388--3393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3388--3393
+
+ []
+
+
+Overfull \hbox (5.92542pt too wide) in paragraph at lines 3394--3396
+\T1/ptm/m/n/10.95 neef qofa. Fu-fiin wali-igal-tee hamma gochi-mar-ratti argamt
+etti ma-timni hima keessaa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3397--3404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3397--3404
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[152]
+Underfull \hbox (badness 10000) in paragraph at lines 3405--3410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3405--3410
+
+ []
+
+
+Overfull \hbox (4.78763pt too wide) in paragraph at lines 3405--3410
+\T1/ptm/m/n/10.95 qarshiin itti ken-namu maqaa \T1/ptm/b/n/10.95 hin-tala ishee
+ \T1/ptm/m/n/10.95 jedhu yoo ta'u fu-fii boodaa {-f} maxxan-
+ []
+
+
+Overfull \hbox (4.80962pt too wide) in paragraph at lines 3411--3412
+[]\T1/ptm/m/n/10.95 Dimshaashumatti, himni ce'aan yoo xin-naate, ma-tima tokko,
+ an-tima tokkofi
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[153]
+Underfull \hbox (badness 10000) in paragraph at lines 3417--3422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3417--3422
+
+ []
+
+
+Overfull \hbox (5.22556pt too wide) in paragraph at lines 3423--3426
+[]\T1/ptm/m/n/10.95 Himootni (a) fi (b) ir-ratti eera-man kun-neen akaakuu hima
+ gar-lamee keessatti
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3435
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 3439--3443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3439--3443
+
+ []
+
+
+Overfull \hbox (1.13087pt too wide) in paragraph at lines 3451--3452
+\T1/ptm/m/n/10.95 malee walitti hind-hiyaatanne." Hi-moonni kun-neen hi-ikaan f
+ageenyaafi dhiy-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 3463--3467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3463--3467
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 3472--3477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3472--3477
+
+ []
+
+
+Overfull \hbox (21.21077pt too wide) in paragraph at lines 3478--3483
+\T1/ptm/m/n/10.95 Hima raawwata-maa keessatti fu-fiin {-tiin} an-tima al-ka-lla
+t-tii agar-si-isti. Hima raawwata-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3478--3483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3478--3483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3484--3494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3484--3494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3484--3494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3484--3494
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[157]
+Overfull \hbox (10.38403pt too wide) in paragraph at lines 3495--3496
+[]\T1/ptm/m/n/10.95 Akka fak-keenya (b) ir-ratti hubannu kana gaaleen gurbaa-ti
+in jed-hufi \T1/ptm/b/n/10.95 Tolasaa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3497--3502
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3497--3502
+
+ []
+
+
+Overfull \hbox (17.139pt too wide) in paragraph at lines 3503--3510
+\T1/ptm/m/n/10.95 qeen-tee waan agar-si-if-tuuf \T1/ptm/b/n/10.95 bur-cuqoon \T
+1/ptm/m/n/10.95 ma-tima. Yoo ma-tima \T1/ptm/b/n/10.95 bur-cuqoo \T1/ptm/m/n/10
+.95 jedhu baa'ifnee
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3503--3510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3503--3510
+
+ []
+
+
+Overfull \hbox (3.84631pt too wide) in paragraph at lines 3511--3513
+[]\T1/ptm/m/n/10.95 (a)n hima ce'aadha; sababni isaas qaamni gocha raawwate jec
+huun \T1/ptm/b/n/10.95 gurbaa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3514--3522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3514--3522
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[158]
+Underfull \hbox (badness 10000) in paragraph at lines 3523--3528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3523--3528
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[159] (./caasluga.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[160])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[161] (./caasluga.aux) ) 
 Here is how much of TeX's memory you used:
- 30787 strings out of 478287
- 696888 string characters out of 5849289
- 939043 words of memory out of 5000000
- 48559 multiletter control sequences out of 15000+600000
- 533208 words of font info for 115 fonts, out of 8000000 for 9000
+ 32270 strings out of 478287
+ 730000 string characters out of 5849289
+ 953623 words of memory out of 5000000
+ 50038 multiletter control sequences out of 15000+600000
+ 535010 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 161i,12n,145p,1907b,2633s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 181i,12n,159p,1907b,3124s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.
 enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/tex
-mf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
-es/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-</usr/share/texmf/fonts/type1/fkr/tipa/xipa10.pfb>
-Output written on caasluga.pdf (135 pages, 246365 bytes).
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/
+share/texmf/fonts/type1/fkr/tipa/xipa10.pfb>
+Output written on caasluga.pdf (161 pages, 297325 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
- 319 compressed objects within 4 object streams
+ 558 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

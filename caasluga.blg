@@ -27,6 +27,10 @@ I was expecting a `,' or a `}'---line 406 of file tol.bib
  : @article{shibatani1985passives,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Repeated entry---line 406 of file tol.bib
+ : @article{shibatani1985passives
+ :                               ,
+I'm skipping whatever remains of this entry
 Warning--entry type for "wako1981" isn't style-file defined
 --line 430 of file tol.bib
 Repeated entry---line 438 of file tol.bib
@@ -42,45 +46,46 @@ Illegal end of database file---line 451 of file tol.bib
 I'm skipping whatever remains of this entry
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--`others' not consistent with 6th ed. of the APA Manual
-You've used 22 entries,
+Warning--No journal in siewierska1984passive
+You've used 27 entries,
             6951 wiz_defined-function locations,
-            1370 strings with 12709 characters,
-and the built_in function-call counts, 34916 in all, are:
-= -- 4673
-> -- 235
-< -- 1395
-+ -- 1256
-- -- 48
-* -- 1841
-:= -- 5822
-add.period$ -- 96
-call.type$ -- 22
-change.case$ -- 374
+            1398 strings with 13343 characters,
+and the built_in function-call counts, 42892 in all, are:
+= -- 5695
+> -- 291
+< -- 1747
++ -- 1572
+- -- 58
+* -- 2303
+:= -- 7212
+add.period$ -- 119
+call.type$ -- 27
+change.case$ -- 460
 chr.to.int$ -- 0
-cite$ -- 44
-duplicate$ -- 800
-empty$ -- 1549
-format.name$ -- 318
-if$ -- 7185
+cite$ -- 55
+duplicate$ -- 981
+empty$ -- 1891
+format.name$ -- 388
+if$ -- 8786
 int.to.chr$ -- 0
-int.to.str$ -- 66
+int.to.str$ -- 81
 missing$ -- 0
-newline$ -- 490
-num.names$ -- 176
-pop$ -- 761
+newline$ -- 600
+num.names$ -- 216
+pop$ -- 951
 preamble$ -- 1
-purify$ -- 88
+purify$ -- 108
 quote$ -- 0
-skip$ -- 2801
+skip$ -- 3379
 stack$ -- 0
-substring$ -- 1396
-swap$ -- 438
-text.length$ -- 60
+substring$ -- 1749
+swap$ -- 551
+text.length$ -- 78
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2328
-warning$ -- 1
-while$ -- 115
+type$ -- 2792
+warning$ -- 2
+while$ -- 142
 width$ -- 0
-write$ -- 536
-(There were 3 error messages)
+write$ -- 656
+(There were 4 error messages)

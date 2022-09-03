@@ -254,6 +254,30 @@ Griefenow-Mewis, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Halliday%
+}{%
+Halliday%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+halliday1994introduction}
+\APACinsertmetastar {%
+halliday1994introduction}%
+\begin{APACrefauthors}%
+Halliday, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+\APACrefbtitle {An Introduction to Functional Grammar. New York: Edward Arnold,
+  Hodder Headline PLC.} {An introduction to functional grammar. new york:
+  Edward arnold, hodder headline plc.}
+\newblock
+\APACaddressPublisher{}{St Martin’s Press Inc}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Jaalataa%
 }{%
 Jaalataa%
@@ -323,6 +347,29 @@ Kebede, H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Kulikov%
+}{%
+Kulikov%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+kulikov1993second}
+\APACinsertmetastar {%
+kulikov1993second}%
+\begin{APACrefauthors}%
+Kulikov, L\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The “second causative”: A typological sketch} {The
+  “second causative”: A typological sketch}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Causatives and transitivity}{23}{}{121--154}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Lloret-Romanyach%
 }{%
 Lloret-Romanyach%
@@ -371,6 +418,31 @@ Margaa, H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Mous%
+}{%
+Mous%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+mous2001middle}
+\APACinsertmetastar {%
+mous2001middle}%
+\begin{APACrefauthors}%
+Mous, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The middle in Cushitic languages} {The middle in
+  cushitic languages}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Annual Meeting of the Berkeley Linguistics Society}
+  {Annual meeting of the berkeley linguistics society}\ (\BVOL~27, \BPGS\
+  75--86).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Owens%
 }{%
 Owens%
@@ -391,6 +463,52 @@ Owens, J.%
   harar oromo (northeastern ethiopia)}\ (\BVOL~4).
 \newblock
 \APACaddressPublisher{}{Buske}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shibatani%
+}{%
+Shibatani%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+shibatani1985passives}
+\APACinsertmetastar {%
+shibatani1985passives}%
+\begin{APACrefauthors}%
+Shibatani, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1985}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Passives and related constructions: A prototype
+  analysis} {Passives and related constructions: A prototype analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Language}{}{}{821--848}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Siewierska%
+}{%
+Siewierska%
+}{%
+{\protect \APACyear {1984}}%
+}]{%
+siewierska1984passive}
+\APACinsertmetastar {%
+siewierska1984passive}%
+\begin{APACrefauthors}%
+Siewierska, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1984}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The passive: A contrastive linguistic analysis} {The
+  passive: A contrastive linguistic analysis}.{\BBCQ}
+\newblock
+
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
