@@ -122,4 +122,14 @@
 \contentsline {section}{\numberline {6.5}Hiikcaasima Hima Garlamee}{154}{}%
 \contentsline {section}{\numberline {6.6}Hiikcaasima Hima Raawwatamaa}{156}{}%
 \contentsline {subsection}{\numberline {6.6.1}Hiikcaasima Raawwatamaa Dhuunfaa}{156}{}%
-\contentsline {section}{Kitaabilee Wabii}{160}{}%
+\contentsline {subsection}{\numberline {6.6.2}Hiikcaasima Raawwatamaa Mit-Dhuunfaa}{159}{}%
+\contentsline {section}{\numberline {6.7}Hiikcaasima Hima Gddugalaa}{161}{}%
+\contentsline {section}{\numberline {6.8}Hiikcaasima Hima Taasisuu}{166}{}%
+\contentsline {subsubsection}{Taasisuu Qaaccessaa}{167}{}%
+\contentsline {subsubsection}{Taasisuu Makaa}{168}{}%
+\contentsline {paragraph}{Taasisuu Qeentee}{168}{}%
+\contentsline {paragraph}{Taasisuu Lammeessoo/Sadeessoo}{170}{}%
+\contentsline {paragraph}{Taasisuu Matima Dhokataa}{172}{}%
+\contentsline {paragraph}{Taasisuu Hafoo}{173}{}%
+\contentsline {subsubsection}{Hiika Hima Taasisuu}{174}{}%
+\contentsline {section}{Kitaabilee Wabii}{180}{}%
