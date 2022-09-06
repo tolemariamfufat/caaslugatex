@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  6 SEP 2022 10:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  6 SEP 2022 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -713,10 +713,100 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks55
 \@floatcapt=\box86
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks56
+\XKV@tempa@toks=\toks57
 )
-\@indexfile=\write5
+\XKV@depth=\count337
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count338
+\mult@box=\box87
+\multicol@leftmargin=\dimen274
+\c@unbalance=\count339
+\c@collectmore=\count340
+\doublecol@number=\count341
+\multicoltolerance=\count342
+\multicolpretolerance=\count343
+\full@width=\dimen275
+\page@free=\dimen276
+\premulticols=\dimen277
+\postmulticols=\dimen278
+\multicolsep=\skip77
+\multicolbaselineskip=\skip78
+\partial@page=\box88
+\last@line=\box89
+\maxbalancingoverflow=\dimen279
+\mult@rightbox=\box90
+\mult@grightbox=\box91
+\mult@firstbox=\box92
+\mult@gfirstbox=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\c@minrows=\count344
+\c@columnbadness=\count345
+\c@finalcolumnbadness=\count346
+\last@try=\dimen280
+\multicolovershoot=\dimen281
+\multicolundershoot=\dimen282
+\mult@nat@firstbox=\box130
+\colbreak@box=\box131
+\mc@col@check@num=\count347
+))
+\caasluga@idxfile=\write5
 \openout5 = `caasluga.idx'.
 
 
@@ -754,17 +844,17 @@ LaTeX Font Info:    ... okay on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count337
-\scratchdimen=\dimen274
-\scratchbox=\box87
-\nofMPsegments=\count338
-\nofMParguments=\count339
-\everyMPshowfont=\toks56
-\MPscratchCnt=\count340
-\MPscratchDim=\dimen275
-\MPnumerator=\count341
-\makeMPintoPDFobject=\count342
-\everyMPtoPDFconversion=\toks57
+\scratchcounter=\count348
+\scratchdimen=\dimen283
+\scratchbox=\box132
+\nofMPsegments=\count349
+\nofMParguments=\count350
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count351
+\MPscratchDim=\dimen284
+\MPnumerator=\count352
+\makeMPintoPDFobject=\count353
+\everyMPtoPDFconversion=\toks59
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -780,7 +870,7 @@ T3\textscriptg already defined.
 
 fontencoding T3 patched
 )
-\c@maskedRefs=\count343
+\c@maskedRefs=\count354
  (/usr/share/texlive/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
@@ -1023,8 +1113,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
 
 Overfull \hbox (4.33887pt too wide) in paragraph at lines 179--180
-\T1/ptm/m/n/10.95 maka-muun bar-ruu ijaaru. Bar-ruu al-pha-betii keessatti saga
-leen tokko qubee tokkoon
+\T1/ptm/m/n/10.95 maka-muun bar-ruu[] ijaaru. Bar-ruu al-pha-betii keessatti sa
+galeen tokko qubee[] tokkoon
  []
 
 [15
@@ -1044,9 +1134,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [16]
-Overfull \hbox (18.7377pt too wide) in paragraph at lines 201--205
-\T1/ptm/m/n/10.95 Qaamni kun sagalee uumuuf qilleensa somba keessaa gara di-ida
-atti ba'uun fayyadama.
+Overfull \hbox (13.25217pt too wide) in paragraph at lines 201--205
+\T1/ptm/m/n/10.95 dub-bii uumu bakka adda ad-daatti qoodamee ilaala-muu danda'a
+.Qaamni sagaleewwan
  []
 
 
@@ -1082,14 +1172,6 @@ Overfull \hbox (2.46701pt too wide) in paragraph at lines 232--234
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[18]
 Overfull \hbox (3.15602pt too wide) in paragraph at lines 235--237
 \T1/ptm/m/n/10.95 ja-har-ratti uumamu. Bakka sagaleen itti uumamu jechu-u-nis q
 aa-monni sagalee
@@ -1102,6 +1184,14 @@ alitti siqan uumama.
  []
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[18]
 Overfull \hbox (0.419pt too wide) in paragraph at lines 242--243
 \T1/ptm/m/n/10.95 waliin walx-uqee qilleensa gara di-idaatti yaa'u darba dhowwu
 . Sagaleewwan
@@ -1159,8 +1249,8 @@ haan sagaleewwan
 
 
 Overfull \hbox (3.03624pt too wide) in paragraph at lines 263--264
-[]\T1/ptm/m/n/10.95 Gamduubee: Sagaleewwan gam-du-ubee amala dub-bachi-ifto-taa
-fi amala dubb-
+[]\T1/ptm/m/n/10.95 Gamduubee[]: Sagaleewwan gam-du-ubee amala dub-bachi-ifto-t
+aafi amala dubb-
  []
 
 
@@ -1186,7 +1276,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [20]
 Overfull \hbox (5.29173pt too wide) in paragraph at lines 271--272
 []\T1/ptm/m/n/10.95 Qaama arrabaa jechu-u-nam-moo wayita sagaleen sun uumamu qa
-ama arrabaa
+ama arrabaa[]
  []
 
 
@@ -1310,8 +1400,8 @@ oo- jabaa-tee mul'ata.
 
 
 Overfull \hbox (12.83496pt too wide) in paragraph at lines 421--422
-\T1/ptm/m/n/10.95 Akka qa-jeelfamaatti, sagaaleewwan cimdii tokko tar-ti-iba qu
-bee wal-fakkaatu keessatti
+\T1/ptm/m/n/10.95 Akka qa-jeelfamaatti, sagaaleewwan cimdii[] tokko tar-ti-iba 
+qubee wal-fakkaatu keessatti
  []
 
 
@@ -1528,24 +1618,6 @@ n-lixnu jedhu
  []
 
 
-Overfull \hbox (7.24088pt too wide) in paragraph at lines 667--668
-\T1/ptm/m/n/10.95 Isaani-i-nis ku-taawwan ar-maan gadii keessatti hu-batna. Aka
-aku-uwwan gosaga-
- []
-
-
-Overfull \hbox (3.99942pt too wide) in paragraph at lines 667--668
-\T1/ptm/m/n/10.95 dursee dhufeera. Sagaleen /g/ kun gara sagalee isatti aa-nee 
-dhufeetti, jechuun
- []
-
-
-Overfull \hbox (5.19202pt too wide) in paragraph at lines 667--668
-\T1/ptm/m/n/10.95 aan-tee dhuf-teetti. Garuu sagaleen ol-laa ishee ir-ratti dhi
--ib-baa geessifte sagalee
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -1554,14 +1626,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [37]
-Overfull \hbox (8.70813pt too wide) in paragraph at lines 669--670
-\T1/ptm/m/n/10.95 hamu wayita sagaleen tokko gara saglee isa dursee dhufeetti g
-osaga-loomudha.
+Overfull \hbox (3.34326pt too wide) in paragraph at lines 669--670
+[]\T1/ptm/m/n/10.95 Akaakuuwwan gosaga-loomii keessaa tokko gosaga-loomii gar-d
+ureeti[].
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Overfull \hbox (8.70813pt too wide) in paragraph at lines 671--672
+\T1/ptm/m/n/10.95 hamu wayita sagaleen tokko gara saglee isa dursee dhufeetti g
+osaga-loomudha.
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1574,58 +1648,58 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [38]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 672.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 673.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
             Default family used instead on input line 674.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 677.
+            Default family used instead on input line 675.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 678.
+            Default family used instead on input line 676.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 679.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 680.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 681.
 
-Overfull \hbox (17.26015pt too wide) in paragraph at lines 676--680
+Overfull \hbox (17.26015pt too wide) in paragraph at lines 678--682
 \T1/ptm/m/n/10.95 dhufe waliin gutu-maa gu-u-tu-utti osoo hin-tahiin gamisaan y
 eroo wal fakkaatudha.
  []
 
 
-Overfull \hbox (7.00102pt too wide) in paragraph at lines 681--682
+Overfull \hbox (7.00102pt too wide) in paragraph at lines 683--684
 []\T1/ptm/m/n/10.95 Fakkeenya kan-neen ir-raa gosaga-loomii gamisaa hubachuu da
 n-deenya.
  []
 
 
-Overfull \hbox (19.98726pt too wide) in paragraph at lines 683--684
+Overfull \hbox (19.98726pt too wide) in paragraph at lines 685--686
 \T1/ptm/m/n/10.95 suu, harsasseessuu, amar-teessuu, fun-y-eessuu, qooqa fud-hac
 hu-ufi qooqa dhabuun
  []
 
 
-Overfull \hbox (12.3646pt too wide) in paragraph at lines 687--690
+Overfull \hbox (12.3646pt too wide) in paragraph at lines 689--692
 \T1/ptm/m/n/10.95 Sagaleen bakki uumam-sisaa hid-hii hin-taane ol-laa sagalee h
 id-hii ir-ratti uumamu
  []
 
 
-Overfull \hbox (1.10915pt too wide) in paragraph at lines 687--690
+Overfull \hbox (1.10915pt too wide) in paragraph at lines 689--692
 \T1/ptm/m/n/10.95 galee amala hidhi yoo fud-hate hid-heessuu jed-hame waa-mama.
  Fak-keenyaaf, 
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 692.
+            Default family used instead on input line 694.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 693.
+            Default family used instead on input line 695.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1637,19 +1711,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [39]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 695.
+            Default family used instead on input line 697.
 
-Overfull \hbox (19.70186pt too wide) in paragraph at lines 695--696
+Overfull \hbox (19.70186pt too wide) in paragraph at lines 697--698
 []\T1/ptm/m/n/10.95 Odeeffannoowwan seera dham-sagaa ir-raa argman sadii: sagal
 ee adeemsa
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 705.
+            Default family used instead on input line 707.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 706.
+            Default family used instead on input line 708.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1661,39 +1735,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [40]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 720.
+            Default family used instead on input line 722.
 
-Overfull \hbox (4.31749pt too wide) in paragraph at lines 719--721
+Overfull \hbox (4.31749pt too wide) in paragraph at lines 721--723
 []\T1/ptm/m/n/10.95 Akka fak-keeny-ota ar-maan olii ir-raa hubanutti /n/ n ol-l
 aa sagaleewwan
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 725.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 726.
+            Default family used instead on input line 727.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 728.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 729.
+            Default family used instead on input line 730.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 731.
 
-Overfull \hbox (0.68205pt too wide) in paragraph at lines 724--730
+Overfull \hbox (0.68205pt too wide) in paragraph at lines 726--732
 \T1/ptm/m/n/10.95 Dubbifamtoonni sagaleewwan dub-bachi-iftota boodaa dur-sanii 
 dh-u-fan amala
  []
 
 
-Overfull \hbox (11.95932pt too wide) in paragraph at lines 724--730
+Overfull \hbox (11.95932pt too wide) in paragraph at lines 726--732
 \T1/ptm/m/n/10.95 Akkuma ar-maan olitti mul'atetti /k/ n wayita /u/ tiin dursee
  dhufu ni'amartaa'a.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--730
+Underfull \hbox (badness 10000) in paragraph at lines 726--732
 
  []
 
@@ -1706,50 +1780,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [41]
-Overfull \hbox (0.53041pt too wide) in paragraph at lines 731--732
+Overfull \hbox (0.53041pt too wide) in paragraph at lines 733--734
 \T1/ptm/m/n/10.95 dhufu gara [\T3/ptm/m/n/10.95 k$[]$\T1/ptm/m/n/10.95 ] tti ge
 ed-darama; /b/n wayita dub-bachi-if-tuu /o/ dursee argamu
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 736.
+            Default family used instead on input line 738.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 737.
+            Default family used instead on input line 739.
 
-Overfull \hbox (5.71883pt too wide) in paragraph at lines 735--738
+Overfull \hbox (5.71883pt too wide) in paragraph at lines 737--740
 \T1/ptm/m/n/10.95 Dubbachiiftonni hundi wayita ol-laa sagaleewwan fun-yee dh-u-
 fan, ol-laa isaanii
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 740.
+            Default family used instead on input line 742.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 741.
+            Default family used instead on input line 743.
 
-Overfull \hbox (18.20139pt too wide) in paragraph at lines 739--742
+Overfull \hbox (18.20139pt too wide) in paragraph at lines 741--744
 []\T1/ptm/m/n/10.95 Akkuma ar-maan ol ir-ratti mul'atutti dub-bachi-iftonni ol-
 laaa sagaleewwan
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 748.
+            Default family used instead on input line 750.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 749.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 756.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 757.
+            Default family used instead on input line 751.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 758.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 759.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 760.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1761,7 +1835,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [42]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 763.
+            Default family used instead on input line 765.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1774,27 +1848,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [43]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 798.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 799.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
             Default family used instead on input line 800.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 801.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 804.
+            Default family used instead on input line 802.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 805.
+            Default family used instead on input line 803.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 806.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 807.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 808.
 
-Underfull \hbox (badness 10000) in paragraph at lines 803--807
+Underfull \hbox (badness 10000) in paragraph at lines 805--809
 
  []
 
@@ -1807,13 +1881,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [44]
-Overfull \hbox (2.8942pt too wide) in paragraph at lines 816--817
+Overfull \hbox (2.8942pt too wide) in paragraph at lines 818--819
 \T1/ptm/m/n/10.95 Al-go-saga-loomuun karaalee adda ad-daa mul'ata. Karaan tokko
 , fu-fiin boodaa
  []
 
 
-Overfull \hbox (0.84628pt too wide) in paragraph at lines 816--817
+Overfull \hbox (0.84628pt too wide) in paragraph at lines 818--819
 \T1/ptm/m/n/10.95 faana hind-heer-atan. Fak-keenyaaf nam- ir-ratti -ootan yeroo
  ida'amu namoota
  []
@@ -1829,13 +1903,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [45]
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (67.29047pt too wide) in paragraph at lines 828--829
+Overfull \hbox (67.29047pt too wide) in paragraph at lines 830--831
 []\T1/ptm/m/n/10.95 Akaakuuwwan caasaa bir-sagaa AO hayy-oota gara garaan qaacc
 eeffamera[]Addunya,
  []
 
 
-Overfull \hbox (24.14792pt too wide) in paragraph at lines 828--829
+Overfull \hbox (24.14792pt too wide) in paragraph at lines 830--831
 \T1/ptm/m/n/10.95 2018; Griefenow-Mewis, 2001; Gragg, 1976). Keessumat-tuu Owns
  fi Griefenow-
  []
@@ -1849,7 +1923,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 830--853
+Underfull \hbox (badness 10000) in paragraph at lines 832--855
 
  []
 
@@ -1866,12 +1940,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 854--869
+Underfull \hbox (badness 10000) in paragraph at lines 856--871
 
  []
 
 
-Overfull \hbox (0.2114pt too wide) in paragraph at lines 870--871
+Overfull \hbox (0.2114pt too wide) in paragraph at lines 872--873
 \T1/ptm/m/n/10.95 jechaatti dubb-i-fam-toonni akaakuu adda ad-daa lamaa ol dhu-
 fuu hin-danda'an.
  []
@@ -1885,7 +1959,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [48]
-Overfull \hbox (11.13873pt too wide) in paragraph at lines 880--881
+Overfull \hbox (11.13873pt too wide) in paragraph at lines 882--883
 []\T1/ptm/m/n/10.95 AO keessatti sagaleewwan qon-qoo ir-ratti uuma-man jabaachu
 u danda'uu?
  []
@@ -1912,19 +1986,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Boqonnaa 4.
 [51]
-Overfull \hbox (6.53914pt too wide) in paragraph at lines 916--917
+Overfull \hbox (6.53914pt too wide) in paragraph at lines 918--919
 \T1/ptm/m/n/10.95 uuma-man ibsa. Akkuma ku-taa darbe keessatti ilaal-letti, dha
 m-sa-goonni walitti
  []
 
 
-Overfull \hbox (0.14473pt too wide) in paragraph at lines 920--921
-[]\T1/ptm/m/n/10.95 Dhamjecha: xi-inx-ala xind-ham-jechaa keessaatti dham-jechi
- maal jechu-
+Overfull \hbox (0.14473pt too wide) in paragraph at lines 922--923
+[]\T1/ptm/m/n/10.95 Dhamjecha[]: xi-inx-ala xind-ham-jechaa keessaatti dham-jec
+hi maal jechu-
  []
 
 
-Overfull \hbox (12.12425pt too wide) in paragraph at lines 922--923
+Overfull \hbox (12.12425pt too wide) in paragraph at lines 924--925
 \T1/ptm/m/n/10.95 neen fu-fii osoo ofitti hin ida'atiin of-dan-da-hanii ku-usaa
  je-chootaa keessatti
  []
@@ -1938,13 +2012,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [52]
-Overfull \hbox (3.66023pt too wide) in paragraph at lines 924--925
+Overfull \hbox (3.66023pt too wide) in paragraph at lines 926--927
 \T1/ptm/m/n/10.95 akka la-too of-dan-da-haa ofisaatiin of-dan-da-hee ku-usaa je
 -chootaa keessatit
  []
 
 
-Overfull \hbox (7.4814pt too wide) in paragraph at lines 926--927
+Overfull \hbox (7.4814pt too wide) in paragraph at lines 928--929
 \T1/ptm/m/n/10.95 jechaa isa fu-fiin osoo itti hinida'amiin dura arga-mudha. ke
 essatti maqaa,
  []
@@ -1967,49 +2041,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [54]
-Overfull \hbox (11.17122pt too wide) in paragraph at lines 941--942
+Overfull \hbox (11.17122pt too wide) in paragraph at lines 943--944
 \T1/ptm/m/n/10.95 maqaa waloofi fu-filee maqaa ir-ratti fufaman ilaalla. Maqaan
  je-choota qabiyyee
  []
 
 
-Overfull \hbox (4.4164pt too wide) in paragraph at lines 941--942
+Overfull \hbox (4.4164pt too wide) in paragraph at lines 943--944
 \T1/ptm/m/n/10.95 neen hin-lakkwwamnes bakka bu'a. Maqaan akaakuu adda ad-daatt
 i qoodama.
  []
 
 
-Overfull \hbox (12.16861pt too wide) in paragraph at lines 941--942
+Overfull \hbox (12.16861pt too wide) in paragraph at lines 943--944
 \T1/ptm/m/n/10.95 Isaan keessaa maqaa dhu-un-faa, waloo, lakkaa'amu, hin-lakkaa
 'amne, bu'uuraa,
  []
 
 
-Overfull \hbox (17.05228pt too wide) in paragraph at lines 943--944
+Overfull \hbox (17.05228pt too wide) in paragraph at lines 945--946
 \T1/ptm/m/n/10.95 waliin walqa-ba-tee mog-gaafama.Fakkeenyaaf mog-gaasni maqaa 
 Akka lakkoofsa
  []
 
 
-Overfull \hbox (6.11272pt too wide) in paragraph at lines 943--944
+Overfull \hbox (6.11272pt too wide) in paragraph at lines 945--946
 \T1/ptm/m/n/10.95 taa-sisa.Moggaasa maqaa daa'immanni mo'icha, di-nagdee, dhi-i
 b-baafi fi-rooma
  []
 
 
-Overfull \hbox (18.72678pt too wide) in paragraph at lines 943--944
+Overfull \hbox (18.72678pt too wide) in paragraph at lines 945--946
 \T1/ptm/m/n/10.95 maqaaleen Didiyaa, Fal-mataa, Hama-rasanfi kkf in-ji-fan-noo 
 agar-si-isu. Maqaaleen
  []
 
 
-Overfull \hbox (0.28775pt too wide) in paragraph at lines 943--944
+Overfull \hbox (0.28775pt too wide) in paragraph at lines 945--946
 \T1/ptm/m/n/10.95 kan-nen akka An-keet, An-siif, Hor-renusiif kkf di-nagdee aga
 r-si-isu. Maqaaleen
  []
 
 
-Overfull \hbox (27.66266pt too wide) in paragraph at lines 943--944
+Overfull \hbox (27.66266pt too wide) in paragraph at lines 945--946
 \T1/ptm/m/n/10.95 kan-neen akka Didiyaa, Maafloogan, Nu-gataniif kkf dhi-ib-baa
  agar-si-isu. Maqaaleen
  []
@@ -2023,36 +2097,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [55]
-Overfull \hbox (3.99936pt too wide) in paragraph at lines 966--967
+Overfull \hbox (3.99936pt too wide) in paragraph at lines 968--969
 \T1/ptm/m/n/10.95 maqaa, maqibsa ykn.gochimaatti fu-fa-muun maqaa adda ad-daa u
 umu. Isaan keessaa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
+Underfull \hbox (badness 10000) in paragraph at lines 968--969
 
  []
 
 
-Overfull \hbox (8.01846pt too wide) in paragraph at lines 969--970
+Overfull \hbox (8.01846pt too wide) in paragraph at lines 971--972
 \T1/ptm/m/n/10.95 uumu. Maqoonni dha-la-too haala kanaan uuma-man kan-neen sam-
 muu keessatti
  []
 
 
-Overfull \hbox (2.9486pt too wide) in paragraph at lines 969--970
+Overfull \hbox (2.9486pt too wide) in paragraph at lines 971--972
 \T1/ptm/m/n/10.95 dha-la-too dud-haa agar-si-isu uuma. Fak-keenyaaf je-chootni 
 nam-ummaa, ijooll-
  []
 
 
-Overfull \hbox (24.9685pt too wide) in paragraph at lines 969--970
+Overfull \hbox (24.9685pt too wide) in paragraph at lines 971--972
 \T1/ptm/m/n/10.95 ummaafi gooft-ummaa haala kanaan ijaara-man. Akka-sumas fu-fi
 -ileen {^^Ueenya},{-
  []
 
 
-Overfull \hbox (0.74715pt too wide) in paragraph at lines 969--970
+Overfull \hbox (0.74715pt too wide) in paragraph at lines 971--972
 \T1/ptm/m/n/10.95 oma},{-ina} fi {^^Uinsa} maqibsa ir-ratti ida'amanii maqaa du
 d-haa uumu. Fak-
  []
@@ -2066,25 +2140,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [56]
-Overfull \hbox (12.40816pt too wide) in paragraph at lines 971--976
-[]\T1/ptm/m/n/10.95 Maqaa adeem-saa: fu-fileen {-sa(a)}, {-a(a)} fi {-taa}n goc
-hima ir-ratti fufamanii
+Overfull \hbox (12.40816pt too wide) in paragraph at lines 973--978
+[]\T1/ptm/m/n/10.95 Maqaa adeem-saa[]: fu-fileen {-sa(a)}, {-a(a)} fi {-taa}n g
+ochima ir-ratti fufamanii
  []
 
 
-Overfull \hbox (26.51312pt too wide) in paragraph at lines 979--980
-[]\T1/ptm/m/n/10.95 Maqaa mataduree: Maqaan huban-noo, ho-j-jaa ykn gocha tokko
-of akka matadureeti
+Overfull \hbox (26.51312pt too wide) in paragraph at lines 981--982
+[]\T1/ptm/m/n/10.95 Maqaa mataduree[]: Maqaan huban-noo, ho-j-jaa ykn gocha tok
+koof akka matadureeti
  []
 
 
-Overfull \hbox (5.36833pt too wide) in paragraph at lines 979--980
+Overfull \hbox (5.36833pt too wide) in paragraph at lines 981--982
 \T1/ptm/m/n/10.95 ida'amti. Fak-keenyaaf, bituu, jjib-buu, jaal-lachu-ufi kkf. 
 maqoota matadureeti. 
  []
 
 
-Overfull \hbox (0.25536pt too wide) in paragraph at lines 990--991
+Overfull \hbox (0.25536pt too wide) in paragraph at lines 992--993
 \T1/ptm/m/n/10.95 Jechi 'ko-rniyaa' jedhu nama ykn waan jechi tokko bakka bu'ee
 ru dhi-ira ykn dubar-
  []
@@ -2098,7 +2172,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [57]
-Overfull \hbox (0.74704pt too wide) in paragraph at lines 1006--1021
+Overfull \hbox (0.74704pt too wide) in paragraph at lines 1008--1023
 []\T1/ptm/m/n/10.95 Kana malees, maqaaleen uumaatiin dhi-iraa ykn dubar-tii mul
 'isan jiru. Fak-
  []
@@ -2112,18 +2186,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [58]
-Overfull \hbox (5.03935pt too wide) in paragraph at lines 1024--1028
+Overfull \hbox (5.03935pt too wide) in paragraph at lines 1026--1030
 \T1/ptm/m/n/10.95 Lakkoofsa hed-dum-mina yookiin qeen-tee agar-si-isuuf fu-fii 
 maqaa ir-ratti maxxansina.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1024--1028
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1030
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1042
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1044
 
  []
 
@@ -2136,23 +2210,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [59]
-Overfull \hbox (6.27692pt too wide) in paragraph at lines 1043--1045
+Overfull \hbox (6.27692pt too wide) in paragraph at lines 1045--1047
 \T1/ptm/m/n/10.95 maka-mukkeen; laga-laggeen.Fufileen {^^Uolee}, {-olii} fi {^^
 Uaan} hed-dum-mina agar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1053--1056
+Underfull \hbox (badness 10000) in paragraph at lines 1055--1058
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1057--1061
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1063
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1062--1063
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1065
 
  []
 
@@ -2165,13 +2239,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [60]
-Overfull \hbox (22.26305pt too wide) in paragraph at lines 1069--1075
+Overfull \hbox (22.26305pt too wide) in paragraph at lines 1071--1077
 \T1/ptm/m/n/10.95 maxxana. AO keessatti unka ma-ti-maaf seeronni ar-maan gadii 
 hojjetu[]Griefenow-
  []
 
 
-Overfull \hbox (3.25465pt too wide) in paragraph at lines 1069--1075
+Overfull \hbox (3.25465pt too wide) in paragraph at lines 1071--1077
 \T1/ptm/m/n/10.95 d. Jechi dham-saga /n/tiin gochima yoo ta'e, fu-fii ma-ti-maa
  homaa hin'ida'atu.
  []
@@ -2185,21 +2259,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [61]
-Overfull \hbox (8.59862pt too wide) in paragraph at lines 1086--1087
+Overfull \hbox (8.59862pt too wide) in paragraph at lines 1088--1089
 \T1/ptm/m/n/10.95 maayii ken-naa {-dhaaf}, fi {-tiif} maxxan-fata. Maqaan dub-b
 achi-if-tuu gabaab-
  []
 
 
-Overfull \hbox (1.43806pt too wide) in paragraph at lines 1093--1094
+Overfull \hbox (1.43806pt too wide) in paragraph at lines 1095--1096
 []\T1/ptm/m/n/10.95 Akka fak-keeny-ota kana ir-raa huban-nutti maqaan dub-bachi
 -if-tuu dheeraa dhu-
  []
 
 
-Overfull \hbox (3.41853pt too wide) in paragraph at lines 1095--1100
-[]\T1/ptm/m/n/10.95 Maayii an-ti-maa: Maayiin an-ti-maa nama ykn qaama gochi ir
--ratti raawwatame
+Overfull \hbox (3.41853pt too wide) in paragraph at lines 1097--1102
+[]\T1/ptm/m/n/10.95 Maayii an-ti-maa: Maayiin an-ti-maa[] nama ykn qaama gochi 
+ir-ratti raawwatame
  []
 
 
@@ -2229,31 +2303,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [64]
-Overfull \hbox (3.81277pt too wide) in paragraph at lines 1140--1143
+Overfull \hbox (3.81277pt too wide) in paragraph at lines 1142--1145
 \T1/ptm/m/n/10.95 keessaa tokkodha. Maqibsa maqaa ir-ratti da-bal-amee ode-ef-f
 an-noo da-bal-ataa maqaaf
  []
 
 
-Overfull \hbox (7.94072pt too wide) in paragraph at lines 1174--1176
+Overfull \hbox (7.94072pt too wide) in paragraph at lines 1171--1173
 \T1/ptm/m/n/10.95 (maqibsa), bareed-tuu/bareedduu (maqibsa); ul-faate (gochima)
 , ulfaat-aa (maqibsa),
  []
 
 
-Overfull \hbox (13.54669pt too wide) in paragraph at lines 1174--1176
+Overfull \hbox (13.54669pt too wide) in paragraph at lines 1171--1173
 \T1/ptm/m/n/10.95 ulfaat-tuu (maqibsa). Akka-sumas fu-fileen {- eessa/- eetti} 
 n gochima ir-ratti maxxanu-
  []
 
 
-Overfull \hbox (4.04338pt too wide) in paragraph at lines 1174--1176
+Overfull \hbox (4.04338pt too wide) in paragraph at lines 1171--1173
 \T1/ptm/m/n/10.95 ud-haan maqibsa dha-la-too uumu. Fkn, 1. soorome (gochima), s
 oor-eessa (maqibsa),
  []
 
 
-Overfull \hbox (12.18892pt too wide) in paragraph at lines 1174--1176
+Overfull \hbox (12.18892pt too wide) in paragraph at lines 1171--1173
 \T1/ptm/m/n/10.95 Soor-ettii (maqibsa); daboome (gochima), dab-eessa (maqibsa),
  dab-eettii (maqibsa);
  []
@@ -2289,34 +2363,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [67]
-Overfull \hbox (4.85303pt too wide) in paragraph at lines 1213--1219
-\T1/ptm/m/n/10.95 Agarsiistonni dhiy-eenya agar-si-isan bakka lamatti qoodamu; 
-isaa-nis qeen-teefi danuu
+Overfull \hbox (4.85303pt too wide) in paragraph at lines 1207--1213
+\T1/ptm/m/n/10.95 Agarsiistonni dhiy-eenya[] agar-si-isan bakka lamatti qoodamu
+; isaa-nis qeen-teefi danuu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1213--1219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1213--1219
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1213
 
  []
 
 
-Overfull \hbox (8.26982pt too wide) in paragraph at lines 1220--1227
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1213
+
+ []
+
+
+Overfull \hbox (8.26982pt too wide) in paragraph at lines 1214--1221
 []\T1/ptm/m/n/10.95 Agarsiistonni dhiy-eenya agar-si-isan kun-neen karaa unka i
 saanii bakka lamatti
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1220--1227
+Underfull \hbox (badness 10000) in paragraph at lines 1214--1221
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1220--1227
+Underfull \hbox (badness 10000) in paragraph at lines 1214--1221
 
  []
 
@@ -2329,22 +2403,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [68]
-Underfull \hbox (badness 10000) in paragraph at lines 1233--1243
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1233--1243
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1233--1243
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1237
 
  []
 
 
-Overfull \hbox (1.2182pt too wide) in paragraph at lines 1244--1245
+Overfull \hbox (1.2182pt too wide) in paragraph at lines 1238--1239
 []\T1/ptm/m/n/10.95 Walumaa galatti agar-si-is-tonni dhiy-eenyaa nama isa dub-b
 atutti waan dhiyoo
  []
@@ -2358,19 +2432,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [69]
-Overfull \hbox (10.31708pt too wide) in paragraph at lines 1248--1251
+Overfull \hbox (10.31708pt too wide) in paragraph at lines 1242--1245
 \T1/ptm/m/n/10.95 maqibsa, maqaa ir-ratti id'amee ode-ef-fan-noo da-bal-ataa ga
 alee maqaaf kenna. Kanaaf,
  []
 
 
-Overfull \hbox (0.5168pt too wide) in paragraph at lines 1248--1251
+Overfull \hbox (0.5168pt too wide) in paragraph at lines 1242--1245
 \T1/ptm/m/n/10.95 lakkoofsa ham-mam-taafi lakkoofsa mee-qan-taa jed-hamu. Walum
 aa galatti lakkoofsi
  []
 
 
-Overfull \hbox (18.60623pt too wide) in paragraph at lines 1258--1262
+Overfull \hbox (18.60623pt too wide) in paragraph at lines 1251--1255
 \T1/ptm/m/n/10.95 Kana jechu-u-nis, fu-fii - af-faa jedhu lakkoofsa ham-mam-taa
  ir-ratti maxxan-suun lakkoofsa
  []
@@ -2397,7 +2471,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [71]
-Overfull \hbox (25.60335pt too wide) in paragraph at lines 1348--1360
+Overfull \hbox (25.60335pt too wide) in paragraph at lines 1341--1353
 \T1/ptm/m/n/10.95 ba-maqaalee qabeen-taa yoo ta'u, inni lam-maf-faa am-moo kara
 a maqaa ab-baa qabeenyaati.
  []
@@ -2411,24 +2485,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [72]
-Underfull \hbox (badness 10000) in paragraph at lines 1362--1369
+Underfull \hbox (badness 10000) in paragraph at lines 1355--1362
 
  []
 
 
-Overfull \hbox (4.16368pt too wide) in paragraph at lines 1372--1376
+Overfull \hbox (4.16368pt too wide) in paragraph at lines 1365--1369
 \T1/ptm/m/n/10.95 gaafachuuf ta-jaa-ji-lan jechu-udha. Hima keessatti eenyu goc
 ha tokko akka raawwate,
  []
 
 
-Overfull \hbox (10.07674pt too wide) in paragraph at lines 1372--1376
+Overfull \hbox (10.07674pt too wide) in paragraph at lines 1365--1369
 \T1/ptm/m/n/10.95 maal akka raawwate, eessatti akka raawwate, yoom akka raawwa-
 teefi kkf gaafachuuf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1372--1376
+Underfull \hbox (badness 10000) in paragraph at lines 1365--1369
 
  []
 
@@ -2441,24 +2515,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 1389--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1393
 
  []
 
 
-Overfull \hbox (1.30656pt too wide) in paragraph at lines 1402--1408
-\T1/ptm/m/n/10.95 Bamaqaaleen ofiifee/ufinaa[]Addunya, 2018) namni tokko ykn qa
-amni tokko gocha
+Overfull \hbox (1.30656pt too wide) in paragraph at lines 1395--1401
+\T1/ptm/m/n/10.95 Bamaqaaleen ofi-ifee[]/ufinaa[]Addunya, 2018) namni tokko ykn
+ qaamni tokko gocha
  []
 
 
-Overfull \hbox (18.80139pt too wide) in paragraph at lines 1402--1408
+Overfull \hbox (18.80139pt too wide) in paragraph at lines 1395--1401
 \T1/ptm/m/n/10.95 tokko ofisaa/ofiishee mataa isaatiif/ isheetiif akka-sumas mu
 r-tee mataa isaatiin/isheetiin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1402--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1401
 
  []
 
@@ -2471,23 +2545,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [74]
-Underfull \hbox (badness 10000) in paragraph at lines 1411--1421
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1414
 
  []
 
 
-Overfull \hbox (70.73836pt too wide) in paragraph at lines 1423--1427
-\T1/ptm/m/n/10.95 Bamaqaaleen agar-si-is-tuu waan tokko dhiy-eeny-atti ykn fage
-eny-atti agar-si-isuuf tajaajilu[]Griefenow-
+Overfull \hbox (70.73836pt too wide) in paragraph at lines 1416--1420
+\T1/ptm/m/n/10.95 Bamaqaaleen agar-si-is-tuu[] waan tokko dhiy-eeny-atti ykn fa
+geeny-atti agar-si-isuuf tajaajilu[]Griefenow-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1427
+Underfull \hbox (badness 10000) in paragraph at lines 1416--1420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1428--1433
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1426
 
  []
 
@@ -2500,7 +2574,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [75]
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1436
 
  []
 
@@ -2513,12 +2587,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 1452--1461
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1453
 
  []
 
 
-Overfull \hbox (6.98956pt too wide) in paragraph at lines 1465--1470
+Overfull \hbox (6.98956pt too wide) in paragraph at lines 1457--1462
 \T1/ptm/m/n/10.95 raawwatame ode-ef-fan-noo kennu. Namni dub-bii gaggeessu tokk
 o gocha gaggeefame
  []
@@ -2532,7 +2606,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [77]
-Overfull \hbox (8.2807pt too wide) in paragraph at lines 1473--1475
+Overfull \hbox (8.2807pt too wide) in paragraph at lines 1465--1467
 \T1/ptm/m/n/10.95 marra ji-ran hen-naa, lakkoofsa, ra-mad-dii, ko-rniyaa al-tok
 kotti agar-si-isu. Fak-keenyaaf,
  []
@@ -2546,9 +2620,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [78]
-Overfull \hbox (10.87589pt too wide) in paragraph at lines 1481--1482
- \T1/ptm/b/n/10.95 Ald-hu-mataa[] \T1/ptm/m/n/10.95 Al-ad-hu-matni unka ald-hu-
-mataa [] fi am-siqaa (KATO, 1995) of keessaa
+Overfull \hbox (10.87589pt too wide) in paragraph at lines 1473--1474
+ \T1/ptm/b/n/10.95 Ald-hu-mataa[][] \T1/ptm/m/n/10.95 Al-ad-hu-matni unka ald-h
+u-mataa [] fi am-siqaa (KATO, 1995) of keessaa
  []
 
 
@@ -2560,15 +2634,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [79]
-Overfull \hbox (12.41939pt too wide) in paragraph at lines 1506--1511
+Overfull \hbox (12.41939pt too wide) in paragraph at lines 1498--1503
 []\T1/ptm/m/n/10.95 4. Fu-fi-ileen gochi-mar-ratti ida'amanii haayyama agar-si-
 isan-fu-fi-ileen haayyama
  []
 
 
-Overfull \hbox (14.71912pt too wide) in paragraph at lines 1513--1514
-\T1/ptm/m/n/10.95 Hennaa dachaa akaakuu ad-daad-daa qaba. Isaa-nis raawwima am-
-meen-naa [], raawwima
+Overfull \hbox (14.71912pt too wide) in paragraph at lines 1505--1506
+\T1/ptm/m/n/10.95 Hennaa dachaa[] akaakuu ad-daad-daa qaba. Isaa-nis raawwima a
+m-meen-naa [], raawwima
  []
 
 
@@ -2580,23 +2654,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [80]
-Overfull \hbox (40.28787pt too wide) in paragraph at lines 1516--1518
+Overfull \hbox (40.28787pt too wide) in paragraph at lines 1508--1510
  \T1/ptm/b/n/10.95 Raawwima Am-meen-naa[] \T1/ptm/m/n/10.95 Raawwimni am-meenaa
- jechuun ho-jii yeroo dabre dalagameeru
+[] jechuun ho-jii yeroo dabre dalagameeru
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1516--1518
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1510
 
  []
 
 
-Overfull \hbox (26.50313pt too wide) in paragraph at lines 1519--1520
+Overfull \hbox (26.50313pt too wide) in paragraph at lines 1511--1512
 []$[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1545--1546
+Underfull \hbox (badness 10000) in paragraph at lines 1537--1538
 
  []
 
@@ -2639,12 +2713,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [84]
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1700
+Underfull \hbox (badness 10000) in paragraph at lines 1688--1692
 
  []
 
 
-Overfull \hbox (6.83533pt too wide) in paragraph at lines 1696--1700
+Overfull \hbox (6.83533pt too wide) in paragraph at lines 1688--1692
 \T1/ptm/m/n/10.95 a. Ab-baankoo manaa ba'ee, hiriyyaa isaa mari'atee, farda yaa
 b-ba-tee, gabaa deemee,
  []
@@ -2658,18 +2732,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [85]
-Overfull \hbox (1.61296pt too wide) in paragraph at lines 1703--1708
+Overfull \hbox (1.61296pt too wide) in paragraph at lines 1695--1700
 []\T1/ptm/m/n/10.95 Akaakuun gochi-maa, hi-maa gid-du-utti, tar-ree galee dhufu
  isa gochi tokkoofi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1703--1708
+Underfull \hbox (badness 10000) in paragraph at lines 1695--1700
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1709--1714
+Underfull \hbox (badness 10000) in paragraph at lines 1701--1706
 
  []
 
@@ -2682,56 +2756,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [86]
-Overfull \hbox (2.12541pt too wide) in paragraph at lines 1722--1723
+Overfull \hbox (2.12541pt too wide) in paragraph at lines 1714--1715
 \T1/ptm/m/n/10.95 s-,is-,-sis-,-siis-,-ss-,-ess^^U,-eess^^U }ida'amani gochima 
 taa-sisuu uumu []Tolemariam,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1722--1723
+Underfull \hbox (badness 10000) in paragraph at lines 1714--1715
 
  []
 
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1722.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1723.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1724
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1724
+
+ []
+
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1729.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 1730.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1731.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1732
+Underfull \hbox (badness 10000) in paragraph at lines 1727--1731
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1732
+Underfull \hbox (badness 10000) in paragraph at lines 1727--1731
 
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 1737.
+            Default family used instead on input line 1734.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 1738.
+            Default family used instead on input line 1735.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1735--1739
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1735--1739
-
- []
-
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1742.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1743.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1742--1744
+Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
 
  []
 
@@ -2744,28 +2818,48 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [87]
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1755
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1755
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1755
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1755
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1747
 
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 1766.
+            Default family used instead on input line 1758.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1759.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1760.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1761.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1762.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1763.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1756--1764
+
+ []
+
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 1767.
@@ -2778,28 +2872,8 @@ LaTeX Info: Symbol \textrightarrow not provided by
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 1770.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1771.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1772
-
- []
-
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1775.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1776.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1777.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1778.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1773--1779
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1771
 
  []
 
@@ -2814,10 +2888,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [88]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 1790.
+            Default family used instead on input line 1782.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 1791.
+            Default family used instead on input line 1783.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1784.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1785.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1786.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 1787.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1780--1788
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1780--1788
+
+ []
+
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 1792.
@@ -2830,36 +2926,14 @@ LaTeX Info: Symbol \textrightarrow not provided by
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 1795.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1788--1796
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1788--1796
-
- []
-
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 1800.
+            Default family used instead on input line 1796.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 1801.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1802.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1803.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1804.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 1805.
+            Default family used instead on input line 1797.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1798--1806
+Underfull \hbox (badness 10000) in paragraph at lines 1790--1798
 
  []
 
@@ -2872,31 +2946,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [89]
-Overfull \hbox (17.29356pt too wide) in paragraph at lines 1812--1814
+Overfull \hbox (17.29356pt too wide) in paragraph at lines 1804--1806
 \T1/ptm/m/n/10.95 aansines gochima dha-la-too walx-axaa uumuu dan-deenya. Fak-k
 eenyaaf, dhabam-
  []
 
 
-Overfull \hbox (12.62738pt too wide) in paragraph at lines 1814--1815
+Overfull \hbox (12.62738pt too wide) in paragraph at lines 1806--1807
 []\T1/ptm/b/n/10.95 taasisaa + gid-dugalaa\T1/ptm/m/n/10.95 : Fu-fi-ilee taa-si
 saafi gid-dugalaa walitti maknees gochima
  []
 
 
-Overfull \hbox (14.68723pt too wide) in paragraph at lines 1815--1817
+Overfull \hbox (14.68723pt too wide) in paragraph at lines 1807--1809
 \T1/ptm/m/n/10.95 {-at-} walitti maka-muun gochima walx-axaa hin'uuman. Fak-kee
 nyaaf, *gurgur-
  []
 
 
-Overfull \hbox (0.3741pt too wide) in paragraph at lines 1820--1822
-\T1/ptm/m/n/10.95 Gochimni ti-ishoo je-choota lamar-raa uumama. AO keessatti, d
-ur-du-ubeen, Gochim-
+Overfull \hbox (0.3741pt too wide) in paragraph at lines 1812--1814
+\T1/ptm/m/n/10.95 Gochimni ti-ishoo[] je-choota lamar-raa uumama. AO keessatti,
+ dur-du-ubeen, Gochim-
  []
 
 
-Overfull \hbox (3.26517pt too wide) in paragraph at lines 1823--1824
+Overfull \hbox (3.26517pt too wide) in paragraph at lines 1815--1816
 []\T1/ptm/m/n/10.95 AO keessatti hun-deen jechaa gochima jechuu fi gochuu walii
 n walitti maka-
  []
@@ -2910,37 +2984,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [90]
-Underfull \hbox (badness 10000) in paragraph at lines 1826--1839
+Underfull \hbox (badness 10000) in paragraph at lines 1818--1831
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1826--1839
+Underfull \hbox (badness 10000) in paragraph at lines 1818--1831
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1840--1851
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1843
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1840--1851
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1843
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1840--1851
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1843
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1852--1857
+Underfull \hbox (badness 10000) in paragraph at lines 1844--1849
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1852--1857
+Underfull \hbox (badness 10000) in paragraph at lines 1844--1849
 
  []
 
@@ -2953,22 +3027,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [91]
-Underfull \hbox (badness 10000) in paragraph at lines 1860--1865
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1857
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1872
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1864
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1872
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1864
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1873--1877
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1869
 
  []
 
@@ -2990,55 +3064,55 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [93]
-Overfull \hbox (0.8789pt too wide) in paragraph at lines 1889--1894
+Overfull \hbox (0.8789pt too wide) in paragraph at lines 1881--1886
 \T1/ptm/m/n/10.95 choota qabiyy-eefi je-choota ta-jaa-ji-lat. Je-choonni qabiyy
 ee kan-neen bo-qon-naawwan
  []
 
 
-Overfull \hbox (12.33147pt too wide) in paragraph at lines 1899--1901
-\T1/ptm/m/n/10.95 AO keessatti dur-du-ubee akaakuu adda ad-daatu jiru. Isaa-nis
- kan-neen jechatti fufaman,
+Overfull \hbox (12.33147pt too wide) in paragraph at lines 1891--1893
+\T1/ptm/m/n/10.95 AO keessatti dur-du-ubee[] akaakuu adda ad-daatu jiru. Isaa-n
+is kan-neen jechatti fufaman,
  []
 
 
-Overfull \hbox (11.21559pt too wide) in paragraph at lines 1902--1907
+Overfull \hbox (11.21559pt too wide) in paragraph at lines 1894--1899
 []\T1/ptm/m/n/10.95 Durduubeewwan ar-maan gadii jechatti fufamanii argamu []Gri
 efenow-Mewis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1907
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1899
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1907
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1899
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1929
+Underfull \hbox (badness 10000) in paragraph at lines 1900--1921
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1929
+Underfull \hbox (badness 10000) in paragraph at lines 1900--1921
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1929
+Underfull \hbox (badness 10000) in paragraph at lines 1900--1921
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1929
+Underfull \hbox (badness 10000) in paragraph at lines 1900--1921
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1929
+Underfull \hbox (badness 10000) in paragraph at lines 1900--1921
 
  []
 
@@ -3051,75 +3125,75 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [94]
-Overfull \hbox (9.36392pt too wide) in paragraph at lines 1932--1933
-\T1/ptm/m/n/10.95 Walqabsiistuun akaakuu jecha ta-jaa-ji-laati. Walqab-si-is-tu
-un hi-maafi hima ykn gaaleefi
+Overfull \hbox (9.36392pt too wide) in paragraph at lines 1924--1925
+\T1/ptm/m/n/10.95 Walqabsiistuun[] akaakuu jecha ta-jaa-ji-laati. Walqab-si-is-
+tuun hi-maafi hima ykn gaaleefi
  []
 
 
-Overfull \hbox (14.66457pt too wide) in paragraph at lines 1932--1933
+Overfull \hbox (14.66457pt too wide) in paragraph at lines 1924--1925
 \T1/ptm/m/n/10.95 Isaa-nis kan-neen of danda'anii dhaab-batan, kan-neen hirkata
 ni-ifi kan-neen irra deebi'ani
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
 
-Overfull \hbox (3.40692pt too wide) in paragraph at lines 1934--2003
+Overfull \hbox (3.40692pt too wide) in paragraph at lines 1926--1995
 \T1/ptm/m/n/10.95 Walqabsiistonni irra deebi'anii qaama hima walqab-si-isa-nis 
 jiru []Griefenow-Mewis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--2003
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1995
 
  []
 
@@ -3150,63 +3224,63 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [97]
-Underfull \hbox (badness 10000) in paragraph at lines 2008--2018
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2010
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2008--2018
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2010
 
  []
 
 
-Overfull \hbox (17.27019pt too wide) in paragraph at lines 2020--2025
+Overfull \hbox (17.27019pt too wide) in paragraph at lines 2012--2017
 []\T1/ptm/m/n/10.95 AO keessatti xiyy-e-ef-fan-noo ku-ti-maa kan agar-si-isuu f
 u-fii {-ni} dha []Griefenow-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2020--2025
+Underfull \hbox (badness 10000) in paragraph at lines 2012--2017
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2020--2025
+Underfull \hbox (badness 10000) in paragraph at lines 2012--2017
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2051
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2043
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2051
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2043
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2051
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2043
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2051
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2043
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2051
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2043
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2051
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2043
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2051
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2043
 
  []
 
@@ -3219,7 +3293,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [98]
-Underfull \hbox (badness 10000) in paragraph at lines 2052--2057
+Underfull \hbox (badness 10000) in paragraph at lines 2044--2049
 
  []
 
@@ -3232,48 +3306,48 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [99]
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
 
-Overfull \hbox (4.55765pt too wide) in paragraph at lines 2079--2123
+Overfull \hbox (4.55765pt too wide) in paragraph at lines 2071--2115
 \T1/ptm/m/n/10.95 Gochimibsoonni ar-maan gadii madaal-lii agar-si-isu []Griefen
 ow-Mewis, 2001, pp.97-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2123
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2115
 
  []
 
@@ -3286,7 +3360,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [100]
-Underfull \hbox (badness 10000) in paragraph at lines 2125--2130
+Underfull \hbox (badness 10000) in paragraph at lines 2117--2122
 
  []
 
@@ -3312,31 +3386,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Boqonnaa 5.
 
-Overfull \hbox (7.65639pt too wide) in paragraph at lines 2154--2155
+Overfull \hbox (7.65639pt too wide) in paragraph at lines 2146--2147
 \T1/ptm/m/n/10.95 gaalee maqibsa ib-suma maqaati. Haaluma wal fakkaatuun hangaf
 ni gaalee gochima,
  []
 
 
-Overfull \hbox (16.16483pt too wide) in paragraph at lines 2154--2155
+Overfull \hbox (16.16483pt too wide) in paragraph at lines 2146--2147
 \T1/ptm/m/n/10.95 gochima kkf. Mataa ykn hangafa gaalee jechuun jecha gaaleen s
 un ir-ratti bu'uureffate,
  []
 
 [103]
-Overfull \hbox (0.4622pt too wide) in paragraph at lines 2156--2158
+Overfull \hbox (0.4622pt too wide) in paragraph at lines 2148--2150
 \T1/ptm/m/n/10.95 biroon walitti dhufeenya je-choota gaalee keessatti arga-mani
 i hubachu-udha. Walitti
  []
 
 
-Overfull \hbox (1.4592pt too wide) in paragraph at lines 2156--2158
+Overfull \hbox (1.4592pt too wide) in paragraph at lines 2148--2150
 \T1/ptm/m/n/10.95 dhufeenya gaalee keessatti argamu karaa lama hu-batama. Tokko
 , walitti dhufeenya
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2160--2161
+Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
 
  []
 
@@ -3353,7 +3427,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [104]
-Overfull \hbox (19.6357pt too wide) in paragraph at lines 2177--2193
+Overfull \hbox (19.6357pt too wide) in paragraph at lines 2169--2185
 []\T1/ptm/m/n/10.95 Seera gaalee keessatti gad-aanaan tokko ol-aantota lamaa fi
  lamaa ol qabaachuu
  []
@@ -3379,18 +3453,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [106]
-Overfull \hbox (25.15407pt too wide) in paragraph at lines 2234--2242
+Overfull \hbox (25.15407pt too wide) in paragraph at lines 2226--2234
 \T1/ptm/m/n/10.95 waliin adee-ma-nis bakkuma gaalee waan qa-bataniif akkuma gaa
 lee maqaatti lakkaa'amu.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2234--2242
+Underfull \hbox (badness 10000) in paragraph at lines 2226--2234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2234--2242
+Underfull \hbox (badness 10000) in paragraph at lines 2226--2234
 
  []
 
@@ -3403,28 +3477,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [107]
-Underfull \hbox (badness 10000) in paragraph at lines 2250--2256
+Underfull \hbox (badness 10000) in paragraph at lines 2242--2248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2250--2256
+Underfull \hbox (badness 10000) in paragraph at lines 2242--2248
 
  []
 
 
-Overfull \hbox (20.26088pt too wide) in paragraph at lines 2256--2264
+Overfull \hbox (20.26088pt too wide) in paragraph at lines 2248--2256
 []\T1/ptm/m/n/10.95 Gaaleen tokko osoo ad-daan hin ba'iin yeroo hunda wal-faana
  adeemuu (sosso'uu)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2256--2264
+Underfull \hbox (badness 10000) in paragraph at lines 2248--2256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2256--2264
+Underfull \hbox (badness 10000) in paragraph at lines 2248--2256
 
  []
 
@@ -3449,12 +3523,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [109]
-Underfull \hbox (badness 10000) in paragraph at lines 2306--2311
+Underfull \hbox (badness 10000) in paragraph at lines 2298--2303
 
  []
 
 
-Overfull \hbox (8.5651pt too wide) in paragraph at lines 2306--2311
+Overfull \hbox (8.5651pt too wide) in paragraph at lines 2298--2303
 \T1/ptm/m/n/10.95 Akka caasaa ar-maan ga-ditti agar-si-ifameeru kana \T1/ptm/b/
 n/10.95 namicha \T1/ptm/m/n/10.95 n hangafa gaalee maqaati;
  []
@@ -3472,19 +3546,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [110]
-Overfull \hbox (19.41612pt too wide) in paragraph at lines 2325--2326
+Overfull \hbox (19.41612pt too wide) in paragraph at lines 2317--2318
 \T1/ptm/m/n/10.95 keenya, ki-taaba-keessan, ki-taabashee fi ki-taabasaanii kees
 saa mur-teessi-toonni qabeenya
  []
 
 
-Overfull \hbox (7.2071pt too wide) in paragraph at lines 2325--2326
+Overfull \hbox (7.2071pt too wide) in paragraph at lines 2317--2318
 \T1/ptm/m/n/10.95 asheeta mataa lamaafi kkf. mur-teessi-toonni kun-neen un-kaat
 iin maqib-safi maqaadha. 
  []
 
 
-Overfull \hbox (6.15623pt too wide) in paragraph at lines 2346--2349
+Overfull \hbox (6.15623pt too wide) in paragraph at lines 2338--2341
 \T1/ptm/m/n/10.95 2. Ulaa-gaawwan gaaleen itti beekamu tar-reessi-itii tokko to
 kkoo isaanii fak-keenyaan
  []
@@ -3498,7 +3572,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [111]
-Overfull \hbox (9.85815pt too wide) in paragraph at lines 2351--2356
+Overfull \hbox (9.85815pt too wide) in paragraph at lines 2343--2348
 \T1/ptm/m/n/10.95 Akkuma gaalee maqaa gaaleen maqib-sas hangafa yookiin dura bu
 'aa qaba. Hangafni
  []
@@ -3512,12 +3586,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [112]
-Underfull \hbox (badness 10000) in paragraph at lines 2391--2396
+Underfull \hbox (badness 10000) in paragraph at lines 2383--2388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2391--2396
+Underfull \hbox (badness 10000) in paragraph at lines 2383--2388
 
  []
 
@@ -3534,23 +3608,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [113]
-Underfull \hbox (badness 10000) in paragraph at lines 2414--2420
+Underfull \hbox (badness 10000) in paragraph at lines 2406--2412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2414--2420
+Underfull \hbox (badness 10000) in paragraph at lines 2406--2412
 
  []
 
 
-Overfull \hbox (2.40007pt too wide) in paragraph at lines 2421--2424
+Overfull \hbox (2.40007pt too wide) in paragraph at lines 2413--2416
 []\T1/ptm/m/n/10.95 Himoota ar-maan olii keessatti gaaleewwan jala sarara-mani-
 iran gaaleewwan
  []
 
 
-Overfull \hbox (4.50378pt too wide) in paragraph at lines 2421--2424
+Overfull \hbox (4.50378pt too wide) in paragraph at lines 2413--2416
 \T1/ptm/m/n/10.95 dur-du-ubeeti. Gaaleewwan dur-du-ubee kun-neen hangafoota qab
 u. (a) ir-ratti hangafni
  []
@@ -3564,17 +3638,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [114]
-Underfull \hbox (badness 10000) in paragraph at lines 2451--2457
+Underfull \hbox (badness 10000) in paragraph at lines 2443--2449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2451--2457
+Underfull \hbox (badness 10000) in paragraph at lines 2443--2449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2451--2457
+Underfull \hbox (badness 10000) in paragraph at lines 2443--2449
 
  []
 
@@ -3587,17 +3661,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [115]
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2479
+Underfull \hbox (badness 10000) in paragraph at lines 2465--2471
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2479
+Underfull \hbox (badness 10000) in paragraph at lines 2465--2471
 
  []
 
 
-Overfull \hbox (0.15561pt too wide) in paragraph at lines 2480--2482
+Overfull \hbox (0.15561pt too wide) in paragraph at lines 2472--2474
 \T1/ptm/m/n/10.95 gaalee dur-du-ubee jed-hamu. Gaaleewwan kan-neen keessaa (a) 
 ir-ratti isheen deesse,
  []
@@ -3615,23 +3689,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [116]
-Underfull \hbox (badness 10000) in paragraph at lines 2496--2502
+Underfull \hbox (badness 10000) in paragraph at lines 2488--2494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2496--2502
+Underfull \hbox (badness 10000) in paragraph at lines 2488--2494
 
  []
 
 
-Overfull \hbox (22.71153pt too wide) in paragraph at lines 2503--2504
+Overfull \hbox (22.71153pt too wide) in paragraph at lines 2495--2496
 []\T1/ptm/m/n/10.95 Himoota ar-maan olii ir-ratti ilaala-man keessatti warri ja
 la sarara-man gaaleewwan
  []
 
 
-Overfull \hbox (3.46252pt too wide) in paragraph at lines 2503--2504
+Overfull \hbox (3.46252pt too wide) in paragraph at lines 2495--2496
 \T1/ptm/m/n/10.95 dur-du-ubeeti. Gu-ut-tuuwwan isaanii am-moo (a) ir-ratti \T1/
 ptm/b/n/10.95 man-atti\T1/ptm/m/n/10.95 ,(b) ir-ratti \T1/ptm/b/n/10.95 hangafa
 at-
@@ -3650,18 +3724,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [117]
-Overfull \hbox (6.78105pt too wide) in paragraph at lines 2525--2529
+Overfull \hbox (6.78105pt too wide) in paragraph at lines 2517--2521
 []\T1/ptm/m/n/10.95 Gaaleen dur-du-ubee gu-ut-tuu qo-faa osoo hin-taane mur-tee
 ssi-tuus qaba. Galeen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2525--2529
+Underfull \hbox (badness 10000) in paragraph at lines 2517--2521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2525--2529
+Underfull \hbox (badness 10000) in paragraph at lines 2517--2521
 
  []
 
@@ -3678,13 +3752,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [118]
-Overfull \hbox (20.54413pt too wide) in paragraph at lines 2550--2554
-[]\T1/ptm/m/n/10.95 Gaaleen gochim-ib-saa caasaatiin akkuma gaalee dur-du-ubeet
-ti ilaalama. Gaaleen
+Overfull \hbox (20.54413pt too wide) in paragraph at lines 2542--2546
+[]\T1/ptm/m/n/10.95 Gaaleen gochim-ib-saa[] caasaatiin akkuma gaalee dur-du-ube
+etti ilaalama. Gaaleen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2550--2554
+Underfull \hbox (badness 10000) in paragraph at lines 2542--2546
 
  []
 
@@ -3701,13 +3775,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [119]
-Overfull \hbox (10.16469pt too wide) in paragraph at lines 2577--2578
+Overfull \hbox (10.16469pt too wide) in paragraph at lines 2569--2570
 []\T1/ptm/m/n/10.95 Akka fak-keenya ar-maan olitti tuqame ir-raa hubachuun dand
 a'amutti \T1/ptm/b/n/10.95 Daraar-
  []
 
 
-Overfull \hbox (1.41518pt too wide) in paragraph at lines 2585--2590
+Overfull \hbox (1.41518pt too wide) in paragraph at lines 2577--2582
 \T1/ptm/m/n/10.95 garuu gochi-moota akaakuu sadii qo-faa ir-ratti xiyy-e-ef-fan
 na. Isaa-nis gochima hafoo,
  []
@@ -3721,24 +3795,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [120]
-Overfull \hbox (0.9992pt too wide) in paragraph at lines 2618--2626
+Overfull \hbox (0.9992pt too wide) in paragraph at lines 2610--2618
 \T1/ptm/m/n/10.95 Akaakuun gochi-maa inni lam-maf-faa gochima ce'aadha. Gochimn
 i ce'aan akaakuu
  []
 
 
-Overfull \hbox (4.94142pt too wide) in paragraph at lines 2618--2626
+Overfull \hbox (4.94142pt too wide) in paragraph at lines 2610--2618
 \T1/ptm/m/n/10.95 ce'aa gu-ut-tuu tokko dirqi-id-haan bar-baadan agar-si-isu. F
 ak-keeny-ota kan-neen keessaa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2618--2626
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2618--2626
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
 
  []
 
@@ -3751,12 +3825,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [121]
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2654
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2646
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2654
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2646
 
  []
 
@@ -3769,12 +3843,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [122]
-Underfull \hbox (badness 10000) in paragraph at lines 2687--2695
+Underfull \hbox (badness 10000) in paragraph at lines 2679--2687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2687--2695
+Underfull \hbox (badness 10000) in paragraph at lines 2679--2687
 
  []
 
@@ -3803,22 +3877,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [124]
-Underfull \hbox (badness 10000) in paragraph at lines 2750--2756
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2748
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2750--2756
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2748
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2750--2756
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2748
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2757--2759
+Underfull \hbox (badness 10000) in paragraph at lines 2749--2751
 
  []
 
@@ -3835,23 +3909,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [125]
-Overfull \hbox (3.17824pt too wide) in paragraph at lines 2773--2780
+Overfull \hbox (3.17824pt too wide) in paragraph at lines 2765--2772
 \T1/ptm/m/n/10.95 udha. Gu-ut-tonni isaanii hi-moota hirka-toodha. Kana malees 
 gochi-moonni \T1/ptm/b/n/10.95 danda'a\T1/ptm/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2773--2780
+Underfull \hbox (badness 10000) in paragraph at lines 2765--2772
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2773--2780
+Underfull \hbox (badness 10000) in paragraph at lines 2765--2772
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2773--2780
+Underfull \hbox (badness 10000) in paragraph at lines 2765--2772
 
  []
 
@@ -3868,12 +3942,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [126]
-Underfull \hbox (badness 10000) in paragraph at lines 2799--2806
+Underfull \hbox (badness 10000) in paragraph at lines 2791--2798
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2799--2806
+Underfull \hbox (badness 10000) in paragraph at lines 2791--2798
 
  []
 
@@ -3890,12 +3964,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [127]
-Underfull \hbox (badness 10000) in paragraph at lines 2838--2842
+Underfull \hbox (badness 10000) in paragraph at lines 2830--2834
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2838--2842
+Underfull \hbox (badness 10000) in paragraph at lines 2830--2834
 
  []
 
@@ -3912,13 +3986,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [128]
-Overfull \hbox (1.55807pt too wide) in paragraph at lines 2868--2871
+Overfull \hbox (1.55807pt too wide) in paragraph at lines 2860--2863
 \T1/ptm/m/n/10.95 Hima jechuun qin-doom-ina gaaleewwanii isa yaada gu-u-tuu tok
 ko dabar-suu danda'u
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2868--2871
+Underfull \hbox (badness 10000) in paragraph at lines 2860--2863
 
  []
 
@@ -3935,13 +4009,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [129]
-Overfull \hbox (3.64854pt too wide) in paragraph at lines 2905--2907
+Overfull \hbox (3.64854pt too wide) in paragraph at lines 2897--2899
 \T1/ptm/m/n/10.95 keessaa qaba jechu-udha. Hima AO keessatti gaaleen maqaa dura
  yoo dhufu gaaleen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2909--2912
+Underfull \hbox (badness 10000) in paragraph at lines 2901--2904
 
  []
 
@@ -3958,12 +4032,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [130]
-Underfull \hbox (badness 10000) in paragraph at lines 2913--2917
+Underfull \hbox (badness 10000) in paragraph at lines 2905--2909
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2913--2917
+Underfull \hbox (badness 10000) in paragraph at lines 2905--2909
 
  []
 
@@ -3992,13 +4066,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [132]
-Overfull \hbox (10.42613pt too wide) in paragraph at lines 2990--2991
+Overfull \hbox (10.42613pt too wide) in paragraph at lines 2982--2983
 \T1/ptm/m/n/10.95 gaalee dur-du-ubee fakkaa-teeti. Walumaa-galatti, hima raawwa
 ta-maa keessatti maayiin
  []
 
 
-Overfull \hbox (3.74585pt too wide) in paragraph at lines 2990--2991
+Overfull \hbox (3.74585pt too wide) in paragraph at lines 2982--2983
 \T1/ptm/m/n/10.95 walji-jjiruun jira. Hima ce'aa keessatti kan ma-tima ta'e him
 a raawwata-maa keessatti
  []
@@ -4016,12 +4090,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [133]
-Underfull \hbox (badness 10000) in paragraph at lines 3024--3028
+Underfull \hbox (badness 10000) in paragraph at lines 3016--3020
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3024--3028
+Underfull \hbox (badness 10000) in paragraph at lines 3016--3020
 
  []
 
@@ -4047,17 +4121,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [135]
-Underfull \hbox (badness 10000) in paragraph at lines 3061--3097
+Underfull \hbox (badness 10000) in paragraph at lines 3053--3089
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3061--3097
+Underfull \hbox (badness 10000) in paragraph at lines 3053--3089
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3061--3097
+Underfull \hbox (badness 10000) in paragraph at lines 3053--3089
 
  []
 
@@ -4074,12 +4148,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [136]
-Underfull \hbox (badness 10000) in paragraph at lines 3104--3110
+Underfull \hbox (badness 10000) in paragraph at lines 3096--3102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3104--3110
+Underfull \hbox (badness 10000) in paragraph at lines 3096--3102
 
  []
 
@@ -4096,12 +4170,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [137]
-Underfull \hbox (badness 10000) in paragraph at lines 3111--3115
+Underfull \hbox (badness 10000) in paragraph at lines 3103--3107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3111--3115
+Underfull \hbox (badness 10000) in paragraph at lines 3103--3107
 
  []
 
@@ -4114,28 +4188,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [138]
-Underfull \hbox (badness 10000) in paragraph at lines 3118--3122
+Underfull \hbox (badness 10000) in paragraph at lines 3110--3114
 
  []
 
 
-Overfull \hbox (3.96672pt too wide) in paragraph at lines 3118--3122
+Overfull \hbox (3.96672pt too wide) in paragraph at lines 3110--3114
 \T1/ptm/m/n/10.95 Akka fak-keenya kana ir-raa hu-bata-mutti hi-moota lamatu arg
 amu, hima of danda'aafi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3148--3157
+Underfull \hbox (badness 10000) in paragraph at lines 3140--3149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3148--3157
+Underfull \hbox (badness 10000) in paragraph at lines 3140--3149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3148--3157
+Underfull \hbox (badness 10000) in paragraph at lines 3140--3149
 
  []
 
@@ -4160,12 +4234,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [140]
-Underfull \hbox (badness 10000) in paragraph at lines 3179--3185
+Underfull \hbox (badness 10000) in paragraph at lines 3171--3177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3179--3185
+Underfull \hbox (badness 10000) in paragraph at lines 3171--3177
 
  []
 
@@ -4182,12 +4256,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [141]
-Underfull \hbox (badness 10000) in paragraph at lines 3211--3216
+Underfull \hbox (badness 10000) in paragraph at lines 3203--3208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3211--3216
+Underfull \hbox (badness 10000) in paragraph at lines 3203--3208
 
  []
 
@@ -4200,12 +4274,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [142]
-Underfull \hbox (badness 10000) in paragraph at lines 3217--3222
+Underfull \hbox (badness 10000) in paragraph at lines 3209--3214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3217--3222
+Underfull \hbox (badness 10000) in paragraph at lines 3209--3214
 
  []
 
@@ -4235,19 +4309,19 @@ Boqonnaa 6.
 [145
 
 ]
-Overfull \hbox (2.9154pt too wide) in paragraph at lines 3290--3291
+Overfull \hbox (2.9154pt too wide) in paragraph at lines 3282--3283
 \T1/ptm/m/n/10.95 Inni tokko caasaa hi-maa yoo ta'u innni lam-maf-faa am-moo hi
 -ika. Akkuma beekamu
  []
 
 
-Overfull \hbox (0.14479pt too wide) in paragraph at lines 3292--3293
+Overfull \hbox (0.14479pt too wide) in paragraph at lines 3284--3285
 []\T1/ptm/m/n/10.95 Boqonnaa kana keessatti hi-ikaafi caasi-maa hi-maa qaac-ces
 -suuf qabxi-i-wwan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3292--3293
+Underfull \hbox (badness 10000) in paragraph at lines 3284--3285
 
  []
 
@@ -4260,22 +4334,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [146]
-Underfull \hbox (badness 10000) in paragraph at lines 3305--3316
+Underfull \hbox (badness 10000) in paragraph at lines 3297--3308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3305--3316
+Underfull \hbox (badness 10000) in paragraph at lines 3297--3308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3305--3316
+Underfull \hbox (badness 10000) in paragraph at lines 3297--3308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3321--3327
+Underfull \hbox (badness 10000) in paragraph at lines 3313--3319
 
  []
 
@@ -4288,18 +4362,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [147]
-Underfull \hbox (badness 10000) in paragraph at lines 3331--3336
+Underfull \hbox (badness 10000) in paragraph at lines 3323--3328
 
  []
 
 
-Overfull \hbox (1.80956pt too wide) in paragraph at lines 3337--3339
+Overfull \hbox (1.80956pt too wide) in paragraph at lines 3329--3331
 []\T1/ptm/m/n/10.95 Himoonni ar-maan olii karaa caasi-maa ma-tima tokko tokkofi
  gochima tokko
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3340--3345
+Underfull \hbox (badness 10000) in paragraph at lines 3332--3337
 
  []
 
@@ -4312,44 +4386,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [148]
-Overfull \hbox (5.62991pt too wide) in paragraph at lines 3348--3349
+Overfull \hbox (5.62991pt too wide) in paragraph at lines 3340--3341
 \T1/ptm/m/n/10.95 ta'erratti maxxan-tee argamti. Fu-fiin wali-igal-teem-moo goc
 hi-matti maxxan-tee qaama
  []
 
 
-Overfull \hbox (3.648pt too wide) in paragraph at lines 3352--3357
+Overfull \hbox (3.648pt too wide) in paragraph at lines 3344--3349
 \T1/ptm/m/n/10.95 qaa-maan, sam-muu-tiin, sadarkaa jireenyaati-infi kkf haala t
 okko-r-raa ji-jji-iramee haala
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3352--3357
+Underfull \hbox (badness 10000) in paragraph at lines 3344--3349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3352--3357
+Underfull \hbox (badness 10000) in paragraph at lines 3344--3349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3352--3357
+Underfull \hbox (badness 10000) in paragraph at lines 3344--3349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3361--3368
+Underfull \hbox (badness 10000) in paragraph at lines 3353--3360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3361--3368
+Underfull \hbox (badness 10000) in paragraph at lines 3353--3360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3361--3368
+Underfull \hbox (badness 10000) in paragraph at lines 3353--3360
 
  []
 
@@ -4362,7 +4436,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [149]
-Underfull \hbox (badness 10000) in paragraph at lines 3369--3379
+Underfull \hbox (badness 10000) in paragraph at lines 3361--3371
 
  []
 
@@ -4375,22 +4449,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [150]
-Underfull \hbox (badness 10000) in paragraph at lines 3393--3399
+Underfull \hbox (badness 10000) in paragraph at lines 3385--3391
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3393--3399
+Underfull \hbox (badness 10000) in paragraph at lines 3385--3391
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3405--3411
+Underfull \hbox (badness 10000) in paragraph at lines 3397--3403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3405--3411
+Underfull \hbox (badness 10000) in paragraph at lines 3397--3403
 
  []
 
@@ -4403,28 +4477,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [151]
-Overfull \hbox (10.21947pt too wide) in paragraph at lines 3412--3413
+Overfull \hbox (10.21947pt too wide) in paragraph at lines 3404--3405
 []\T1/ptm/m/n/10.95 Himoonni ar-maan olii kun-neen hundi hima ce'aa jed-hamu. H
 undi isaaniyyuu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3415--3420
+Underfull \hbox (badness 10000) in paragraph at lines 3407--3412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3415--3420
+Underfull \hbox (badness 10000) in paragraph at lines 3407--3412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3424--3428
+Underfull \hbox (badness 10000) in paragraph at lines 3416--3420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3424--3428
+Underfull \hbox (badness 10000) in paragraph at lines 3416--3420
 
  []
 
@@ -4437,43 +4511,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [152]
-Underfull \hbox (badness 10000) in paragraph at lines 3429--3434
+Underfull \hbox (badness 10000) in paragraph at lines 3421--3426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3429--3434
+Underfull \hbox (badness 10000) in paragraph at lines 3421--3426
 
  []
 
 
-Overfull \hbox (5.92542pt too wide) in paragraph at lines 3435--3437
+Overfull \hbox (5.92542pt too wide) in paragraph at lines 3427--3429
 \T1/ptm/m/n/10.95 neef qofa. Fu-fiin wali-igal-tee hamma gochi-mar-ratti argamt
 etti ma-timni hima keessaa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3438--3445
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3437
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3438--3445
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3437
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3446--3451
+Underfull \hbox (badness 10000) in paragraph at lines 3438--3443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3446--3451
+Underfull \hbox (badness 10000) in paragraph at lines 3438--3443
 
  []
 
 
-Overfull \hbox (4.78763pt too wide) in paragraph at lines 3446--3451
+Overfull \hbox (4.78763pt too wide) in paragraph at lines 3438--3443
 \T1/ptm/m/n/10.95 qarshiin itti ken-namu maqaa \T1/ptm/b/n/10.95 hin-tala ishee
  \T1/ptm/m/n/10.95 jedhu yoo ta'u fu-fii boodaa {-f} maxxan-
  []
@@ -4487,18 +4561,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [153]
-Overfull \hbox (4.80962pt too wide) in paragraph at lines 3452--3453
+Overfull \hbox (4.80962pt too wide) in paragraph at lines 3444--3445
 []\T1/ptm/m/n/10.95 Dimshaashumatti, himni ce'aan yoo xin-naate, ma-tima tokko,
  an-tima tokkofi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3458--3463
+Underfull \hbox (badness 10000) in paragraph at lines 3450--3455
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3458--3463
+Underfull \hbox (badness 10000) in paragraph at lines 3450--3455
 
  []
 
@@ -4511,28 +4585,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [154]
-Overfull \hbox (5.22556pt too wide) in paragraph at lines 3464--3467
+Overfull \hbox (5.22556pt too wide) in paragraph at lines 3456--3459
 []\T1/ptm/m/n/10.95 Himootni (a) fi (b) ir-ratti eera-man kun-neen akaakuu hima
  gar-lamee keessatti
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3471--3476
+Underfull \hbox (badness 10000) in paragraph at lines 3463--3468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3471--3476
+Underfull \hbox (badness 10000) in paragraph at lines 3463--3468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3480--3484
+Underfull \hbox (badness 10000) in paragraph at lines 3472--3476
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3480--3484
+Underfull \hbox (badness 10000) in paragraph at lines 3472--3476
 
  []
 
@@ -4545,7 +4619,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [155]
-Overfull \hbox (1.13087pt too wide) in paragraph at lines 3492--3493
+Overfull \hbox (1.13087pt too wide) in paragraph at lines 3484--3485
 \T1/ptm/m/n/10.95 malee walitti hind-hiyaatanne." Hi-moonni kun-neen hi-ikaan f
 ageenyaafi dhiy-
  []
@@ -4559,38 +4633,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [156]
-Underfull \hbox (badness 10000) in paragraph at lines 3504--3508
+Underfull \hbox (badness 10000) in paragraph at lines 3496--3500
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3504--3508
+Underfull \hbox (badness 10000) in paragraph at lines 3496--3500
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3513--3518
+Underfull \hbox (badness 10000) in paragraph at lines 3505--3510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3513--3518
+Underfull \hbox (badness 10000) in paragraph at lines 3505--3510
 
  []
 
 
-Overfull \hbox (21.21077pt too wide) in paragraph at lines 3519--3524
+Overfull \hbox (21.21077pt too wide) in paragraph at lines 3511--3516
 \T1/ptm/m/n/10.95 Hima raawwata-maa keessatti fu-fiin {-tiin} an-tima al-ka-lla
 t-tii agar-si-isti. Hima raawwata-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3519--3524
+Underfull \hbox (badness 10000) in paragraph at lines 3511--3516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3519--3524
+Underfull \hbox (badness 10000) in paragraph at lines 3511--3516
 
  []
 
@@ -4603,55 +4677,55 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [157]
-Underfull \hbox (badness 10000) in paragraph at lines 3525--3535
+Underfull \hbox (badness 10000) in paragraph at lines 3517--3527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3525--3535
+Underfull \hbox (badness 10000) in paragraph at lines 3517--3527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3525--3535
+Underfull \hbox (badness 10000) in paragraph at lines 3517--3527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3525--3535
+Underfull \hbox (badness 10000) in paragraph at lines 3517--3527
 
  []
 
 
-Overfull \hbox (10.38403pt too wide) in paragraph at lines 3536--3537
+Overfull \hbox (10.38403pt too wide) in paragraph at lines 3528--3529
 []\T1/ptm/m/n/10.95 Akka fak-keenya (b) ir-ratti hubannu kana gaaleen gurbaa-ti
 in jed-hufi \T1/ptm/b/n/10.95 Tolasaa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3538--3543
+Underfull \hbox (badness 10000) in paragraph at lines 3530--3535
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3538--3543
+Underfull \hbox (badness 10000) in paragraph at lines 3530--3535
 
  []
 
 
-Overfull \hbox (17.139pt too wide) in paragraph at lines 3544--3551
+Overfull \hbox (17.139pt too wide) in paragraph at lines 3536--3543
 \T1/ptm/m/n/10.95 qeen-tee waan agar-si-if-tuuf \T1/ptm/b/n/10.95 bur-cuqoon \T
 1/ptm/m/n/10.95 ma-tima. Yoo ma-tima \T1/ptm/b/n/10.95 bur-cuqoo \T1/ptm/m/n/10
 .95 jedhu baa'ifnee
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3544--3551
+Underfull \hbox (badness 10000) in paragraph at lines 3536--3543
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3544--3551
+Underfull \hbox (badness 10000) in paragraph at lines 3536--3543
 
  []
 
@@ -4664,28 +4738,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [158]
-Overfull \hbox (3.84631pt too wide) in paragraph at lines 3552--3554
+Overfull \hbox (3.84631pt too wide) in paragraph at lines 3544--3546
 []\T1/ptm/m/n/10.95 (a)n hima ce'aadha; sababni isaas qaamni gocha raawwate jec
 huun \T1/ptm/b/n/10.95 gurbaa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3555--3563
+Underfull \hbox (badness 10000) in paragraph at lines 3547--3555
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3555--3563
+Underfull \hbox (badness 10000) in paragraph at lines 3547--3555
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3564--3569
+Underfull \hbox (badness 10000) in paragraph at lines 3556--3561
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3564--3569
+Underfull \hbox (badness 10000) in paragraph at lines 3556--3561
 
  []
 
@@ -4698,12 +4772,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [159]
-Underfull \hbox (badness 10000) in paragraph at lines 3573--3580
+Underfull \hbox (badness 10000) in paragraph at lines 3565--3572
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3573--3580
+Underfull \hbox (badness 10000) in paragraph at lines 3565--3572
 
  []
 
@@ -4716,28 +4790,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [160]
-Underfull \hbox (badness 10000) in paragraph at lines 3586--3592
+Underfull \hbox (badness 10000) in paragraph at lines 3578--3584
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3586--3592
+Underfull \hbox (badness 10000) in paragraph at lines 3578--3584
 
  []
 
 
-Overfull \hbox (1.8209pt too wide) in paragraph at lines 3603--3609
+Overfull \hbox (1.8209pt too wide) in paragraph at lines 3595--3601
 []\T1/ptm/m/n/10.95 Karaa caasi-maa himni gid-dugalaa akaakuu afur qaba. Inni t
 okko, lakkoofsa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3603--3609
+Underfull \hbox (badness 10000) in paragraph at lines 3595--3601
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3603--3609
+Underfull \hbox (badness 10000) in paragraph at lines 3595--3601
 
  []
 
@@ -4750,51 +4824,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [161]
-Overfull \hbox (7.24019pt too wide) in paragraph at lines 3610--3613
+Overfull \hbox (7.24019pt too wide) in paragraph at lines 3602--3605
 []\T1/ptm/m/n/10.95 (a) ir-ratti akka ilaala-mutti maqaan \T1/ptm/b/n/10.95 Gal
 atoo-n \T1/ptm/m/n/10.95 jedhu ma-tima yoo ta'u maqaan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3614--3619
+Underfull \hbox (badness 10000) in paragraph at lines 3606--3611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3614--3619
+Underfull \hbox (badness 10000) in paragraph at lines 3606--3611
 
  []
 
 
-Overfull \hbox (15.13544pt too wide) in paragraph at lines 3620--3623
+Overfull \hbox (15.13544pt too wide) in paragraph at lines 3612--3615
 \T1/ptm/m/n/10.95 fiin raawwata-maa lakkoofsa qood-dat-tootaa hir'isuutiin akka
  beekamtu haa yaadannu). 
  []
 
 
-Overfull \hbox (5.66399pt too wide) in paragraph at lines 3624--3631
+Overfull \hbox (5.66399pt too wide) in paragraph at lines 3616--3623
 \T1/ptm/m/n/10.95 dat-tootaa ida'u. Akaakuun kun AO keessa hed-dum-mi-naan hi-n
 argamu. Fak-keenyaaf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3624--3631
+Underfull \hbox (badness 10000) in paragraph at lines 3616--3623
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3624--3631
+Underfull \hbox (badness 10000) in paragraph at lines 3616--3623
 
  []
 
 
-Overfull \hbox (0.53851pt too wide) in paragraph at lines 3624--3631
+Overfull \hbox (0.53851pt too wide) in paragraph at lines 3616--3623
 \T1/ptm/m/n/10.95 Himni (a) ir-ratti agar-si-ifame hima hafoodha; gochimni fu-f
 ii ^^Uathinida'anne. Himni
  []
 
 
-Overfull \hbox (3.11191pt too wide) in paragraph at lines 3624--3631
+Overfull \hbox (3.11191pt too wide) in paragraph at lines 3616--3623
 \T1/ptm/m/n/10.95 (b) ir-ratti agar-si-ifameeru garuu hima gid-dugalaadha. Goch
 imni hima kana keessatti
  []
@@ -4808,44 +4882,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [162]
-Overfull \hbox (3.29875pt too wide) in paragraph at lines 3632--3640
+Overfull \hbox (3.29875pt too wide) in paragraph at lines 3624--3632
 []\T1/ptm/m/n/10.95 Akaakuun caasi-maa hima gid-dugalaa inni ar-faf-faan isa Ma
 qibsa gara gochi-
  []
 
 
-Overfull \hbox (26.46869pt too wide) in paragraph at lines 3632--3640
+Overfull \hbox (26.46869pt too wide) in paragraph at lines 3624--3632
 \T1/ptm/m/n/10.95 di-imaa, gud-daa, fur-daafi kkf ir-ratti fu-fii {-at-} ida'uu
 n hima hafoo uumuun nidanda'ama. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3632--3640
+Underfull \hbox (badness 10000) in paragraph at lines 3624--3632
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3632--3640
+Underfull \hbox (badness 10000) in paragraph at lines 3624--3632
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3644--3650
+Underfull \hbox (badness 10000) in paragraph at lines 3636--3642
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3644--3650
+Underfull \hbox (badness 10000) in paragraph at lines 3636--3642
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3651--3658
+Underfull \hbox (badness 10000) in paragraph at lines 3643--3650
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3651--3658
+Underfull \hbox (badness 10000) in paragraph at lines 3643--3650
 
  []
 
@@ -4858,39 +4932,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [163]
-Overfull \hbox (1.05368pt too wide) in paragraph at lines 3659--3660
+Overfull \hbox (1.05368pt too wide) in paragraph at lines 3651--3652
 []\T1/ptm/m/n/10.95 Himoonni ar-maan olitti agar-si-ifaman kun-neen gosti isaan
 i hima gid-dugalaa
  []
 
 
-Overfull \hbox (4.3502pt too wide) in paragraph at lines 3661--3675
+Overfull \hbox (4.3502pt too wide) in paragraph at lines 3653--3667
 []\T1/ptm/m/n/10.95 Gosti hi-ikaa hima gid-dugalaa inni biroon, osoo hin-beekii
 n qaama so-choosu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3661--3675
+Underfull \hbox (badness 10000) in paragraph at lines 3653--3667
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3661--3675
+Underfull \hbox (badness 10000) in paragraph at lines 3653--3667
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3661--3675
+Underfull \hbox (badness 10000) in paragraph at lines 3653--3667
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3661--3675
+Underfull \hbox (badness 10000) in paragraph at lines 3653--3667
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3661--3675
+Underfull \hbox (badness 10000) in paragraph at lines 3653--3667
 
  []
 
@@ -4903,32 +4977,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [164]
-Underfull \hbox (badness 10000) in paragraph at lines 3678--3694
+Underfull \hbox (badness 10000) in paragraph at lines 3670--3686
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3678--3694
+Underfull \hbox (badness 10000) in paragraph at lines 3670--3686
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3678--3694
+Underfull \hbox (badness 10000) in paragraph at lines 3670--3686
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3678--3694
+Underfull \hbox (badness 10000) in paragraph at lines 3670--3686
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3695--3704
+Underfull \hbox (badness 10000) in paragraph at lines 3687--3696
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3695--3704
+Underfull \hbox (badness 10000) in paragraph at lines 3687--3696
 
  []
 
@@ -4941,34 +5015,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [165]
-Overfull \hbox (0.50513pt too wide) in paragraph at lines 3705--3713
+Overfull \hbox (0.50513pt too wide) in paragraph at lines 3697--3705
 \T1/ptm/m/n/10.95 agar-si-isu. Himni gid-dugalaa gocha tasa raawwatame agar-si-
 isu AO keessatti beeka-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3705--3713
+Underfull \hbox (badness 10000) in paragraph at lines 3697--3705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3705--3713
+Underfull \hbox (badness 10000) in paragraph at lines 3697--3705
 
  []
 
 
-Overfull \hbox (0.40729pt too wide) in paragraph at lines 3714--3721
+Overfull \hbox (0.40729pt too wide) in paragraph at lines 3706--3713
 []\T1/ptm/m/n/10.95 Akaakuun hi-ikaa AO keessatti hed-dum-mi-naan beekamu isa f
 aayi-daa mataa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3714--3721
+Underfull \hbox (badness 10000) in paragraph at lines 3706--3713
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3714--3721
+Underfull \hbox (badness 10000) in paragraph at lines 3706--3713
 
  []
 
@@ -4981,80 +5055,80 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [166]
-Overfull \hbox (7.70078pt too wide) in paragraph at lines 3724--3725
+Overfull \hbox (7.70078pt too wide) in paragraph at lines 3716--3717
 \T1/ptm/m/n/10.95 dub-batamu). Tokko, hima qaace-sun bar-reef-famu; kana jechuu
 n himni raawwachisee
  []
 
 
-Overfull \hbox (4.85243pt too wide) in paragraph at lines 3726--3728
+Overfull \hbox (4.85243pt too wide) in paragraph at lines 3718--3720
 []\T1/ptm/m/n/10.95 AO keessatti maxxan-toota gochima taa-sisuu uuman keessaa {
 -is-} bal'inaan
  []
 
 
-Overfull \hbox (4.55806pt too wide) in paragraph at lines 3726--3728
+Overfull \hbox (4.55806pt too wide) in paragraph at lines 3718--3720
 \T1/ptm/b/n/10.95 raff-is-e \T1/ptm/m/n/10.95 fi \T1/ptm/b/n/10.95 dammaq-s-e \
 T1/ptm/m/n/10.95 ilaaluu dan-deenya. Akka-sumas fu-fiin kun hundee Maqibsa
  []
 
 
-Overfull \hbox (1.88611pt too wide) in paragraph at lines 3726--3728
+Overfull \hbox (1.88611pt too wide) in paragraph at lines 3718--3720
 \T1/ptm/m/n/10.95 yookiin maqaa ir-ratti maxxn-tee gochima taa-sisuu uumuud-han
  beekam-tu-udha. Fak-
  []
 
 
-Overfull \hbox (6.29878pt too wide) in paragraph at lines 3733--3753
+Overfull \hbox (6.29878pt too wide) in paragraph at lines 3725--3745
 \T1/ptm/m/n/10.95 gaggeessu of keessatti ham-mata. Himni gosa kanaa bak-keewwan
  gur-god-doo lamatti
  []
 
 
-Overfull \hbox (17.55501pt too wide) in paragraph at lines 3733--3753
+Overfull \hbox (17.55501pt too wide) in paragraph at lines 3725--3745
 \T1/ptm/m/n/10.95 qoodamee ilaalama. Gosni tokko hima taa-sisuu isa gochima god
 he jed-hutti fayyadamu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3733--3753
+Underfull \hbox (badness 10000) in paragraph at lines 3725--3745
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3733--3753
+Underfull \hbox (badness 10000) in paragraph at lines 3725--3745
 
  []
 
 
-Overfull \hbox (19.31758pt too wide) in paragraph at lines 3733--3753
+Overfull \hbox (19.31758pt too wide) in paragraph at lines 3725--3745
 \T1/ptm/m/n/10.95 waa gochuu isaa mul'isu. Hi-mooni hirka-toom-moo ham-mat-tuu 
 keessatti agarssifamani-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3733--3753
+Underfull \hbox (badness 10000) in paragraph at lines 3725--3745
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3733--3753
+Underfull \hbox (badness 10000) in paragraph at lines 3725--3745
 
  []
 
 
-Overfull \hbox (38.3269pt too wide) in paragraph at lines 3733--3753
+Overfull \hbox (38.3269pt too wide) in paragraph at lines 3725--3745
 \T1/ptm/m/n/10.95 hirkaataatti qaba. Hima (a) ir-ratti kan gocha raawwate mu-ca
 a yoo ta'u kan raawwachiseem-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3733--3753
+Underfull \hbox (badness 10000) in paragraph at lines 3725--3745
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3733--3753
+Underfull \hbox (badness 10000) in paragraph at lines 3725--3745
 
  []
 
@@ -5076,29 +5150,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [168]
-Underfull \hbox (badness 10000) in paragraph at lines 3759--3765
+Underfull \hbox (badness 10000) in paragraph at lines 3751--3757
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3759--3765
+Underfull \hbox (badness 10000) in paragraph at lines 3751--3757
 
  []
 
 
-Overfull \hbox (0.12271pt too wide) in paragraph at lines 3759--3765
+Overfull \hbox (0.12271pt too wide) in paragraph at lines 3751--3757
 \T1/ptm/m/n/10.95 Himni (a) ir-ratti agar-si-ifame kun hima hafoo jed-hama. Him
 ni kun ma-tima tokkoofi
  []
 
 
-Overfull \hbox (2.6084pt too wide) in paragraph at lines 3766--3771
+Overfull \hbox (2.6084pt too wide) in paragraph at lines 3758--3763
 []\T1/ptm/m/n/10.95 Fufiin {-e} jet-tum-moo gochima ir-ratti maxxan-tee ma-timn
 i gocha gaggeesse
  []
 
 
-Overfull \hbox (1.95142pt too wide) in paragraph at lines 3766--3771
+Overfull \hbox (1.95142pt too wide) in paragraph at lines 3758--3763
 \T1/ptm/m/n/10.95 malee hi-moonni kun-neen lamaan walis fakkaatu. Hi-moota lama
 anu keessa maqaan
  []
@@ -5112,22 +5186,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [169]
-Underfull \hbox (badness 10000) in paragraph at lines 3772--3779
+Underfull \hbox (badness 10000) in paragraph at lines 3764--3771
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3772--3779
+Underfull \hbox (badness 10000) in paragraph at lines 3764--3771
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3781--3789
+Underfull \hbox (badness 10000) in paragraph at lines 3773--3781
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3781--3789
+Underfull \hbox (badness 10000) in paragraph at lines 3773--3781
 
  []
 
@@ -5140,43 +5214,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [170]
-Underfull \hbox (badness 10000) in paragraph at lines 3790--3810
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3790--3810
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3802
 
  []
 
 
-Overfull \hbox (0.45238pt too wide) in paragraph at lines 3790--3810
+Overfull \hbox (0.45238pt too wide) in paragraph at lines 3782--3802
 \T1/ptm/m/n/10.95 Fakkeenyonni (a) fi (b)n gochima ce'aa gurgur- jedhu ir-ratti
  bu'uureffatu. Akkuma
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3790--3810
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3790--3810
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3790--3810
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3790--3810
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3790--3810
+Underfull \hbox (badness 10000) in paragraph at lines 3782--3802
 
  []
 
@@ -5189,22 +5263,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [171]
-Underfull \hbox (badness 10000) in paragraph at lines 3811--3825
+Underfull \hbox (badness 10000) in paragraph at lines 3803--3817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3811--3825
+Underfull \hbox (badness 10000) in paragraph at lines 3803--3817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3811--3825
+Underfull \hbox (badness 10000) in paragraph at lines 3803--3817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3811--3825
+Underfull \hbox (badness 10000) in paragraph at lines 3803--3817
 
  []
 
@@ -5217,54 +5291,54 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [172]
-Overfull \hbox (11.26949pt too wide) in paragraph at lines 3827--3838
+Overfull \hbox (11.26949pt too wide) in paragraph at lines 3819--3830
 \T1/ptm/m/n/10.95 rniyaa sadaf-faa lakkoofsa qeen-tee haa ta'u malee ma-timni g
 ocha taa-sisuu raawwachi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3827--3838
+Underfull \hbox (badness 10000) in paragraph at lines 3819--3830
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3827--3838
+Underfull \hbox (badness 10000) in paragraph at lines 3819--3830
 
  []
 
 
-Overfull \hbox (11.11568pt too wide) in paragraph at lines 3840--3866
+Overfull \hbox (11.11568pt too wide) in paragraph at lines 3832--3858
  \T1/ptm/b/n/10.95 Taa-sisuu Hafoo[] \T1/ptm/m/n/10.95 AO keessa himni taa-sisu
 u hafoo jira. Irra keessa yoo ilaalan,himni
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3866
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3858
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3866
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3858
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3866
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3858
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3866
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3858
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3866
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3858
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3866
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3858
 
  []
 
@@ -5286,27 +5360,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [174]
-Underfull \hbox (badness 10000) in paragraph at lines 3869--3883
+Underfull \hbox (badness 10000) in paragraph at lines 3861--3875
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3869--3883
+Underfull \hbox (badness 10000) in paragraph at lines 3861--3875
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3869--3883
+Underfull \hbox (badness 10000) in paragraph at lines 3861--3875
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3869--3883
+Underfull \hbox (badness 10000) in paragraph at lines 3861--3875
 
  []
 
 
-Overfull \hbox (2.81625pt too wide) in paragraph at lines 3869--3883
+Overfull \hbox (2.81625pt too wide) in paragraph at lines 3861--3875
 \T1/ptm/m/n/10.95 Himoonni ar-maan olitti eera-man kun-neen taa-sisuu al-ka-lla
 tti jed-hamu. Fak-keenyaaf
  []
@@ -5320,27 +5394,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [175]
-Underfull \hbox (badness 10000) in paragraph at lines 3884--3893
+Underfull \hbox (badness 10000) in paragraph at lines 3876--3885
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3884--3893
+Underfull \hbox (badness 10000) in paragraph at lines 3876--3885
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3884--3893
+Underfull \hbox (badness 10000) in paragraph at lines 3876--3885
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3896--3898
+Underfull \hbox (badness 10000) in paragraph at lines 3888--3890
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3896--3898
+Underfull \hbox (badness 10000) in paragraph at lines 3888--3890
 
  []
 
@@ -5353,102 +5427,102 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [176]
-Underfull \hbox (badness 10000) in paragraph at lines 3899--3902
+Underfull \hbox (badness 10000) in paragraph at lines 3891--3894
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3899--3902
+Underfull \hbox (badness 10000) in paragraph at lines 3891--3894
 
  []
 
 
-Overfull \hbox (15.73776pt too wide) in paragraph at lines 3903--3906
+Overfull \hbox (15.73776pt too wide) in paragraph at lines 3895--3898
 []\T1/ptm/m/n/10.95 (a) keessatti bar-reessi-tuun nama tokkof hayyama ken-nuu i
 shee argina. Haalum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3903--3906
+Underfull \hbox (badness 10000) in paragraph at lines 3895--3898
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3903--3906
+Underfull \hbox (badness 10000) in paragraph at lines 3895--3898
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3907--3910
+Underfull \hbox (badness 10000) in paragraph at lines 3899--3902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3907--3910
+Underfull \hbox (badness 10000) in paragraph at lines 3899--3902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
 
-Overfull \hbox (1.10867pt too wide) in paragraph at lines 3911--3941
+Overfull \hbox (1.10867pt too wide) in paragraph at lines 3903--3933
 \T1/ptm/m/n/10.95 ma-ti-moonni hi-moota kan-neen keessatti mul'atan uumama lub-
 buu hin qabne. Waan
  []
 
 
-Overfull \hbox (32.0315pt too wide) in paragraph at lines 3911--3941
+Overfull \hbox (32.0315pt too wide) in paragraph at lines 3903--3933
 \T1/ptm/m/n/10.95 kana ta'eefis ma-ti-moonni kun-neen itti yaadanii gocha tokko
  hin-raawwanne. Gochaawwan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
 
-Overfull \hbox (9.5731pt too wide) in paragraph at lines 3911--3941
+Overfull \hbox (9.5731pt too wide) in paragraph at lines 3903--3933
 \T1/ptm/m/n/10.95 godha. (b) keessatti dubar-tiin tokko hoolota mana gadi yaafi
 -tee bob-baa-suun to'annaa
  []
 
 
-Overfull \hbox (0.96631pt too wide) in paragraph at lines 3911--3941
+Overfull \hbox (0.96631pt too wide) in paragraph at lines 3903--3933
 \T1/ptm/m/n/10.95 akka gaggeessitu hubachaa jirra. Waan kana ta'eef hi-moonni k
 un-neen hi-ika to'atee
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3941
+Underfull \hbox (badness 10000) in paragraph at lines 3903--3933
 
  []
 
@@ -5461,18 +5535,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [177]
-Overfull \hbox (5.71869pt too wide) in paragraph at lines 3942--3946
+Overfull \hbox (5.71869pt too wide) in paragraph at lines 3934--3938
 \T1/ptm/m/n/10.95 osoo hin raawwatamiin ykn osoo hin mul'atiin akka raawwatamee
  ykn akka mul'ate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3942--3946
+Underfull \hbox (badness 10000) in paragraph at lines 3934--3938
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3942--3946
+Underfull \hbox (badness 10000) in paragraph at lines 3934--3938
 
  []
 
@@ -5505,7 +5579,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[180]) (./caasluga.ind)
+[180])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -5514,15 +5588,73 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[181] (./caasluga.aux) ) 
+[181]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[182
+
+]
+runsystem(makeindex caasluga.idx)...executed safely (allowed).
+
+ (./caasluga.ind
+Overfull \hbox (13.59619pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 fii/iyyaafannoo, 
+ []
+
+
+Overfull \hbox (17.24234pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10.95 lamee/waliyyoo, 
+ []
+
+[183
+
+]
+Overfull \hbox (4.69362pt too wide) in paragraph at lines 98--99
+[]\T1/ptm/m/n/10.95 gosagaloomii/firoomii, 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[184]
+Overfull \hbox (16.71663pt too wide) in paragraph at lines 158--159
+\T1/ptm/m/n/10.95 akkaataa/haalaa, 
+ []
+
+
+Overfull \hbox (3.34703pt too wide) in paragraph at lines 164--165
+\T1/ptm/m/n/10.95 lakkaa'amne, 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[185] (./caasluga.aux) ) 
 Here is how much of TeX's memory you used:
- 32304 strings out of 478287
- 730776 string characters out of 5849289
- 953817 words of memory out of 5000000
- 50065 multiletter control sequences out of 15000+600000
+ 32891 strings out of 478287
+ 740938 string characters out of 5849289
+ 964840 words of memory out of 5000000
+ 50630 multiletter control sequences out of 15000+600000
  535010 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 181i,12n,159p,1907b,3124s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 181i,12n,159p,1601b,3124s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.
 enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fon
@@ -5530,10 +5662,10 @@ ts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/
 share/texmf/fonts/type1/fkr/tipa/xipa10.pfb>
-Output written on caasluga.pdf (181 pages, 329846 bytes).
+Output written on caasluga.pdf (185 pages, 333175 bytes).
 PDF statistics:
- 624 PDF objects out of 1000 (max. 8388607)
- 424 compressed objects within 5 object streams
+ 636 PDF objects out of 1000 (max. 8388607)
+ 432 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
