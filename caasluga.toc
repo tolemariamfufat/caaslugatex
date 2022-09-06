@@ -32,38 +32,38 @@
 \contentsline {subsection}{\numberline {3.3.2}Caasaa Birsaga}{46}{}%
 \contentsline {subsubsection}{Gaaffilee Boqonnichaa}{49}{}%
 \contentsline {chapter}{\numberline {4}Xindhamjecha}{51}{}%
-\contentsline {subsection}{\numberline {4.0.1}Seensa}{51}{}%
 \contentsline {subsubsection}{Qabiyyee Boqonnaa}{51}{}%
 \contentsline {subsubsection}{Gaaffilee Ka'umsaa}{51}{}%
-\contentsline {section}{\numberline {4.1}Maqaa}{55}{}%
-\contentsline {subsection}{\numberline {4.1.1}Maqaa Dhalatoo}{56}{}%
-\contentsline {subsection}{\numberline {4.1.2}Maqaafi Korneyaa}{58}{}%
-\contentsline {subsection}{\numberline {4.1.3}Maqaafi Lakkoofsa}{59}{}%
-\contentsline {subsection}{\numberline {4.1.4}Maqaa Beekamaafi Dhokataa}{60}{}%
-\contentsline {subsection}{\numberline {4.1.5}Maayii Maqaa}{61}{}%
+\contentsline {section}{\numberline {4.1}Seensa}{52}{}%
+\contentsline {section}{\numberline {4.2}Maqaa}{55}{}%
+\contentsline {subsection}{\numberline {4.2.1}Maqaa Dhalatoo}{56}{}%
+\contentsline {subsection}{\numberline {4.2.2}Maqaafi Korneyaa}{58}{}%
+\contentsline {subsection}{\numberline {4.2.3}Maqaafi Lakkoofsa}{59}{}%
+\contentsline {subsection}{\numberline {4.2.4}Maqaa Beekamaafi Dhokataa}{60}{}%
+\contentsline {subsection}{\numberline {4.2.5}Maayii Maqaa}{61}{}%
 \contentsline {subsubsection}{Gaaffilee Kutichaa}{63}{}%
-\contentsline {section}{\numberline {4.2}Maqibsa}{65}{}%
-\contentsline {subsection}{\numberline {4.2.1}Maqibsa Dhalatoo}{66}{}%
-\contentsline {subsection}{\numberline {4.2.2}Maqibsa, lakkoofsafi korneyaa}{66}{}%
+\contentsline {section}{\numberline {4.3}Maqibsa}{65}{}%
+\contentsline {subsection}{\numberline {4.3.1}Maqibsa Dhalatoo}{66}{}%
+\contentsline {subsection}{\numberline {4.3.2}Maqibsa, lakkoofsafi korneyaa}{66}{}%
 \contentsline {subsubsection}{Gaaffilee kutichaa}{66}{}%
-\contentsline {section}{\numberline {4.3}Agarsiistotaafi Lakkoofsota}{68}{}%
-\contentsline {subsection}{\numberline {4.3.1}Agarsiistota}{68}{}%
+\contentsline {section}{\numberline {4.4}Agarsiistotaafi Lakkoofsota}{68}{}%
+\contentsline {subsection}{\numberline {4.4.1}Agarsiistota}{68}{}%
 \contentsline {subsubsection}{Agarsiistota Dhiyeenyaa}{68}{}%
 \contentsline {subsubsection}{ Agarsiistotaa Fageenyaa}{69}{}%
-\contentsline {subsection}{\numberline {4.3.2}Lakkoofsa}{70}{}%
+\contentsline {subsection}{\numberline {4.4.2}Lakkoofsa}{70}{}%
 \contentsline {subsubsection}{Lakkoofsa Hammamtaa}{70}{}%
 \contentsline {subsubsection}{Lakkoofsa Meeqantaa}{70}{}%
 \contentsline {subsubsection}{Gaaffilee kutichaa}{71}{}%
-\contentsline {section}{\numberline {4.4}Bamaqaalee}{72}{}%
-\contentsline {subsection}{\numberline {4.4.1} Bamaqaalee Qabeentaa}{73}{}%
+\contentsline {section}{\numberline {4.5}Bamaqaalee}{72}{}%
+\contentsline {subsection}{\numberline {4.5.1} Bamaqaalee Qabeentaa}{73}{}%
 \contentsline {subsubsection}{Bamaqaalee Gaaffii}{73}{}%
 \contentsline {subsubsection}{Bamaqaalee Ofiifee}{75}{}%
 \contentsline {subsubsection}{Bamaqaalee Garlamee}{75}{}%
 \contentsline {subsubsection}{Bamaqaalee Agarsiistuu}{75}{}%
 \contentsline {subsubsection}{Gaaffilee kutichaa}{76}{}%
-\contentsline {section}{\numberline {4.5}Gochima}{77}{}%
-\contentsline {subsection}{\numberline {4.5.1}Ramaddii Gochimarratti}{77}{}%
-\contentsline {subsection}{\numberline {4.5.2}Hennaa}{77}{}%
+\contentsline {section}{\numberline {4.6}Gochima}{77}{}%
+\contentsline {subsection}{\numberline {4.6.1}Ramaddii Gochimarratti}{77}{}%
+\contentsline {subsection}{\numberline {4.6.2}Hennaa}{77}{}%
 \contentsline {subsubsection}{Seensa}{77}{}%
 \contentsline {subsubsection}{Hennaa Salphaa}{79}{}%
 \contentsline {paragraph}{Aldhumataa}{79}{}%
@@ -75,61 +75,66 @@
 \contentsline {paragraph}{Amsiqaa}{82}{}%
 \contentsline {paragraph}{Tarsiqaa}{83}{}%
 \contentsline {paragraph}{Murannaa}{84}{}%
-\contentsline {subsection}{\numberline {4.5.3}Tarree Gochimaa}{85}{}%
-\contentsline {subsection}{\numberline {4.5.4}Gochima Dhalatoo}{86}{}%
+\contentsline {subsection}{\numberline {4.6.3}Tarree Gochimaa}{85}{}%
+\contentsline {subsection}{\numberline {4.6.4}Gochima Dhalatoo}{86}{}%
 \contentsline {subsubsection}{Gochimaa Taasisuu}{87}{}%
 \contentsline {subsubsection}{Gochima Gidduugalaa}{88}{}%
 \contentsline {subsubsection}{Gochima Raawwatamaa}{89}{}%
 \contentsline {subsubsection}{Gochimaa Irradeebii}{89}{}%
 \contentsline {subsubsection}{Makoo Gochima Dhalatoo}{90}{}%
 \contentsline {subsubsection}{Gochima Tiishoo}{90}{}%
-\contentsline {subsection}{\numberline {4.5.5}Gochima Tahuu/Ta'uu}{91}{}%
-\contentsline {subsection}{\numberline {4.5.6}Gochima Qabeenyaa}{92}{}%
+\contentsline {subsection}{\numberline {4.6.5}Gochima Tahuu/Ta'uu}{91}{}%
+\contentsline {subsection}{\numberline {4.6.6}Gochima Qabeenyaa}{92}{}%
 \contentsline {subsubsection}{Gaaffilee Boqonnichaa }{92}{}%
-\contentsline {subsection}{\numberline {4.5.7}Jechoota Tajaajilaa}{94}{}%
+\contentsline {subsection}{\numberline {4.6.7}Jechoota Tajaajilaa}{94}{}%
 \contentsline {subsubsection}{Durduubee}{94}{}%
 \contentsline {subsubsection}{Walqabsiistota}{95}{}%
 \contentsline {subsubsection}{Xiyyeeffannoo}{97}{}%
 \contentsline {subsubsection}{Gaaffilee Kutichaa }{99}{}%
-\contentsline {section}{\numberline {4.6}Gochimibsa}{100}{}%
+\contentsline {section}{\numberline {4.7}Gochimibsa}{100}{}%
 \contentsline {subsubsection}{Gaaffilee Boqonnichaa}{101}{}%
 \contentsline {chapter}{\numberline {5}Caashima}{103}{}%
-\contentsline {section}{\numberline {5.1}Gaalee Maqaa}{104}{}%
-\contentsline {subsubsection}{Gaaffilee Kutichaa}{111}{}%
-\contentsline {section}{\numberline {5.2}Gaalee Maqibsa}{111}{}%
-\contentsline {section}{\numberline {5.3}Gaalee Durduubeefi Gochimibsaa}{113}{}%
-\contentsline {section}{\numberline {5.4}Gaalee Gochimaa}{119}{}%
-\contentsline {subsection}{\numberline {5.4.1}Gaalee Gochima Hafoo}{120}{}%
-\contentsline {subsection}{\numberline {5.4.2}Gaalee Gochima Ce'aa}{120}{}%
-\contentsline {subsection}{\numberline {5.4.3}Gaalee Gochima Taasisuu}{123}{}%
-\contentsline {subsection}{\numberline {5.4.4}Gochima Hima Guuttu Godhatu}{124}{}%
-\contentsline {section}{\numberline {5.5}Hima}{128}{}%
-\contentsline {subsection}{\numberline {5.5.1}Hima Ce'aa}{128}{}%
-\contentsline {subsection}{\numberline {5.5.2}Hima Raawwatamaa}{130}{}%
-\contentsline {subsection}{\numberline {5.5.3}Hima Taasisuu}{133}{}%
-\contentsline {subsubsection}{Taasisuu Tokkeessoo}{134}{}%
-\contentsline {subsubsection}{Taasisuu Lammeessoo}{135}{}%
-\contentsline {subsection}{\numberline {5.5.4}Hima Hirkataa}{137}{}%
-\contentsline {subsubsection}{Ciroo Firoomsee}{138}{}%
-\contentsline {subsubsection}{Ciroo Guuttuu}{139}{}%
-\contentsline {subsubsection}{Ciroo Gochimibsaa}{140}{}%
-\contentsline {subsubsection}{Gaaffilee Boqonnichaa }{143}{}%
-\contentsline {chapter}{\numberline {6}Hiikcaasimaa}{145}{}%
-\contentsline {section}{\numberline {6.1}Seensa}{145}{}%
-\contentsline {section}{\numberline {6.2}Hiikcaasima Hima Hafoo}{146}{}%
-\contentsline {section}{\numberline {6.3}Hiikcaasima Hima Ta'uu}{148}{}%
+\contentsline {subsubsection}{Qabiyyee}{103}{}%
+\contentsline {subsubsection}{Gaaffiilee Ka'umsaa}{103}{}%
+\contentsline {section}{\numberline {5.1}Seensa}{104}{}%
+\contentsline {section}{\numberline {5.2}Gaalee Maqaa}{104}{}%
+\contentsline {subsubsection}{Gaaffilee Kutichaa}{112}{}%
+\contentsline {section}{\numberline {5.3}Gaalee Maqibsa}{112}{}%
+\contentsline {section}{\numberline {5.4}Gaalee Durduubeefi Gochimibsaa}{114}{}%
+\contentsline {section}{\numberline {5.5}Gaalee Gochimaa}{120}{}%
+\contentsline {subsection}{\numberline {5.5.1}Gaalee Gochima Hafoo}{121}{}%
+\contentsline {subsection}{\numberline {5.5.2}Gaalee Gochima Ce'aa}{121}{}%
+\contentsline {subsection}{\numberline {5.5.3}Gaalee Gochima Taasisuu}{124}{}%
+\contentsline {subsection}{\numberline {5.5.4}Gochima Hima Guuttu Godhatu}{125}{}%
+\contentsline {section}{\numberline {5.6}Hima}{129}{}%
+\contentsline {subsection}{\numberline {5.6.1}Hima Ce'aa}{129}{}%
+\contentsline {subsection}{\numberline {5.6.2}Hima Raawwatamaa}{131}{}%
+\contentsline {subsection}{\numberline {5.6.3}Hima Taasisuu}{134}{}%
+\contentsline {subsubsection}{Taasisuu Tokkeessoo}{135}{}%
+\contentsline {subsubsection}{Taasisuu Lammeessoo}{136}{}%
+\contentsline {subsection}{\numberline {5.6.4}Hima Hirkataa}{138}{}%
+\contentsline {subsubsection}{Ciroo Firoomsee}{139}{}%
+\contentsline {subsubsection}{Ciroo Guuttuu}{140}{}%
+\contentsline {subsubsection}{Ciroo Gochimibsaa}{141}{}%
+\contentsline {subsubsection}{Gaaffilee Boqonnichaa }{144}{}%
+\contentsline {chapter}{\numberline {6}Hiikcaasima}{145}{}%
+\contentsline {subsubsection}{Qabiyyee}{145}{}%
+\contentsline {subsubsection}{Gaaffilee Ka'umsaa}{145}{}%
+\contentsline {section}{\numberline {6.1}Seensa}{146}{}%
+\contentsline {section}{\numberline {6.2}Hiikcaasima Hima Hafoo}{147}{}%
+\contentsline {section}{\numberline {6.3}Hiikcaasima Hima Ta'uu}{149}{}%
 \contentsline {section}{\numberline {6.4}Hiikcaasima Hima Ce'aa}{151}{}%
 \contentsline {section}{\numberline {6.5}Hiikcaasima Hima Garlamee}{154}{}%
-\contentsline {section}{\numberline {6.6}Hiikcaasima Hima Raawwatamaa}{156}{}%
-\contentsline {subsection}{\numberline {6.6.1}Hiikcaasima Raawwatamaa Dhuunfaa}{156}{}%
-\contentsline {subsection}{\numberline {6.6.2}Hiikcaasima Raawwatamaa Mit-Dhuunfaa}{159}{}%
-\contentsline {section}{\numberline {6.7}Hiikcaasima Hima Gddugalaa}{161}{}%
-\contentsline {section}{\numberline {6.8}Hiikcaasima Hima Taasisuu}{166}{}%
+\contentsline {section}{\numberline {6.6}Hiikcaasima Hima Raawwatamaa}{157}{}%
+\contentsline {subsection}{\numberline {6.6.1}Hiikcaasima Raawwatamaa Dhuunfaa}{157}{}%
+\contentsline {subsection}{\numberline {6.6.2}Hiikcaasima Raawwatamaa Mit-Dhuunfaa}{160}{}%
+\contentsline {section}{\numberline {6.7}Hiikcaasima Hima Giddugalaa}{161}{}%
+\contentsline {section}{\numberline {6.8}Hiikcaasima Hima Taasisuu}{167}{}%
 \contentsline {subsubsection}{Taasisuu Qaaccessaa}{167}{}%
-\contentsline {subsubsection}{Taasisuu Makaa}{168}{}%
-\contentsline {paragraph}{Taasisuu Qeentee}{168}{}%
+\contentsline {subsubsection}{Taasisuu Makaa}{169}{}%
+\contentsline {paragraph}{Taasisuu Qeentee}{169}{}%
 \contentsline {paragraph}{Taasisuu Lammeessoo/Sadeessoo}{170}{}%
-\contentsline {paragraph}{Taasisuu Matima Dhokataa}{172}{}%
+\contentsline {paragraph}{Taasisuu Matima Dhokataa}{173}{}%
 \contentsline {paragraph}{Taasisuu Hafoo}{173}{}%
-\contentsline {subsubsection}{Hiika Hima Taasisuu}{174}{}%
+\contentsline {subsubsection}{Hiika Hima Taasisuu}{175}{}%
 \contentsline {section}{Kitaabilee Wabii}{180}{}%
