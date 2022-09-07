@@ -125,17 +125,17 @@
 \contentsline {section}{\numberline {6.2}Hiikcaasima Hima Hafoo}{147}{}%
 \contentsline {section}{\numberline {6.3}Hiikcaasima Hima Ta'uu}{149}{}%
 \contentsline {section}{\numberline {6.4}Hiikcaasima Hima Ce'aa}{151}{}%
-\contentsline {section}{\numberline {6.5}Hiikcaasima Hima Garlamee}{154}{}%
+\contentsline {section}{\numberline {6.5}Hiikcaasima Hima Garlamee/Waliyyoo}{154}{}%
 \contentsline {section}{\numberline {6.6}Hiikcaasima Hima Raawwatamaa}{157}{}%
 \contentsline {subsection}{\numberline {6.6.1}Hiikcaasima Raawwatamaa Dhuunfaa}{157}{}%
-\contentsline {subsection}{\numberline {6.6.2}Hiikcaasima Raawwatamaa Mit-Dhuunfaa}{160}{}%
-\contentsline {section}{\numberline {6.7}Hiikcaasima Hima Giddugalaa}{161}{}%
+\contentsline {subsection}{\numberline {6.6.2}Hiikcaasima Raawwatamaa Mit-Dhuunfaa }{160}{}%
+\contentsline {section}{\numberline {6.7}Hiikcaasima Hima Giddugalaa }{161}{}%
 \contentsline {section}{\numberline {6.8}Hiikcaasima Hima Taasisuu}{167}{}%
-\contentsline {subsubsection}{Taasisuu Qaaccessaa}{167}{}%
+\contentsline {subsubsection}{Taasisuu Qaaccessaa }{167}{}%
 \contentsline {subsubsection}{Taasisuu Makaa}{169}{}%
 \contentsline {paragraph}{Taasisuu Qeentee}{169}{}%
-\contentsline {paragraph}{Taasisuu Lammeessoo/Sadeessoo}{170}{}%
-\contentsline {paragraph}{Taasisuu Matima Dhokataa}{173}{}%
+\contentsline {paragraph}{Taasisuu Lammeessoofi Sadeessoo }{170}{}%
+\contentsline {paragraph}{Taasisuu Matima Dhokataa }{173}{}%
 \contentsline {paragraph}{Taasisuu Hafoo}{173}{}%
-\contentsline {subsubsection}{Hiika Hima Taasisuu}{175}{}%
+\contentsline {subsubsection}{Hiika Hima Taasisuu }{175}{}%
 \contentsline {section}{Kitaabilee Wabii}{180}{}%

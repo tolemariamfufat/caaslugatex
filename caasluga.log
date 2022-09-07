@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  6 SEP 2022 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  7 SEP 2022 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5312,7 +5312,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3829--3840
 
 Overfull \hbox (11.11568pt too wide) in paragraph at lines 3842--3868
  \T1/ptm/b/n/10.95 Taa-sisuu Hafoo[] \T1/ptm/m/n/10.95 AO keessa himni taa-sisu
-u hafoo jira. Irra keessa yoo ilaalan,himni
+u hafoo []jira. Irra keessa yoo ilaalan,himni
  []
 
 
@@ -5623,6 +5623,11 @@ Overfull \hbox (4.69362pt too wide) in paragraph at lines 98--99
  []
 
 
+Overfull \hbox (17.24234pt too wide) in paragraph at lines 113--114
+\T1/ptm/m/n/10.95 lamee/waliyyoo, 
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -5631,16 +5636,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [184]
-Overfull \hbox (16.71663pt too wide) in paragraph at lines 158--159
+Overfull \hbox (16.71663pt too wide) in paragraph at lines 167--168
 \T1/ptm/m/n/10.95 akkaataa/haalaa, 
  []
 
 
-Overfull \hbox (3.34703pt too wide) in paragraph at lines 164--165
+Overfull \hbox (3.34703pt too wide) in paragraph at lines 173--174
 \T1/ptm/m/n/10.95 lakkaa'amne, 
  []
 
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -5649,7 +5653,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[185] (./caasluga.aux) ) 
+[185])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[186] (./caasluga.aux) ) 
 Here is how much of TeX's memory you used:
  32891 strings out of 478287
  740938 string characters out of 5849289
@@ -5665,10 +5678,10 @@ ts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/
 share/texmf/fonts/type1/fkr/tipa/xipa10.pfb>
-Output written on caasluga.pdf (185 pages, 333529 bytes).
+Output written on caasluga.pdf (186 pages, 334137 bytes).
 PDF statistics:
- 636 PDF objects out of 1000 (max. 8388607)
- 432 compressed objects within 5 object streams
+ 639 PDF objects out of 1000 (max. 8388607)
+ 434 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
